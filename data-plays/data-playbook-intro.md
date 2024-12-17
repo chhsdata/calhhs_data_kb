@@ -85,8 +85,7 @@ In addition to the five plays, the Playbook also includes action items, a resour
 * [Success Stories](https://chhsdata.github.io/dataplaybook/success_stories/)
 * [GitHub Project](https://github.com/CHHSData/DataPlaybook)
 
-If you need help accessing any of the materials in the Playbook, please contact [dataplaybook@chhs.ca.gov](mailto:dataplaybook@chhs.ca.gov).\
-
+If you need help accessing any of the materials in the Playbook, please contact [dataplaybook@chhs.ca.gov](mailto:dataplaybook@chhs.ca.gov).\\
 
 ***
 
@@ -94,5 +93,4 @@ If you need help accessing any of the materials in the Playbook, please contact 
 
 Below are the links to the various documents and guides that are part of the CalHHS Data Resource Terminal.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><strong>Data De-Identification Guidelines</strong></h3></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3><strong>Open Data Handbook</strong></h3></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3>Data Playbook</h3></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3>Data Sharing Guide</h3></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><strong>Data De-Identification Guidelines</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4><strong>Open Data Handbook</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Playbook</h4></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Sharing Guide</h4></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>

@@ -1,6 +1,6 @@
 ---
 icon: files-medical
-cover: .gitbook/assets/Picture6 (1).png
+cover: data-plays/.gitbook/assets/Picture6%20(1).png
 coverY: -36
 layout:
   cover:
@@ -28,7 +28,7 @@ Data is a core facilitator for the California Health and Human Services (CalHHS)
 
 Realizing this vision requires data flow across the Agency’s departments and partner organizations. The CalHHS Data-Sharing Guidebook’s purpose is to be an asset that is broadly applicable to departments with various levels of data-sharing capabilities and experience. The diagram below provides the CalHHS Data-Sharing Guidebook’s purpose in California’s data- sharing ecosystem.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="data-plays/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The Guide is composed of two sections:
 
@@ -51,5 +51,4 @@ The Guidebook’s primary audience is data coordinators and data management team
 
 Below are the links to the various documents and guides that are part of the CalHHS Data Resource Terminal.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><strong>Data De-Identification Guidelines</strong></h3></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3><strong>Open Data Handbook</strong></h3></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3>Data Playbook</h3></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h3>Data Sharing Guide</h3></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><strong>Data De-Identification Guidelines</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4><strong>Open Data Handbook</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Playbook</h4></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Sharing Guide</h4></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr></tbody></table>
