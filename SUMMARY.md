@@ -27,12 +27,13 @@
 
 * [Play 1](data-plays-1/play-1.md)
 * [Play 2](data-plays-1/play-2.md)
+* [Play 3](data-plays-1/play-3.md)
 * [Play 4](data-plays-1/play-4.md)
 * [Play 5](data-plays-1/play-5.md)
 * [Play 6](data-plays-1/play-6.md)
 * [Play 7](data-plays-1/play-7.md)
 * [Play 8](data-plays-1/play-8.md)
 
-***
+## Data De-Identification <a href="#ddg" id="ddg"></a>
 
-* [Play 3](play-3.md)
+* [Page 1](ddg/page-1.md)
