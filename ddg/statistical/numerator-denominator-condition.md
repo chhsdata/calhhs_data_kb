@@ -1,0 +1,13 @@
+# Numerator-Denominator Condition
+
+The Numerator – Denominator Condition represents a combination of both the Numerator Condition and Denominator Condition and for which both conditions must be met or else a more detailed assessment is required. This may be considered as an initial screening of a data set.
+
+Numerator – number of events with the characteristics of the given row and column
+
+Denominator – the population from which the events arise
+
+The Numerator Condition sets a lower limit for the cell size of cells displayed in a table.  The DDG has set this limit as any value representing aggregated or summarized records which are derived from less than 11 individuals (clients). Of note, values of zero (0) are typically shown since a non-event cannot be identified.&#x20;
+
+The Denominator Condition sets a minimum value for the denominator. The DDG has identified the lower limit for the denominator to be a minimum value of 20,000.
+
+Since this is a Numerator – Denominator Condition, both the minimum cell size for the numerator and denominator must be met. If these conditions are met, the table can move to Step 5 for consideration for release to the public. If either the numerator of denominator condition is not met, then the review of the data must proceed to Step 3.
