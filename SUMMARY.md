@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open Data Handbook](README.md)
+* [Data Sharing Knowledge Base](README.md)
 * [action-items](action-items.md)
 * [assess](assess.md)
 * [data-plays](data-plays.md)
@@ -12,18 +12,27 @@
 * [Guidelines](guidelines.md)
 * [implement](implement.md)
 * [lessons-learned](lessons-learned.md)
-* [Play 1](play-1.md)
-* [Play 2](play-2.md)
-* [Play 3](play-3.md)
-* [Play 4](play-4.md)
-* [Play 5](play-5.md)
-* [Play 6](play-6.md)
-* [Play 7](play-7.md)
-* [Play 8](play-8.md)
 * [Resources](resources.md)
-* [Supplemental: APIs](supplemental-apis.md)
-* [Supplemental: Conducting Discovery Sessions](supplemental-conducting-discovery-sessions.md)
-* [Supplemental: Definitions](supplemental-definitions.md)
-* [Supplemental: Reference](supplemental-reference.md)
-* [Supplemental: Tools](supplemental-tools.md)
 * [Use](use.md)
+
+## Group 1
+
+* [Supplemental: APIs](group-1/supplemental-apis.md)
+* [Supplemental: Conducting Discovery Sessions](group-1/supplemental-conducting-discovery-sessions.md)
+* [Supplemental: Definitions](group-1/supplemental-definitions.md)
+* [Supplemental: Reference](group-1/supplemental-reference.md)
+* [Supplemental: Tools](group-1/supplemental-tools.md)
+
+## Data Plays
+
+* [Play 1](data-plays-1/play-1.md)
+* [Play 2](data-plays-1/play-2.md)
+* [Play 4](data-plays-1/play-4.md)
+* [Play 5](data-plays-1/play-5.md)
+* [Play 6](data-plays-1/play-6.md)
+* [Play 7](data-plays-1/play-7.md)
+* [Play 8](data-plays-1/play-8.md)
+
+***
+
+* [Play 3](play-3.md)
