@@ -2,7 +2,7 @@
 
 * [Data Sharing Introduction](README.md)
 
-## CalHHS Data Plays <a href="#plays" id="plays"></a>
+## Agency Data Plays <a href="#plays" id="plays"></a>
 
 * [About Data Plays](plays/data-playbook-intro.md)
 * [Action Items](plays/action-items.md)
@@ -23,7 +23,7 @@
 * [Lessons Learned](plays/lessons-learned.md)
 * [Success Stories](plays/success-stories.md)
 
-## CalHHS Data De-Identification Guidelines <a href="#ddg" id="ddg"></a>
+## Data De-Identification <a href="#ddg" id="ddg"></a>
 
 * [DDG Purpose](ddg/purpose.md)
 * [Background](ddg/background.md)
@@ -60,9 +60,9 @@
   * [Appendix C: State and County Population Projections](ddg/appendix/appendix-c-state-and-county-population-projections.md)
   * [Appendix D: Survey and Suppression Rules](ddg/appendix/appendix-d-survey-and-suppression-rules.md)
 
-## CalHHS Open Data <a href="#odp" id="odp"></a>
+## Open Data Handbook <a href="#odp" id="odp"></a>
 
-* [Open Data Handbook](odp/purpose.md)
+* [Open Data: Purpose](odp/purpose.md)
 * [Disclosure](odp/disclosure.md)
 * [Governance](odp/governance.md)
 * [Guidelines](odp/guidelines.md)

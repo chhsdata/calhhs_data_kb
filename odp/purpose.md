@@ -1,10 +1,10 @@
 ---
-icon: files-medical
-cover: .gitbook/assets/Artboard 1.png
+icon: mug-saucer
+cover: .gitbook/assets/Artboard%201.png
 coverY: 0
 ---
 
-# Open Data Handbook
+# Open Data: Purpose
 
 ## Purpose of the CalHHS Open Data Handbook <a href="#purpose-of-the-chhs-open-data-handbook" id="purpose-of-the-chhs-open-data-handbook"></a>
 

@@ -1,5 +1,5 @@
 ---
-icon: files-medical
+icon: down-left-and-up-right-to-center
 cover: data-plays/.gitbook/assets/Picture6%20(1).png
 coverY: -36
 layout:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Data Sharing: Introduction
+# Data Sharing Introduction
 
 ## Introducing the CalHHS Data-Sharing Guidebook
 

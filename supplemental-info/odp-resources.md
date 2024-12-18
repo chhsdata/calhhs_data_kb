@@ -1,5 +1,6 @@
 ---
 description: CalHHS Data Sharing Resources
+icon: shelves
 ---
 
 # Resources

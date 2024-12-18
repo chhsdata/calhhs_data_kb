@@ -1,5 +1,6 @@
 ---
 description: Contains both terms and acronyms for CalHHS Data Sharing.
+icon: memo-circle-info
 ---
 
 # Glossary of Terms
