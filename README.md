@@ -1,7 +1,8 @@
 ---
 icon: down-left-and-up-right-to-center
-cover: data-plays/.gitbook/assets/Picture6%20(1).png
-coverY: -36
+cover: >-
+  https://images.unsplash.com/photo-1580983559367-0dc2f8934365?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxkYXRhJTIwc2hhcmluZ3xlbnwwfHx8fDE3MzQ1NjA5NDB8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true
