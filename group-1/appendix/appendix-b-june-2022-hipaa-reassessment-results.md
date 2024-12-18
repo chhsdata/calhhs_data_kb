@@ -1,12 +1,22 @@
 # Appendix B: June 2022 HIPAA Reassessment Results
 
-The [Center for Data Insights and Innovation](https://www.cdii.ca.gov/compliance-and-policy/health-information-entity-status-assessment/) (CDII) is authorized by state statute to coordinate and monitor Health Insurance Portability and Accountability Act (HIPAA) compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. To help ensure full compliance with HIPAA, CDII, conducted a reassessment with all State Departments in February and March 2022. \[1]  Note the asterisk (\*) means the entity was added to the list per the 2022 review.
+The [Center for Data Insights and Innovation](https://www.cdii.ca.gov/compliance-and-policy/health-information-entity-status-assessment/) (CDII) is authorized by state statute to coordinate and monitor Health Insurance Portability and Accountability Act (HIPAA) compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. To help ensure full compliance with HIPAA, CDII, conducted a reassessment with all State Departments in February and March 2022. \[1] Note the asterisk (\*) means the entity was added to the list per the 2022 review.
 
-**Covered Entities and Business Associates** – Subject to CDII oversight (including compliance reviews)
+
+
+{% tabs %}
+{% tab title="Covered Entities" %}
+### Covered Entities and Business Associates:
+
+Subject to CDII oversight (including compliance reviews)
 
 <table><thead><tr><th width="186">List Number</th><th>Organization</th></tr></thead><tbody><tr><td>1</td><td>Aging, Department of (CDA)</td></tr><tr><td>2</td><td>Cal State East Bay*</td></tr><tr><td>3</td><td>Cal State Fullerton*</td></tr><tr><td>4</td><td>Cal State Long Beach*</td></tr><tr><td>5</td><td>Cal State Los Angeles*</td></tr><tr><td>6</td><td>Cal State Northridge*</td></tr><tr><td>7</td><td>Cal State San Bernardino*</td></tr><tr><td>8</td><td>California Maritime Academy*</td></tr><tr><td>9</td><td>Chico State*</td></tr><tr><td>10</td><td>Corrections and Rehabilitation (CDCR), Department of / California Correctional Health Care Services (CCHCS)</td></tr><tr><td>11</td><td>CSU San Marcos*</td></tr><tr><td>12</td><td>Developmental Services, Department of (DDS)</td></tr><tr><td>13</td><td>Forestry and Fire Protection (Cal Fire), Department of</td></tr><tr><td>14</td><td>Fresno State*</td></tr><tr><td>15</td><td>General Services, Department of (DGS)</td></tr><tr><td>16</td><td>Health Care Services, Department of (DHCS)</td></tr><tr><td>17</td><td>Prison Industry Authority, California (Cal PIA)</td></tr><tr><td>18</td><td>Public Employees Retirement System (CalPERS), California</td></tr><tr><td>19</td><td>Public Health, Department of (CDPH)</td></tr><tr><td>20</td><td>Sacramento State*</td></tr><tr><td>21</td><td>San Diego State*</td></tr><tr><td>22</td><td>San Francisco State*</td></tr><tr><td>23</td><td>San Jose State*</td></tr><tr><td>24</td><td>Social Services, Department of (CDSS)</td></tr><tr><td>25</td><td>Sonoma State*</td></tr><tr><td>26</td><td>State Hospitals, Department of (DSH)</td></tr><tr><td>27</td><td>Systems Integration, Office of (OSI)</td></tr><tr><td>28</td><td>Technology, Department of (CDT)</td></tr><tr><td>29</td><td>Veterans Affairs, Department of (CalVET)</td></tr></tbody></table>
+{% endtab %}
 
-**Impacted Entities** – Impacted by State and/or Federal regulations and laws related to health information privacy (non-HIPAA). Please reference California Health and Safety Code 1302023 (et seq.) CDII’s revised statutory authority includes oversight of organizations subject to non-HIPAA health information privacy laws and regulations. CDII is developing a compliance program for non-HIPAA entities to address these other State and Federal privacy laws not included in the current HIPAA compliance program. The organizations included in this list will be subject to that newly created program.
+{% tab title="Impacted Entities" %}
+### Impacted Entities
+
+Impacted by State and/or Federal regulations and laws related to health information privacy (non-HIPAA). Please reference California Health and Safety Code 1302023 (et seq.) CDII’s revised statutory authority includes oversight of organizations subject to non-HIPAA health information privacy laws and regulations. CDII is developing a compliance program for non-HIPAA entities to address these other State and Federal privacy laws not included in the current HIPAA compliance program. The organizations included in this list will be subject to that newly created program.
 
 | List Number | Organization                                                      |
 | ----------- | ----------------------------------------------------------------- |
@@ -95,7 +105,9 @@ The [Center for Data Insights and Innovation](https://www.cdii.ca.gov/compliance
 | 83          | Victim Compensation Board                                         |
 | 84          | Water Resources, Department of                                    |
 | 85          | Workforce Development Board                                       |
+{% endtab %}
+{% endtabs %}
 
 ***
 
-\[1]  https://www.cdii.ca.gov/wp-content/uploads/2023/01/2022-Entity-Assessment-Results\_2022-06-02.pdf
+\[1] https://www.cdii.ca.gov/wp-content/uploads/2023/01/2022-Entity-Assessment-Results\_2022-06-02.pdf

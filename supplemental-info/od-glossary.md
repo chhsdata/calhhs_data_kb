@@ -1,6 +1,14 @@
-# Glossary
+---
+description: Contains both terms and acronyms for CalHHS Data Sharing.
+---
 
-This section contains explanations of common terms referenced in this CHHS Open Data Handbook.
+# Glossary of Terms
+
+## Glossary of Terms
+
+### Aggregate
+
+Formed or calculated by the combination of many separate units or items (Oxford Dictionary).
 
 ### API
 
@@ -38,6 +46,14 @@ The data steward is the person who has the greatest familiarity with and knowled
 
 A data table, in this handbook, refers to a subset of the dataset which may include a selection and/or aggregation of data from the original dataset.
 
+### De-Identified
+
+Generally defined under the HIPAA Privacy Rule (45 CFR section 164.514) as information (1) that does not identify the individual and (2) for which there is no reasonable basis to believe the individual can be identified from it.
+
+### Denominator
+
+The portion of the overall population being referenced in a table or a figure representing the total population in terms of which statistical values are expressed (Oxford Dictionary).
+
 ### Geographic Information System (GIS)
 
 A geographic information system (GIS) is a computer system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data allowing the user to question, analyze, and interpret data to understand relationships, patterns, and trends.
@@ -58,6 +74,18 @@ Refers to information or data that is in a format that can be easily processed b
 
 To facilitate common understanding, a number of characteristics, or attributes, of data are defined. These characteristics of data are known as "metadata," that is, "data that describes data." For any particular datum, the metadata may describe how the datum is represented, ranges of acceptable values, its relationship to other data, and how it should be labeled. Metadata also may provide other relevant information, such as the responsible steward, associated laws and regulations, and access management policy. Each of the types of data described above has a corresponding set of metadata. Two of the many metadata standards are the Dublin Core Metadata Initiative (DCMI) and Department of Defense Discovery Metadata Standard (DDMS). The metadata for structured data objects describes the structure, data elements, interrelationships, and other characteristics of information, including its creation, disposition, access and handling controls, formats, content, and context, as well as related audit trails. Metadata includes data element names (such as Organization Name, Address, etc.), their definition, and their format (numeric, date, text, etc.). In contrast, data is the actual data values such as the "US Patent and Trade Office" or the "Social Security Administration" for the metadata called "Organization Name." Metadata may include metrics about an organization's data including its data quality (accuracy, completeness, etc.).
 
+### Numerator
+
+The number of specific cases as identified by the variable from a given population or the number above the line in a common fraction showing how many of the parts indicated by the denominator are taken (Oxford Dictionary).
+
+### Personal Information (PI)
+
+Includes information that is maintained by an agency which identifies or describes an individual, including his or her name, social security number, physical description, home address, home telephone number, education, financial matters, email address and medical or employment history. It includes statements made by, or attributed to, the individual (California Civil Code section 1798.3).
+
+### Protected Health Information (PHI)
+
+information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual (HIPAA, 45 CFR section 160.103).
+
 ### Public Records Act (PRA) Request
 
 The process by which the public requests state or local government records.
@@ -69,6 +97,10 @@ A data table that meets one of the following criteria: (1) data that are public 
 ### RDF
 
 Resource Description Framework - a family of specifications for a metadata model. The RDF family of specifications is maintained by the World Wide Web Consortium (W3C). The RDF metadata model is based upon the idea of making statements about resources in the form of a subject-predicate-object expression…and is a major component in what is proposed by the W3C's Semantic Web activity: an evolutionary stage of the World Wide Web in which automated software can store, exchange, and utilize metadata about the vast resources of the Web, in turn enabling users to deal with those resources with greater efficiency and certainty. RDF's simple data model and ability to model disparate, abstract concepts has also led to its increasing use in knowledge management applications unrelated to Semantic Web activity.
+
+### Re-Identified
+
+Matching de-identified, or anonymized, personal information back to the individual.
 
 ### RSS
 
@@ -104,3 +136,12 @@ Data that is more free-form, such as multimedia files, images, sound files, or u
 ### XML
 
 Extensible Markup Language (XML) is a flexible language for creating common information formats and sharing both the format and content of data over the Internet and elsewhere.
+
+***
+
+## Common Acronyms <a href="#acronyms" id="acronyms"></a>
+
+Below are common acronyms across the CalHHS Data Sharing documentation. This list of acronyms is intended to be stand alone and acronyms here are duplicated from the glossary.
+
+<table data-full-width="false"><thead><tr><th>Acronym</th><th>Definition</th></tr></thead><tbody><tr><td>API</td><td>Application Programming Interface</td></tr><tr><td>.ain (or .aih)</td><td>GIS file that stores the attribute index of the active fields in a table</td></tr><tr><td>CalOHII</td><td>California Office of Health Information Integrity</td></tr><tr><td>CDC</td><td>Centers for Disease Control and Prevention</td></tr><tr><td>CDII</td><td>Center for Data Insights and Innovation</td></tr><tr><td>CDPH</td><td>California Department of Public Health</td></tr><tr><td>CDSS</td><td>Department of Social Services</td></tr><tr><td>CalHHS</td><td>California Health and Human Services Agency</td></tr><tr><td>CMS</td><td>Centers for Medicare and Medicaid Services</td></tr><tr><td>CPHS</td><td>Committee for the Protection of Human Subjects</td></tr><tr><td>CSV</td><td>Comma Separate Values</td></tr><tr><td>.dbf</td><td>GIS dBASE file that stores attribute information of the features</td></tr><tr><td>DDG</td><td>Data De-Identification Guidelines</td></tr><tr><td>DHCS</td><td>Department of Health Care Services</td></tr><tr><td>.fbn (or .fbx)</td><td>GIS file that stores spatial index of the features (read-only)</td></tr><tr><td>GIS</td><td>Geographic Information System</td></tr><tr><td>HCAI</td><td>Department of Health Care Access and Information</td></tr><tr><td>HIPAA</td><td>Health Insurance Portability and Accountability Act</td></tr><tr><td>IPA</td><td>Information Practices Act</td></tr><tr><td>JSON</td><td>JavaScript Object Notation</td></tr><tr><td>MHSOAC</td><td>Mental Health Services Oversight and Accountability Commission</td></tr><tr><td>PHI</td><td>Protected Health Information</td></tr><tr><td>PI</td><td>Personal Information</td></tr><tr><td>PII</td><td>Personally Identifiable Information</td></tr><tr><td>PRA</td><td>Public Records Act</td></tr><tr><td>.prj</td><td>GIS file that stores the coordinate system information</td></tr><tr><td>PRT</td><td>Peer Review Team</td></tr><tr><td>RDF</td><td>Resource Description Framework</td></tr><tr><td>RSS</td><td>Really Simple Syndication (Feed)</td></tr><tr><td>.sbn (or .sbx)</td><td>GIS file that stores spatial index of the features.</td></tr><tr><td>.shp</td><td>GIS shapefile that stores the feature geometry</td></tr><tr><td>.shx</td><td>GIS shapefile that stores the index of the feature geometry</td></tr><tr><td>XML</td><td>Extensible Markup Language</td></tr></tbody></table>
+

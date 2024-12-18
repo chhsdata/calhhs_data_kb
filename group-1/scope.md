@@ -67,31 +67,27 @@ Excludes information relating to individuals who are users serving in a business
 {% endtab %}
 {% endtabs %}
 
-
-
 Assessing the risk of an unauthorized disclosure that violates an individual’s right to privacy and/or confidentiality, as provided by statute, may be achieved by associating personal characteristics with a person’s identity or attributes. When these characteristics can successfully confirm an individual’s identity in a publicly released data set, then release of this data results in disclosure of personal information.
 
-Less obvious qualities in data sets and elements that may be used to identify individuals or groups can present uniqueness in data. Individual uniqueness in the released data and in the population is a quality that helps distinguish one person from another and is directly related to the re-identification of individuals in aggregate data. Disclosure risk becomes a concern when released data reveal characteristics that are unique in both the released data and in the underlying population. The risk of re-identifying an individual or group of individuals increases when unique or rare characteristics are “highly visible”, or are readily accessible by the general public without any special or privileged knowledge. Unique or rare personal characteristics (e.g., height above 7 feet) or information that isolate individuals to small demographic subgroups (e.g., American Indian Tribal membership) increase the likelihood that someone can correctly attribute information in the released data to an individual or group of individuals.\[1]&#x20;
+Less obvious qualities in data sets and elements that may be used to identify individuals or groups can present uniqueness in data. Individual uniqueness in the released data and in the population is a quality that helps distinguish one person from another and is directly related to the re-identification of individuals in aggregate data. Disclosure risk becomes a concern when released data reveal characteristics that are unique in both the released data and in the underlying population. The risk of re-identifying an individual or group of individuals increases when unique or rare characteristics are “highly visible”, or are readily accessible by the general public without any special or privileged knowledge. Unique or rare personal characteristics (e.g., height above 7 feet) or information that isolate individuals to small demographic subgroups (e.g., American Indian Tribal membership) increase the likelihood that someone can correctly attribute information in the released data to an individual or group of individuals.\[1]
 
-There are a variety of federal resources, such as the National Institute of Standards and Technology guide for “De-Identifying Government Datasets,”\[2] that also address these risks. &#x20;
+There are a variety of federal resources, such as the National Institute of Standards and Technology guide for “De-Identifying Government Datasets,”\[2] that also address these risks.
 
 ### Assessment of variables and their uniqueness
 
-There are a number of variables that are unique to individuals that have been identified in various laws and are considered identifiers (PI/PHI). There are two primary laws that describe identifiers, shown in Figure 1, in California: the IPA and the federal HIPAA. Other variables that are commonly used to publish information to the public have been called quasi-identifiers because while they are not unique by themselves, they can become unique in the right combination. The variables shown in the Publication Scoring Criteria in Figure 6 can be considered quasi-identifiers and will be discussed further in Sections 4 and 6.&#x20;
+There are a number of variables that are unique to individuals that have been identified in various laws and are considered identifiers (PI/PHI). There are two primary laws that describe identifiers, shown in Figure 1, in California: the IPA and the federal HIPAA. Other variables that are commonly used to publish information to the public have been called quasi-identifiers because while they are not unique by themselves, they can become unique in the right combination. The variables shown in the Publication Scoring Criteria in Figure 6 can be considered quasi-identifiers and will be discussed further in Sections 4 and 6.
 
 ### Assessment of risk in the context of maximizing the usefulness of the information presented
 
 The removal of PI and PHI from datasets is often considered straight-forward, because as soon as data is aggregated or summarized the majority of the data fields defined as identifiers in the IPA and HIPAA are removed. However, various characteristics of individuals may remain that alone or in combination could contribute to identifying individuals. These characteristics have been described as quasi-identifiers. Figure 2 helps demonstrate the quasi-identifier concept. For instance, there is interest in reporting about providers, where providers may be individuals, clinics, group homes, or other entities. Each of these providers has a publicly available address and has publicly available characteristics. While patients may come to a provider from anywhere, they typically will visit providers within a certain distance of their residence. Thus, by publicly publishing details on providers, data miners with malicious intent would have a targeted geography that lists locality information, types of services offered and received, and demographic information about patients. To expand on this example, data that states a provider saw two patients with heart disease does not indicate who had the heart disease nor does it reveal the identity of the two patients amongst the thousands of patients that provider sees. However, datasets that display a provider within a given region with two Black or African American female patients under age 10 with heart disease may release enough personal characteristics about the patients to successfully reveal their identity. These compounding patient details released about providers that give geography information (address), health condition (heart disease), and person-based characteristics (quasi-identifiers) of the patients puts the dataset in the overlapping area of the diagram of Figure 2. This overlap, consequently, highlights potential risks associated with seemingly innocent summary data.
 
-<figure><img src=".gitbook/assets/image (12).png" alt="Figure: Relationship of Types of Reporting Variables. Three converging circles in a Venn diagram"><figcaption><p>Figure: Relationship of Types of Reporting Variables</p></figcaption></figure>
+<figure><img src="../ddg/.gitbook/assets/image%20(12).png" alt="Figure: Relationship of Types of Reporting Variables. Three converging circles in a Venn diagram"><figcaption><p>Figure: Relationship of Types of Reporting Variables</p></figcaption></figure>
 
 ***
 
 \[1] Introduction to Statistical Disclosure Control, Templ et al. 2014
 
-\[2]   U.S. Department of Commerce, National Institute of Standards and Technology, “De-Identifying Government Datasets: Techniques and Governance”, https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf
-
-
+\[2] U.S. Department of Commerce, National Institute of Standards and Technology, “De-Identifying Government Datasets: Techniques and Governance”, https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf
 
 ***
 
@@ -99,4 +95,4 @@ The removal of PI and PHI from datasets is often considered straight-forward, be
 
 \[5] Personal Information is defined by California Civil Code section 1798.3 and Government Code section 11015.5.
 
-\[6] “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual.  (45 CFR section 160.103)
+\[6] “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual. (45 CFR section 160.103)

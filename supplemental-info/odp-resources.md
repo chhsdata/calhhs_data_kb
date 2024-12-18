@@ -1,10 +1,44 @@
 ---
-description: Open Data Resources
+description: CalHHS Data Sharing Resources
 ---
 
 # Resources
 
-## Catalogs
+## CalHHS Created Resources
+
+### CHHS Information Strategic Plan
+
+[CHHS manages a diverse portfolio](http://www.chhs.ca.gov/) of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its Departments is an immense undertaking, considering:
+
+* The scope and complexity of CHHS programs and initiatives;
+* The diversity of project management and technical expertise amongst Departments; and
+* The current state of the technology environment and the historical approach to siloed designs.
+
+The evolution of technology has provided CHHS, its Departments, local government partners and providers with a unique opportunity to transform the operational paradigm from one focused on the autonomy of individual Departments or programs to one governed in a way that maximizes benefit to the Agency as a community. This convergence of business and technology, when coordinated and managed appropriately, will better enable more client-centric services, more efficient programmatic execution and better fiscal responsibility. The Agency strives to provide a strategic direction that will evolve the manner in which stakeholders within the Agency collaborate to drive better informed investment decisions, resulting in a more effective utilization of assets and human capital. As the costs and risks of technology have grown, the necessity for a more effective approach to the management of these expensive and critical systems has become a focal point of both the state and the federal government.
+
+[Download the Strategic Plan](https://chhsdata.github.io/dataplaybook/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf)
+
+[Download the Master Data Management (MDM) Strategy Addendum](https://chhsdata.github.io/dataplaybook/documents/CHHS-Master-Data-Management-Strategy.pdf)
+
+***
+
+### CHHS Data Sharing Framework
+
+Data sharing at CHHS is governed by the CHHS data exchange agreement. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate “Business Use Case Proposals” containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data elements, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
+
+Contact your Department’s data coordinator for information on how to find and exchange CHHS data.
+
+Download the data sharing materials:
+
+* [CalHHS Data Sharing - Process Flow](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf)
+* [CalHHS Data Sharing - Legal Agreement](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf)
+* [CalHHS Data Sharing - Frequently Asked Questions (FAQs)](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS%20Data%20Sharing%20-%20FAQs.pdf)
+* [Business Use Case Proposal - Form](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx)
+* [Business Use Case Proposal - Instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf)
+
+## External Resources
+
+### Catalogs
 
 **Datacatalogs.org** | [http://datacatalogs.org/](http://datacatalogs.org/)\
 DataCatalogs.org aims to be the most comprehensive list of open data catalogs in the world. It is curated by a group of leading open data experts from around the world - including representatives from local, regional and national governments, international organizations such as the World Bank, and numerous NGOs.
@@ -12,7 +46,9 @@ DataCatalogs.org aims to be the most comprehensive list of open data catalogs in
 **LOGD Dataset Catalog** | [http://logd.tw.rpi.edu/datasets](http://logd.tw.rpi.edu/datasets)\
 The Linking Open Government Data (LOGD) project investigates opening and linking government data using Semantic web technologies. We are translating government-related datasets into RDF, linking them to the Web of Data and providing demos and tutorials on mashing up and consuming linked government data.
 
-## Conferences/Events
+***
+
+### Conferences/Events
 
 **CHCF Storytelling with Data: Sacramento** | [http://multimedia.journalism.berkeley.edu/chcfdataviz/](http://multimedia.journalism.berkeley.edu/chcfdataviz/)\
 Workshops geared toward those interested in learning how to transform data into easily understood charts and graphs, are open to health reporters and bloggers, health related non-profits, and advocacy groups, staff at state and local health agencies and legislative staff.
@@ -25,6 +61,8 @@ Health Datapalooza is a national conference focused on liberating health data, a
 
 **Transparency Camp** | [http://transparencycamp.org/](http://transparencycamp.org/)\
 Transparency Camp is an "unconference" for opengov, an event where, every year hundreds of people gather to share their knowledge about how to use new technologies and policies to make our government really work for the people—and to help people work smarter with our government.
+
+***
 
 ## Consultants
 
@@ -40,6 +78,8 @@ A business with a social mission: to provide public, private and nonprofit human
 **Urban Strategies Council** | [http://urbanstrategies.org](http://urbanstrategies.org)\
 A nonprofit research and innovation organization with decades of experience of applied spatial data analysis, social & health research, as well as a national leader in developing Open Data initiatives.
 
+***
+
 ## Funders
 
 **California Healthcare Foundation** | [http://www.chcf.org/](http://www.chcf.org/)\
@@ -48,6 +88,8 @@ CHCF works as a catalyst to fulfill the promise of better health care for all Ca
 **Robert Wood Johnson Foundation** | [http://www.rwjf.org/en.html](http://www.rwjf.org/en.html)\
 The nation's largest philanthropy devoted solely to the public's health.
 
+***
+
 ## Literature
 
 **Beyond Transparency** | [http://beyondtransparency.org/](http://beyondtransparency.org/)\
@@ -55,6 +97,8 @@ Beyond Transparency is a cross-disciplinary survey of the open data landscape, i
 
 **NNIP @ the Urban Institute** | [http://neighborhodindicators.org](http://neighborhodindicators.org)\
 The National Neighborhood Indicators Partnership (NNIP) is a collaborative effort by the Urban Institute and local partners to further the development and use of neighborhood information systems in local policymaking and community building.
+
+***
 
 ## News
 
@@ -70,9 +114,11 @@ For more than 14 years, Health Data Management has been the leading source for n
 **Nextgov.com** | [http://www.nextgov.com/big-data/open-data/63211/](http://www.nextgov.com/big-data/open-data/63211/)\
 Nextgov is the all-day information resource for federal technology decision makers. Through news, analysis and insights from our award-winning journalists and a nationwide community of expert voices, Nextgov provides the first word on technology and government.
 
-## Portals
+***
 
-### **By City**
+## Open Data Portals
+
+### **City Portals**
 
 * Boston, Massachusetts | [https://data.cityofboston.gov/](https://data.cityofboston.gov/)
 * Chicago, Illinois | [https://data.cityofchicago.org/](https://data.cityofchicago.org/)
@@ -89,7 +135,7 @@ Nextgov is the all-day information resource for federal technology decision make
 * Seattle, Washington | [https://data.seattle.gov/](https://data.seattle.gov/)
 * South Bend, Indiana | [https://data.southbendin.gov/](https://data.southbendin.gov/)
 
-### **By County**
+### **County Portals**
 
 * Alameda County, California | [https://data.acgov.org/](https://data.acgov.org/)
 * Cook County, Illinois | [https://datacatalog.cookcountyil.gov/](https://datacatalog.cookcountyil.gov/)
@@ -97,7 +143,7 @@ Nextgov is the all-day information resource for federal technology decision make
 * Strathcona County, Alberta, Canada | [https://data.strathcona.ca/](https://data.strathcona.ca/)
 * Wake County, North Carolina | [http://www.wakegov.com/data/Pages/default.aspx](http://www.wakegov.com/data/Pages/default.aspx)
 
-### **By State**
+### **State Portals**
 
 * Connecticut, USA | [https://data.ct.gov/](https://data.ct.gov/)
 * Hawaii, USA | [https://data.hawaii.gov/](https://data.hawaii.gov/)
@@ -105,16 +151,27 @@ Nextgov is the all-day information resource for federal technology decision make
 * Maryland, USA | [https://data.maryland.gov/](https://data.maryland.gov/)
 * Oregon, USA | [https://data.oregon.gov/](https://data.oregon.gov/)
 
-### **By Country**
+### **National Portals**
+
+* United States | [https://www.data.gov/](https://www.data.gov/)
+* United States | [https://healthdata.gov](https://healthdata.gov)
+* [USAFacts.org](http://usafacts.org/) – A data-driven portrait of the American population, our government’s finances, and government’s impact on society that uses federal, state, and local data from over 70 sources.
+* [CIA World Fact Book](https://www.cia.gov/library/publications/the-world-factbook/) - Provides information on the history, people, government, economy, geography, communications, transportation, military, and transnational issues for 267 world entities.
+* [openFDA](https://open.fda.gov/) – Makes it easier to get access to publicly available FDA data. FDA’s goal is to make it simple for an application, mobile device, web developer, or researcher to use data from the FDA.
+* [Census Reporter](https://censusreporter.org/) – A Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau. Place profiles and comparison pages provide a friendly interface for navigating data, including visualizations for a more useful first look.
+* [CalEnviro Screen](https://oehha.ca.gov/calenviroscreen) - A mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects.
+* [California Healthy Places Index](https://healthyplacesindex.org/) - A tool to explore community conditions that predict life expectancy. It contains user-friendly mapping and data resources at the census tract level across California.
+
+### International Portals
 
 * Canada | [http://data.gc.ca/eng](http://data.gc.ca/eng)
-* United States| [https://www.data.gov/](https://www.data.gov/)
-* Philippines | [http://data.gov.ph/](http://data.gov.ph/)
 * European Union | [http://open-data.europa.eu/en/data/](http://open-data.europa.eu/en/data/)
 * India | [http://data.gov.in/](http://data.gov.in/)
 * Kenya | [https://opendata.go.ke/](https://opendata.go.ke/)
 * United Nations | [http://data.un.org/](http://data.un.org/)
 * World Bank | [http://data.worldbank.org/](http://data.worldbank.org/)
+
+***
 
 ## Presentations
 
@@ -124,9 +181,11 @@ Open Data Project presented by the European Commission
 **Open Data in Practice Part II: The Practicalities of Open Data** | [http://www.w3.org/2012/Talks/0417-LD-Tutorial/Practice.pdf](http://www.w3.org/2012/Talks/0417-LD-Tutorial/Practice.pdf)\
 Tutorial given at the “WWW 2012 Conference” in Lyon, France on the 16th of April, 2012.
 
+***
+
 ## Reference Materials
 
-**Github** | [http://project-open-data.github.io/](http://project-open-data.github.io/)\
+**Open Datat on Github** | [http://project-open-data.github.io/](http://project-open-data.github.io/)\
 Powerful collaboration, code review, and code management for open source and private projects.
 
 **CHHS Data Release Permission Decision Tree** | [https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Release-Permission-Decision-Tree.pdf](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Release-Permission-Decision-Tree.pdf)\
@@ -135,8 +194,7 @@ Resource developed to help departments and offices determine a dataset's permiss
 **CHHS Priority Scoring Template** | [https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Priority-Scoring-Template.xlsx](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Priority-Scoring-Template.xlsx)\
 Resource developed to help departments and offices prioritize open data for publishing.
 
-**CHHS Data De-Identification Guidelines** | [https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf)\
-Guidelines developed for use across CHHS departments and offices to assist programs in assuring adequate de-identification has been performed prior to public release of data.
+***
 
 ## Solutions
 
@@ -155,10 +213,24 @@ OpenGov’s comprehensive open data and financial transparency solutions help ag
 **Socrata** | [http://www.socrata.com/](http://www.socrata.com/)\
 Socrata helps public sector organizations improve transparency, citizen service, and data-driven decision-making. Socrata's user-friendly solutions deliver data to governments trying to reduce costs, to citizens who want to understand how their tax dollars are used, and to civic hackers dedicated to creating new apps and improving services.
 
+***
+
 ## Strategic Plan
 
 **Open Data in San Francisco: Institutionalizing an Initiative** | [http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425](http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425)\
 The San Francisco strategic plan is designed to build the elements of an institutional approach to open data and data use more generally.
+
+### U.S. Digital Services Playbook
+
+The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
+
+One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/) Playbook documents these best practices and processes.
+
+The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services. The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
+
+[Access the Digital Services Playbook](https://playbook.cio.gov/)
+
+***
 
 ## Visualizations
 
