@@ -1,3 +1,7 @@
+---
+icon: list-timeline
+---
+
 # Background
 
 ## Data De-Identification Guidelines: Background
@@ -22,5 +26,4 @@ Data can change from Level 3 to Level 1 if appropriate de-identification process
 
 \[3] Gov. Code 7920.00 et seq.
 
-\[4] CalHHS’ Open Data Handbook, Version 1.1, October 2016, Data Levels Decision Tree,  [https://chhsdata.github.io/opendatahandbook/governance/](https://chhsdata.github.io/opendatahandbook/governance/)  &#x20;
-
+\[4] CalHHS’ Open Data Handbook, Version 1.1, October 2016, Data Levels Decision Tree, [https://chhsdata.github.io/opendatahandbook/governance/](https://chhsdata.github.io/opendatahandbook/governance/)

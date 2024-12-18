@@ -1,2 +1,6 @@
-# statistical
+---
+icon: chart-scatter-bubble
+---
+
+# Statistical Masking
 

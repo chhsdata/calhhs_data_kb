@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Define
 
 ## Play 01. Define: goals & objectives
@@ -39,4 +43,4 @@ There are dozens of ways each Department can use data, and the applications can 
 
 [![Action Item](https://chhsdata.github.io/dataplaybook/assets/images/01_figure02.png)](https://chhsdata.github.io/dataplaybook/action_items)
 
-[![CHHS Governance Resources](https://chhsdata.github.io/dataplaybook/assets/images/01_figure04.png)](https://chhsdata.github.io/dataplaybook/resource_library)\
+[![CHHS Governance Resources](https://chhsdata.github.io/dataplaybook/assets/images/01_figure04.png)](https://chhsdata.github.io/dataplaybook/resource_library)\\

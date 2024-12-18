@@ -1,3 +1,7 @@
+---
+icon: discourse
+---
+
 # Disclosure
 
 ## Disclosure Considerations
@@ -22,7 +26,7 @@ Another example is the Family Educational Rights and Privacy Act of 1974 (FERPA)
 
 Even in the absence of specific legal prohibitions, government entities should beware of outlier conditions or rare events that could lead to identification of individuals. For example, identifying a single arrestee who is a minor of a certain age in a certain county without providing any other information, might nonetheless serve to identify that particular individual.
 
-All data needs to be assessed for potential risk of identification of individuals represented in the data for whom there are laws that protect the privacy of those individuals. Laws include both federal and state laws. In order to assist departments and offices in this process, the CalHHS  Data Subcommittee commissioned the development of the CalHHS Data De-identification Guidelines. These Guidelines discuss various methods for assessing potential risk associated with data sets proposed for release and various statistical methods that can be used to mask data and protect individuals from being inappropriately identified in the data tables. For example, if a cell in a particular data table goes below a certain number of individuals, the value in that particular cell may be hidden. It is important to balance desires to publish accurate, complete, and valuable tabulations against the need to guard against unwarranted invasions of personal privacy. Refer to the [CalHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf) for the specific procedures to be used by departments and offices to assess data for public release.
+All data needs to be assessed for potential risk of identification of individuals represented in the data for whom there are laws that protect the privacy of those individuals. Laws include both federal and state laws. In order to assist departments and offices in this process, the CalHHS Data Subcommittee commissioned the development of the CalHHS Data De-identification Guidelines. These Guidelines discuss various methods for assessing potential risk associated with data sets proposed for release and various statistical methods that can be used to mask data and protect individuals from being inappropriately identified in the data tables. For example, if a cell in a particular data table goes below a certain number of individuals, the value in that particular cell may be hidden. It is important to balance desires to publish accurate, complete, and valuable tabulations against the need to guard against unwarranted invasions of personal privacy. Refer to the [CalHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf) for the specific procedures to be used by departments and offices to assess data for public release.
 
 ## PRA Applicability
 

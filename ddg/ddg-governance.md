@@ -1,3 +1,7 @@
+---
+icon: gavel
+---
+
 # DDG Governance
 
 Governance for DDG will be provided by the Data Subcommittee with support from the Risk Management Subcommittee. The Subcommittees are part of the CalHHS governance structure as described in the CalHHS Information Strategic Plan.\[1] \[A1] Governance for the CalHHS DDG will provide the following support for departments and offices.
@@ -18,10 +22,10 @@ The PRT will have the following responsibilities:
 * Provide for escalation and review of data de-identification questions or issues that a department is not comfortable resolving independently.
 * Develop training tools to be used by departments when developing and implementing department specific DDGs based on the content of the CalHHS DDG.
 
-The PRT will not review all disclosures or data released by each department.&#x20;
+The PRT will not review all disclosures or data released by each department.
 
 ***
 
 \[1] California Health and Human Services Agency, Information Strategic Plan 2016.
 
-\[2] Statewide Health Information Policy Manual, [https://www.cdii.ca.gov/compliance-and-policy/statewide-health-information-policy-manual-shipm/](https://www.cdii.ca.gov/compliance-and-policy/statewide-health-information-policy-manual-shipm/) &#x20;
+\[2] Statewide Health Information Policy Manual, [https://www.cdii.ca.gov/compliance-and-policy/statewide-health-information-policy-manual-shipm/](https://www.cdii.ca.gov/compliance-and-policy/statewide-health-information-policy-manual-shipm/)

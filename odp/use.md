@@ -1,3 +1,7 @@
+---
+icon: creative-commons-pd
+---
+
 # Use
 
 ## Public Use of the CHHS Open Data Portal

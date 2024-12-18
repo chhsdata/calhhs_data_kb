@@ -1,8 +1,12 @@
+---
+icon: creative-commons-pd
+---
+
 # Publicly Available Data
 
-A critical step in reviewing data for public release is the consideration of what other data may be publicly available that could be used in combination with the newly released data to identify the individuals represented in the data. This section will highlight some specific data sets that are publicly available that may be used in combination with CalHHS data that would contribute to potential increased risk.&#x20;
+A critical step in reviewing data for public release is the consideration of what other data may be publicly available that could be used in combination with the newly released data to identify the individuals represented in the data. This section will highlight some specific data sets that are publicly available that may be used in combination with CalHHS data that would contribute to potential increased risk.
 
-Common kinds of data with personal information include: real estate records, individual licensing databases (MD, RN, contractors, lawyers, etc.), marriage records, news (and other) media reports, commercially available databases (data brokers, marketing), court documents, etc.&#x20;
+Common kinds of data with personal information include: real estate records, individual licensing databases (MD, RN, contractors, lawyers, etc.), marriage records, news (and other) media reports, commercially available databases (data brokers, marketing), court documents, etc.
 
 ### Vital Records Data
 
@@ -34,16 +38,16 @@ Other potential sources of publicly available data to consider are informational
 
 ### CalHHS Open Data Portal
 
-As additional data sets are added to the Open Data Portal, programs need to take that information into account when considering potential risk for any given data set. The CalHHS Open Data Workgroup will be providing easier access to both lists of data currently on the portal as well as data sets planned for addition to the portal. While significant with over 100 data sets, this is not exhaustive because of the PRA, which allows for an extremely broad amount of information to be released in a sporadic way. So some specificity can occur but not completely. CalHHS departments have a duty of due diligence in the de-identification process regarding consideration of published identifiable data, published de-identified data, and the soon to be published de-identified data. Additional information\[1]  that addresses the balance of transparency and privacy include the Berkman Klein Center for Internet & Society’s “Open Data Privacy Playbook”\[2].
+As additional data sets are added to the Open Data Portal, programs need to take that information into account when considering potential risk for any given data set. The CalHHS Open Data Workgroup will be providing easier access to both lists of data currently on the portal as well as data sets planned for addition to the portal. While significant with over 100 data sets, this is not exhaustive because of the PRA, which allows for an extremely broad amount of information to be released in a sporadic way. So some specificity can occur but not completely. CalHHS departments have a duty of due diligence in the de-identification process regarding consideration of published identifiable data, published de-identified data, and the soon to be published de-identified data. Additional information\[1] that addresses the balance of transparency and privacy include the Berkman Klein Center for Internet & Society’s “Open Data Privacy Playbook”\[2].
 
 Listed below are examples of individual records or documents that the Department of Rehabilitation have available to the public:
 
 * Fair Hearing Decisions include the appellant’s initials and possibly other information, depending on the issue the appellant presents for hearing, such as sex, disability, employment, education, vocational rehabilitation services, etc.; and
-* Monthly Operating Reports and information therefrom includes names of licensees and financial information regarding the operation of the licensees’ operation of vending facilities in the Business Enterprises Program for the Blind.  To be eligible for this program, the individuals must be legally blind.
+* Monthly Operating Reports and information therefrom includes names of licensees and financial information regarding the operation of the licensees’ operation of vending facilities in the Business Enterprises Program for the Blind. To be eligible for this program, the individuals must be legally blind.
 
 ### Public Census and Demographic Information
 
-The Demographic Research Unit (DRU) of the California Department of Finance is designated as the single official source of demographic data for state planning and budgeting.\[3]  The DRU produces the following products which serve as the basis for understanding the population characteristics and distributions that frequently make up the denominators in the review of data sets.
+The Demographic Research Unit (DRU) of the California Department of Finance is designated as the single official source of demographic data for state planning and budgeting.\[3] The DRU produces the following products which serve as the basis for understanding the population characteristics and distributions that frequently make up the denominators in the review of data sets.
 
 * Estimates - Official population estimates of the state, counties and cities produced by the Demographic Research Unit for state planning and budgeting.
 * Projections - Forecasts of population, births and public school enrollment at the state and county level produced by the Demographic Research Unit.
@@ -51,11 +55,11 @@ The Demographic Research Unit (DRU) of the California Department of Finance is d
 
 ### Commonly Shared Information
 
-With the growth of social media, people frequently share information through tools such as Facebook, Linked In, Instagram, Tik Tok, YouTube, X (formerly Twitter),  dating apps,  and AI platforms such as Chat GPT, Open AI, and Google Cloud Vertex AI. While it would be impossible to take into account all information that people make public about themselves, there is an expectation that a certain amount of information is likely to be in the public domain based on information individuals frequently provide about themselves. Examples of such information include wedding dates, birth dates, education (high school, college), and professional certifications.
+With the growth of social media, people frequently share information through tools such as Facebook, Linked In, Instagram, Tik Tok, YouTube, X (formerly Twitter), dating apps, and AI platforms such as Chat GPT, Open AI, and Google Cloud Vertex AI. While it would be impossible to take into account all information that people make public about themselves, there is an expectation that a certain amount of information is likely to be in the public domain based on information individuals frequently provide about themselves. Examples of such information include wedding dates, birth dates, education (high school, college), and professional certifications.
 
 ### Geographic Information
 
-Geographic information is particularly suited to being combined with other geographic information given the relatively standardized was data is coded (latitude, longitude, county, etc.)  With the use of mapping tools, various information can be combined in a way that is called a “mash up.”  “A mashup, in web development, is a web page, or web application, that uses content from more than one source to create a single new service displayed in a single graphical interface. For example, you could combine the addresses and photographs of your library branches with a Google map to create a map mashup.\[1] The term implies easy, fast integration, frequently using open application programming interfaces (open API) and data sources to produce enriched results that were not necessarily the original reason for producing the raw source data.”\[4]
+Geographic information is particularly suited to being combined with other geographic information given the relatively standardized was data is coded (latitude, longitude, county, etc.) With the use of mapping tools, various information can be combined in a way that is called a “mash up.” “A mashup, in web development, is a web page, or web application, that uses content from more than one source to create a single new service displayed in a single graphical interface. For example, you could combine the addresses and photographs of your library branches with a Google map to create a map mashup.\[1] The term implies easy, fast integration, frequently using open application programming interfaces (open API) and data sources to produce enriched results that were not necessarily the original reason for producing the raw source data.”\[4]
 
 ### Artificial Intelligence
 
@@ -63,7 +67,7 @@ With the rapid advancement in the use of health care data for artificial intelli
 
 ***
 
-\[1] Bambauer, “Tragedy of the Data Commons”.  Harvard Journal of Law and Technology, Vol. 25, 2011
+\[1] Bambauer, “Tragedy of the Data Commons”. Harvard Journal of Law and Technology, Vol. 25, 2011
 
 \[2] Green, et al. 2017. Open Data Privacy (2017). Berkman Klein Center for Internet & Society Research Publication, http://nrs.harvard.edu/urn-3:HUL.InstRepos:30340010.
 

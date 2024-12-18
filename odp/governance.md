@@ -1,8 +1,12 @@
+---
+icon: gavel
+---
+
 # Governance
 
 ## Governance Structure for CalHHS Agency and its Departments and Offices
 
-CalHHS departments and offices are required to engage in an internal review process and obtain approvals for data tables to be published on the CalHHS Open Data Portal. Departments and offices are responsible for driving toward increasing data content, quality, and accuracy, as well as ensuring compliance with all security, privacy, confidentiality laws, rules, regulations, and intellectual property rights requirements. The CalHHS  Agency will also engage in strategic planning and approvals as needed.
+CalHHS departments and offices are required to engage in an internal review process and obtain approvals for data tables to be published on the CalHHS Open Data Portal. Departments and offices are responsible for driving toward increasing data content, quality, and accuracy, as well as ensuring compliance with all security, privacy, confidentiality laws, rules, regulations, and intellectual property rights requirements. The CalHHS Agency will also engage in strategic planning and approvals as needed.
 
 The CalHHS Open Data Portal governance model takes a multi-level approach that provides oversight in the most efficient/streamlined way possible. Figure 2 provides a graphical representation of the model.
 

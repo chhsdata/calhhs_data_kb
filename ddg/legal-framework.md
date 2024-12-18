@@ -1,3 +1,7 @@
+---
+icon: scale-unbalanced
+---
+
 # Legal Framework
 
 The overarching legal framework for the CalHHS Data De-identification Guidelines is the California Information Practices Act, California Civil Code 1798 et seq., which was established in 1977 and applies to all state government entities. The IPA includes requirements for the collection, maintenance, and dissemination of any information that identifies or describes an individual. The IPA and other California statutes limit the disclosure of personal information, consistent with the California Constitutional right to privacy. However, state agencies are generally permitted (and sometimes required under the California Public Records Act and other laws) to disclose data that have been de-identified. Summarized or aggregated data may still be identifiable; the DDG provides Guidelines for assessing whether data have been de-identified.
@@ -30,7 +34,7 @@ Please note that this is not an exhaustive list
 
 ### General State Collected Information and Data
 
-* Civic Code 1798.24, 1798.24a, 1798.24b  (all personal information including health data)
+* Civic Code 1798.24, 1798.24a, 1798.24b (all personal information including health data)
 * Government Code 11015.5 (electronically collected personal information)
 
 ### General Medical Data
@@ -68,20 +72,20 @@ Please note that this is not an exhaustive list
 * Health & Safety Code 124110
 * Health & Safety Code 124991
 
-### Cholinesterase Testing        &#x20;
+### Cholinesterase Testing
 
 * Health & Safety Code 105206
 
 ### Developmentally Disabled
 
-* Health & Safety Code  416.18
+* Health & Safety Code 416.18
 * Health & Safety Code 416.8
 * Welfare & Institutions Code 4514, 4514.3, 4514.5
 * Welfare & Institutions Code 4517 (aggregation and publication of data)
 * Welfare & Institutions Code 4744
 * Welfare & Institutions Code 4659.22
 
-### Environmental Health Hazards &#x20;
+### Environmental Health Hazards
 
 * Health & Safety Code 59016
 
@@ -169,7 +173,7 @@ Please note that this is not an exhaustive list
 
 ### Vital Records
 
-* Health & Safety Code  102430
+* Health & Safety Code 102430
 * Health & Safety Code 102425
 * Health & Safety Code 102426
 * Health & Safety Code 102455
@@ -193,9 +197,9 @@ Please note that this is not an exhaustive list.
 
 ## Data De-identification
 
-While the IPA does not include specific de-identification methods or criteria, the basic concept of statistical de-identification has no different meaning, and the basic standard of protection of identifiable data is no different for IPA covered PI than for HIPAA covered PHI.&#x20;
+While the IPA does not include specific de-identification methods or criteria, the basic concept of statistical de-identification has no different meaning, and the basic standard of protection of identifiable data is no different for IPA covered PI than for HIPAA covered PHI.
 
-The Center for Data Insights and Innovation (CDII) is authorized by state statute to coordinate and monitor HIPAA compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. The 2014 assessment that was revised July 2015, identified programs and departments in CalHHS that are considered covered entities under HIPAA as a Health Care Provider, Health Care Plan, Health Care Clearinghouse, Hybrid Entity or Business Associate. Detail is provided in Appendix B. One difference between CA IPA and HIPAA is the documentation requirement in HIPAA for data de-identified using the Expert Determination method.&#x20;
+The Center for Data Insights and Innovation (CDII) is authorized by state statute to coordinate and monitor HIPAA compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. The 2014 assessment that was revised July 2015, identified programs and departments in CalHHS that are considered covered entities under HIPAA as a Health Care Provider, Health Care Plan, Health Care Clearinghouse, Hybrid Entity or Business Associate. Detail is provided in Appendix B. One difference between CA IPA and HIPAA is the documentation requirement in HIPAA for data de-identified using the Expert Determination method.
 
 \[If your Department is a covered entity under HIPAA, keep this paragraph:] \[\[Dept. Acronym] is covered by HIPAA and must meet the HIPAA de-identification standard. The DDG serves as a tool to make and document an expert determination consistent with the HIPAA standard. The following comes from federal guidance for HIPAA that provides more detail regarding Safe Harbor and Expert Determination under the HIPAA standard.]
 
@@ -203,7 +207,7 @@ The Center for Data Insights and Innovation (CDII) is authorized by state statut
 
 The HIPAA Standard\[1] for de-identification of protected health information (PHI)\[2] states “Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.” If the data are de-identified, and it is not reasonably likely that the data could be re-identified, the Privacy Rule no longer restricts the use or disclosure of the de-identified data.
 
-The following is quoted from the “Guidance Regarding Methods for De-identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule”, published November, 2012 by the U.S. Department of Health & Human Services, Office for Civil Rights:   ([http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html))   (Formatting of text may be different than the original document.)
+The following is quoted from the “Guidance Regarding Methods for De-identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule”, published November, 2012 by the U.S. Department of Health & Human Services, Office for Civil Rights: ([http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html)) (Formatting of text may be different than the original document.)
 
 ## The HIPAA De-identification Standard
 
@@ -291,4 +295,4 @@ If a covered entity or business associate successfully undertook an effort to id
 
 \[1] The Standard is found in the HIPAA Privacy Rule, 45 CFR section 164.514(a).
 
-\[2] “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual.  (45 CFR section 160.103)
+\[2] “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual. (45 CFR section 160.103)

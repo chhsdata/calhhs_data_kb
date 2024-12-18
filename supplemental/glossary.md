@@ -1,9 +1,18 @@
 ---
-description: Contains both terms and acronyms for CalHHS Data Sharing.
 icon: memo-circle-info
+description: Contains both terms and acronyms for CalHHS Data Sharing.
 ---
 
-# Glossary of Terms
+# Glossary and Acronyms
+
+## Contents
+
+This page contains the CalHHS Glossary of Terms and the CalHHS Acronyms listing:
+
+* [CalHHS Glossary of Terms](glossary.md#glossary-of-terms)
+* [CalHHS Data Acronyms](glossary.md#acronyms)
+
+***
 
 ## Glossary of Terms
 

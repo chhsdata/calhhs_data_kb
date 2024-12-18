@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Share
 
 ## Play 05. Share: progress & results <a href="#play-05-share-progress--results" id="play-05-share-progress--results"></a>
@@ -42,4 +46,4 @@ Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwa
 
 [![CHHS Governance Resources](https://chhsdata.github.io/dataplaybook/assets/images/05_figure04.png)](https://chhsdata.github.io/dataplaybook/resource_library)
 
-Check out the examples of CHHS data-driven success in the Success Stories Section.\
+Check out the examples of CHHS data-driven success in the Success Stories Section.\\

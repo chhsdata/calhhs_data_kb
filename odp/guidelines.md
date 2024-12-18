@@ -1,3 +1,7 @@
+---
+icon: road-circle-check
+---
+
 # Guidelines
 
 ## Publication Guidelines for CalHHS Departments and Offices

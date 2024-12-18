@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Evaluate
 
 ## Play 04. Evaluate: outcomes & impacts <a href="#play-04-evaluate-outcomes--impacts" id="play-04-evaluate-outcomes--impacts"></a>
@@ -24,4 +28,4 @@ Establishing an evaluation process will ensure that the benefits anticipated by 
 
 > **What are the lessons learned?** How will you iterate on the current solution? What are the next steps?
 
-[![Action Item](https://chhsdata.github.io/dataplaybook/assets/images/04_figure02.png)](https://chhsdata.github.io/dataplaybook/action_items)\
+[![Action Item](https://chhsdata.github.io/dataplaybook/assets/images/04_figure02.png)](https://chhsdata.github.io/dataplaybook/action_items)\\

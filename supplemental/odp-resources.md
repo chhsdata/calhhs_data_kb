@@ -1,6 +1,6 @@
 ---
-description: CalHHS Data Sharing Resources
 icon: shelves
+description: CalHHS Data Sharing Resources
 ---
 
 # Resources
@@ -8,6 +8,8 @@ icon: shelves
 ## CalHHS Created Resources
 
 ### CHHS Information Strategic Plan
+
+We hope you have learned a few new ideas and want to take your data-sharing journey beyond this Guidebook. This section provides references to data architecture resources to guide you as you continue your learning path. Some of these references were used in the creation of this Guidebook.
 
 [CHHS manages a diverse portfolio](http://www.chhs.ca.gov/) of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its Departments is an immense undertaking, considering:
 
@@ -37,6 +39,27 @@ Download the data sharing materials:
 * [Business Use Case Proposal - Form](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx)
 * [Business Use Case Proposal - Instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf)
 
+### Data Architecture and Sharing Reference Materials <a href="#data_architecture_and_sharing_reference" id="data_architecture_and_sharing_reference"></a>
+
+The list below provides links to reference materials on data architecture and data-sharing practices:
+
+* The [Data Management Associate (DAMA)](https://www.dama.org/cpages/body-of-knowledge) focuses on data and information management and the advancement of the field.
+* The Findability, Accessibility, Interoperability, and Reusability ([FAIR](https://www.go-fair.org/fair-principles/)) Guiding Principles were authored to provide data management guidelines and best practices.
+* The Centre for Agriculture and Bioscience International (CABI) [data-sharing toolkit](https://www.datasharingtoolkit.org/) provides online training for data-sharing practices.
+* Oracle’s Cloud Infrastructure Documentation’s explanation of [Data Architecture](https://docs.oracle.com/en-us/iaas/Content/cloud-adoption-framework/ea-data-architecture.htm) roles, goals, and practices.
+
+### State of California Training and Materials <a href="#state_of_california_training_and_materia" id="state_of_california_training_and_materia"></a>
+
+This section provides links to online training materials for further study of data architecture practices.
+
+A [State Library Card](https://www.library.ca.gov/apply/) is a unique tool for state employees to access research and training materials. After applying for a State Library Card, you can access technical resources such as materials from O’Reilly for Higher Education.
+
+Premier Advantage California eLearning [PACe](https://cdt.ca.gov/workforce-development/e-learning/) is the Office of Professional Development’s eLearning offering for IT and business professionals.
+
+### General Online Training Materials
+
+The [Association for Computing Machinery (ACM](https://www.acm.org/membership)) is a gateway to eLearning, books/videos, research, and the overall computing community. You can access the materials you need to develop your data management knowledge and forge connections with other professionals to advance the field.
+
 ## External Resources
 
 ### Catalogs
@@ -65,7 +88,7 @@ Transparency Camp is an "unconference" for opengov, an event where, every year h
 
 ***
 
-## Consultants
+### Consultants
 
 **Almirante Partners** | [http://www.almirantepartners.com/](http://www.almirantepartners.com/)\
 Almirante Partners draws on decades of experience with new ideas, implementing programs, building strategy, directing projects. We specialize in the innovative ways to approach complex concepts in government and understand that without a strategy, it's difficult to chart a course.
@@ -81,7 +104,7 @@ A nonprofit research and innovation organization with decades of experience of a
 
 ***
 
-## Funders
+### Funders
 
 **California Healthcare Foundation** | [http://www.chcf.org/](http://www.chcf.org/)\
 CHCF works as a catalyst to fulfill the promise of better health care for all Californians. We support ideas and innovations that improve quality, increase efficiency, and lower the costs of care.
@@ -91,7 +114,7 @@ The nation's largest philanthropy devoted solely to the public's health.
 
 ***
 
-## Literature
+### Literature
 
 **Beyond Transparency** | [http://beyondtransparency.org/](http://beyondtransparency.org/)\
 Beyond Transparency is a cross-disciplinary survey of the open data landscape, in which practitioners share their own stories of what they’ve accomplished with open civic data. It seeks to move beyond the rhetoric of transparency for transparency’s sake and towards action and problem solving.
@@ -101,7 +124,7 @@ The National Neighborhood Indicators Partnership (NNIP) is a collaborative effor
 
 ***
 
-## News
+### News
 
 **Data Act Passes** | [http://www.govtech.com/data/The-DATA-Act-Passes-3-Takeaways-and-Interactive-Timeline.html](http://www.govtech.com/data/The-DATA-Act-Passes-3-Takeaways-and-Interactive-Timeline.html)\
 President Obama signs bill to turn all federal expenditures into open data.

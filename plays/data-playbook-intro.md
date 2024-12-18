@@ -1,5 +1,6 @@
 ---
 icon: square-info
+hidden: true
 cover: ../data-plays/.gitbook/assets/00_figure01.png
 coverY: 254
 layout:

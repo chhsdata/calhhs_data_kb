@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Implement
 
 ## Play 03. Implement: plan & strategy <a href="#play-03-implement-plan--strategy" id="play-03-implement-plan--strategy"></a>
@@ -66,4 +70,4 @@ See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related da
 
 [![CHHS Governance Resources](https://chhsdata.github.io/dataplaybook/assets/images/03_figure04.png)](https://chhsdata.github.io/dataplaybook/resource_library)
 
-[« Prev](https://chhsdata.github.io/dataplaybook/assess)[Next »](https://chhsdata.github.io/dataplaybook/evaluate)\
+[« Prev](https://chhsdata.github.io/dataplaybook/assess)[Next »](https://chhsdata.github.io/dataplaybook/evaluate)\\

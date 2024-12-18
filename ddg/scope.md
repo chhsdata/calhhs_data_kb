@@ -1,3 +1,7 @@
+---
+icon: telescope
+---
+
 # Scope
 
 ## Data De-Identification Guidelines: Scope
@@ -81,7 +85,7 @@ There are a number of variables that are unique to individuals that have been id
 
 The removal of PI and PHI from datasets is often considered straight-forward, because as soon as data is aggregated or summarized the majority of the data fields defined as identifiers in the IPA and HIPAA are removed. However, various characteristics of individuals may remain that alone or in combination could contribute to identifying individuals. These characteristics have been described as quasi-identifiers. Figure 2 helps demonstrate the quasi-identifier concept. For instance, there is interest in reporting about providers, where providers may be individuals, clinics, group homes, or other entities. Each of these providers has a publicly available address and has publicly available characteristics. While patients may come to a provider from anywhere, they typically will visit providers within a certain distance of their residence. Thus, by publicly publishing details on providers, data miners with malicious intent would have a targeted geography that lists locality information, types of services offered and received, and demographic information about patients. To expand on this example, data that states a provider saw two patients with heart disease does not indicate who had the heart disease nor does it reveal the identity of the two patients amongst the thousands of patients that provider sees. However, datasets that display a provider within a given region with two Black or African American female patients under age 10 with heart disease may release enough personal characteristics about the patients to successfully reveal their identity. These compounding patient details released about providers that give geography information (address), health condition (heart disease), and person-based characteristics (quasi-identifiers) of the patients puts the dataset in the overlapping area of the diagram of Figure 2. This overlap, consequently, highlights potential risks associated with seemingly innocent summary data.
 
-<figure><img src="../ddg/.gitbook/assets/image%20(12).png" alt="Figure: Relationship of Types of Reporting Variables. Three converging circles in a Venn diagram"><figcaption><p>Figure: Relationship of Types of Reporting Variables</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(12).png" alt="Figure: Relationship of Types of Reporting Variables. Three converging circles in a Venn diagram"><figcaption><p>Figure: Relationship of Types of Reporting Variables</p></figcaption></figure>
 
 ***
 
