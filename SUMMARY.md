@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Data Sharing Introduction](README.md)
+* [CalHHS Data Sharing Guidebook](README.md)
 
 ## Agency Data Plays <a href="#plays" id="plays"></a>
 
@@ -50,8 +50,8 @@
 * [References](ddg/references.md)
 * [DDG Appendix](ddg/appendix/README.md)
   * [Appendix A: Expert Determination Template](ddg/appendix/appendix-a-expert-determination-template.md)
-  * [Appendix B: June 2022 HIPAA Reassessment Results](ddg/appendix/appendix-b-june-2022-hipaa-reassessment-results.md)
-  * [Appendix C: State and County Population Projections](ddg/appendix/appendix-c-state-and-county-population-projections.md)
+  * [Appendix B: June 2022 HIPAA Reassessment Results](ddg/appendix/appendix-b-hipaa-reassessment.md)
+  * [Appendix C: State and County Population Projections](ddg/appendix/appendix-c-population-projections.md)
   * [Appendix D: Survey and Suppression Rules](ddg/appendix/appendix-d-survey-and-suppression-rules.md)
 
 ## Open Data Handbook <a href="#odp" id="odp"></a>

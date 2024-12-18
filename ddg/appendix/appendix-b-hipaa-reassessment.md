@@ -1,3 +1,7 @@
+---
+icon: staff-snake
+---
+
 # Appendix B: June 2022 HIPAA Reassessment Results
 
 The [Center for Data Insights and Innovation](https://www.cdii.ca.gov/compliance-and-policy/health-information-entity-status-assessment/) (CDII) is authorized by state statute to coordinate and monitor Health Insurance Portability and Accountability Act (HIPAA) compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. To help ensure full compliance with HIPAA, CDII, conducted a reassessment with all State Departments in February and March 2022. \[1] Note the asterisk (\*) means the entity was added to the list per the 2022 review.

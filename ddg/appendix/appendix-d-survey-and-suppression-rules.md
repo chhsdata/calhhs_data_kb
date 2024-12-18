@@ -1,3 +1,7 @@
+---
+icon: file-zipper
+---
+
 # Appendix D: Survey and Suppression Rules
 
 The table in this appendix provides information from a 2002 article\[1] with additional updates regarding rules for data suppression, statistical unreliability, and data quality in the display of data for Healthy People 2010. The main reasons for suppressing data in Healthy People 2010 included:

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Success Stories
 
 CHHS Data-Driven Success Stories demonstrate how we leverage data and technology to improve services to Californians and become more client centric. The stories aim to create awareness of innovative ideas and improve interdepartmental coordination by providing a platform to collaborate, share ideas, and expand CHHS’s data culture.
@@ -8,4 +12,4 @@ Former CHHS Secretary Mike Wilkening and USC researcher Emily Putnam-Hornstein d
 
 ## Using Data Dashboards in Emergency Response <a href="#using-data-dashboards-in-emergency-response" id="using-data-dashboards-in-emergency-response"></a>
 
-Marko Mijic, Acting CHHS Deputy Secretary, explains how bringing data together, streamlining data management processes, and mapping data with a dashboard helped to support timely decision-making and response to California wildfires.\
+Marko Mijic, Acting CHHS Deputy Secretary, explains how bringing data together, streamlining data management processes, and mapping data with a dashboard helped to support timely decision-making and response to California wildfires.\\
