@@ -67,7 +67,7 @@ These roles may not be represented in your department, but staff who perform the
 
 Combining a list of your department’s programs and their corresponding technology platforms creates a comprehensive starting point to inventory your datasets. Although your information technology department likely has a broad view of data sources, they may not have visibility of systems developed by lines of business. Creating the inventory from both the program and technology aspects ensures your dataset list is complete and captures the information needed for your data-sharing efforts. The diagram below depicts the process of collecting your dataset inventory:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
 
 **Identify and Describe Your Datasets**
 
@@ -86,10 +86,9 @@ Populate your data inventory as you capture each dataset’s information to incr
 
 #### Play 2.2 Vignette: Sally and Carlos Inventory the CDW Datasets
 
-Sally sets out to create a current inventory of the CDW datasets. Sally and Carlos’ effort to inventory the CDW data is depicted in the graphic on the following page:\
+Sally sets out to create a current inventory of the CDW datasets. Sally and Carlos’ effort to inventory the CDW data is depicted in the graphic on the following page:\\
 
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
 
 **Creating the CDW Dataset Inventory**
 
@@ -97,8 +96,7 @@ After looking through the CDW, she finds an inventory of datasets. The file was 
 
 Since Carlos recently joined the department, he has not yet learned about all the CDW systems. Carlos asks Andrea, the CDW IT Manager, for a list of the various databases and extracts maintained by CDW. The list from IT has high-level technical information on the datasets and some high-level description of the content but needs additional information from program teams to establish business context.
 
-\
-
+\\
 
 Sally retrieves a list of the programs (e.g., Healthy Habits) run by the CDW. She added the related programs to the list of systems she received from IT. Sally adds the lists of the CDW programs to verify that the list is complete. She finds that the IT department’s list does not include a system used by the Healthy Habits program. She takes a note to find out more about where the Healthy Habits data is stored.
 

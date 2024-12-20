@@ -25,7 +25,7 @@ The roles and responsibilities required to complete this Play vary by department
 * Information security to support creating data classifications.
 * Access to legal teams to provide guidance on statutes that govern data-sharing. Your department’s staff roles and practices may vary from the list above.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption><p>Populating your metadata repository</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(10).png" alt="" width="563"><figcaption><p>Populating your metadata repository</p></figcaption></figure>
 
 #### **Engage Required Staff Resources**
 
@@ -62,9 +62,9 @@ Sally will schedule a kickoff meeting to ready the individual team members to re
 
 ### Play 6.2: Collect Your Metadata <a href="#play_6.2-_collect_your_metadata" id="play_6.2-_collect_your_metadata"></a>
 
-With your team assembled, it’s time to start populating your metadata repository created in _Play 5: Establish Your Metadata Repository._ The diagram on the following page depicts the flow of technical, business, security, and legal metadata collection:&#x20;
+With your team assembled, it’s time to start populating your metadata repository created in _Play 5: Establish Your Metadata Repository._ The diagram on the following page depicts the flow of technical, business, security, and legal metadata collection:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Metadata Collection Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(11).png" alt=""><figcaption><p>Metadata Collection Flow</p></figcaption></figure>
 
 **Establish Your Data Element Baseline**
 
@@ -104,7 +104,7 @@ Examples of existing data standards are provided in the table below:
 |       Health Care      | <p><a href="https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi">United States Core Data for Interoperability</a> <a href="https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi">(USCDI)</a><br><br><br><br><br><a href="https://github.com/HEAL/heal-metadata-schemas/tree/main/for-investigators-how-to">Helping to End Addiction Long-</a> <a href="https://github.com/HEAL/heal-metadata-schemas/tree/main/for-investigators-how-to">term® (HEAL) Initiative</a></p> | <p>The USCDI is a standardized set of health data classes and constituent data elements for nationwide, interoperable health information exchange.<br><br>Provides a set of standard definitions focused on opioid addiction that can be adapted for other types of studies.</p> |
 | General Human Services |                                                                                                                                                        Administration for Children, Youth and Families (ACYF) [Information Exchange](https://www.acf.hhs.gov/niem-human-service-domain-iepds) [Packets](https://www.acf.hhs.gov/niem-human-service-domain-iepds)                                                                                                                                                        |                          ACYF is creating a set of data structures with definitions for the programs it administers. The Information Exchange Packets are in the National Information Exchange Format (NIEM) and can be used as a source of definitions.                         |
 
-&#x20;Data standards are widely available in the health data domain. Other data domains are more limited but are expanding. For example, the ACYF Information Exchange Package Documentation (IEPD) is currently developing [draft Exchange Packages](https://www.acf.hhs.gov/archive/process-information-exchange-packet-documentation-iepd) that may be available in the future to help describe your data in the future.
+Data standards are widely available in the health data domain. Other data domains are more limited but are expanding. For example, the ACYF Information Exchange Package Documentation (IEPD) is currently developing [draft Exchange Packages](https://www.acf.hhs.gov/archive/process-information-exchange-packet-documentation-iepd) that may be available in the future to help describe your data in the future.
 
 Given the benefits of understanding and time savings, it is worth investing time to identify an existing data standard that applies to your programs.
 
@@ -116,7 +116,7 @@ Your department’s programs are likely subject to State and Federal statutes be
 * California-Specific Health and Privacy Laws
 * Federal Code of Federal Regulations (CFR)
 
-&#x20;The Department of Health Care Services [CalAIM Data Sharing Authorization Guidance](https://www.dhcs.ca.gov/CalAIM/ECM/Documents/CalAIM-Data-Sharing-Authorization-Guidance.pdf) provides an example of data-sharing guidance incorporating state and federal-level statutes governing data-sharing.
+The Department of Health Care Services [CalAIM Data Sharing Authorization Guidance](https://www.dhcs.ca.gov/CalAIM/ECM/Documents/CalAIM-Data-Sharing-Authorization-Guidance.pdf) provides an example of data-sharing guidance incorporating state and federal-level statutes governing data-sharing.
 
 Governing statutes can impact data-sharing, including:
 
@@ -124,7 +124,7 @@ Governing statutes can impact data-sharing, including:
 * Restrictions on data granularity (e.g., Individual Person Records)
 * Requirements for enhanced security controls
 
-&#x20;Early awareness of the relevant statutes mitigates delays during BUCP creation, approval, and fulfillment. For example, detecting governing statutes late in the BUCP process may cause a re- evaluation of security and data usage approvals. A complete list of governing statutes helps address the following BUCP fields:
+Early awareness of the relevant statutes mitigates delays during BUCP creation, approval, and fulfillment. For example, detecting governing statutes late in the BUCP process may cause a re- evaluation of security and data usage approvals. A complete list of governing statutes helps address the following BUCP fields:
 
 * Creating a Use Case that specifically links data-sharing and program purposes.
 * Legal Authority for the data provider to share the data and recipients to access data.
@@ -232,6 +232,6 @@ Andrea meets with her team leads to review the findings and recommendations from
 
 The new CDW design, development, and documentation process they will follow is depicted in the graphic below:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(5).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
 
 The changes to the CDW process avoid the mass metadata collection effort the team conducted in _Play 6.2: Collect Your Metadata_ by incrementally collecting metadata during design and development. This new process saves time since the information to create metadata is already in hand during system design. Additionally, the process creates complete and accurate metadata through a closed loop between design and development.

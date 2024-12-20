@@ -43,7 +43,7 @@ The California Department of Wellness (CDW) was established in 1997 to improve t
 
 Other CalHHS departments utilize program data from the CDW to understand the impact of wellness on their program outcomes.
 
-&#x20;Meet the core team that is working on the CDW data-sharing improvement effort:
+Meet the core team that is working on the CDW data-sharing improvement effort:
 
 * Sally is the CDW Data Coordinator (DC). Prior to joining the CDW, she worked at a local government social services department that utilized data-driven practices. Sally leads the data-sharing improvement effort and coordinates with participating staff.
 * Carlos recently joined the CDW 6 months ago as the Data Architect and Lead Database Administrator. He previously worked at another department outside of CalHHS as a database administrator and is learning about the CDW environment. Carlos is helping Sally with the technical aspects of data-sharing.
@@ -55,7 +55,7 @@ Other CalHHS departments utilize program data from the CDW to understand the imp
 
 Other CDW staff that will help improve data sharing are introduced as they appear in Play- specific vignettes.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Data-Sharing Vignette Personas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(6).png" alt=""><figcaption><p>Data-Sharing Vignette Personas</p></figcaption></figure>
 
 Sally recently facilitated a team retrospective after providing data under a BUCP to share a portion of the Healthy Habits program data. Common themes from the team’s feedback include:
 
@@ -70,7 +70,7 @@ Based on these findings, Sally is launching an effort to improve CDW’s ability
 
 This Guidebook comprises eight Data-Sharing Plays that aim to improve your ability to share and receive data. The roadmap below depicts the relationships of the Plays and their suggested order of execution:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Data-Sharing Plays Roadmap</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(1).png" alt=""><figcaption><p>Data-Sharing Plays Roadmap</p></figcaption></figure>
 
 The tables below summarize the Plays and their primary objectives:
 
