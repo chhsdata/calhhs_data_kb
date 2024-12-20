@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Data Sharing Introduction
+# CalHHS Data Sharing Guidebook
 
 ## Introducing the CalHHS Data-Sharing Guidebook
 
@@ -50,6 +50,7 @@ The Guidebook’s primary audience is data coordinators and data management team
 
 ### Navigation
 
-Below are the links to the various documents and guides that are part of the CalHHS Data Resource Terminal.
+Below are the links to the various documents and guides that make up the CalHHS Data Resource Knowledge Base.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><strong>Data De-Identification Guidelines</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4><strong>Open Data Handbook</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Playbook</h4></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Sharing Guide</h4></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="data-plays/broken-reference/">broken-reference</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td>Agency Data Plays</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Data De-Identification</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Open Data Handbook</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Supplemental Information</td><td><a href="broken-reference">Broken link</a></td><td></td></tr></tbody></table>
+
