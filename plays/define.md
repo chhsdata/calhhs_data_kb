@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Define
 
 ## Play 01. Define: goals & objectives
