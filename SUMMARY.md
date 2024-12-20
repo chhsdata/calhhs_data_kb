@@ -64,11 +64,11 @@
 
 ## Supplemental Information <a href="#supplemental" id="supplemental"></a>
 
+* [Glossary and Acronyms](supplemental/glossary.md)
 * [Tools Supplement](supplemental/tools.md)
-* [Supplemental: Definitions](supplemental/supplemental-definitions.md)
-* [Supplemental: Conducting Discovery Sessions](supplemental/supplemental-conducting-discovery-sessions.md)
-* [Supplemental: Benefits](supplemental/supplemental-benefits.md)
-* [Supplemental: APIs](supplemental/supplemental-apis.md)
+* [Definitions Supplement](supplemental/definitions.md)
+* [Discovery Sessions Supplement](supplemental/discovery-sessions.md)
+* [Benefits Supplement](supplemental/benefits.md)
+* [API Supplement](supplemental/api.md)
 * [Supplemental: Reference](supplemental/supplemental-reference.md)
 * [Resources](supplemental/odp-resources.md)
-* [Glossary and Acronyms](supplemental/glossary.md)
