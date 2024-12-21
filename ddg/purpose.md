@@ -1,7 +1,8 @@
 ---
 icon: files-medical
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: >-
+  ../.gitbook/assets/Medical-Data-Reviewer-Allucents-Secrets-to-Study-Success.webp
+coverY: -82
 layout:
   cover:
     visible: true
@@ -18,16 +19,29 @@ layout:
     visible: true
 ---
 
-# DDG Purpose
+# CalHHS Data De-Identification Guidelines
 
-The _\[California Health and Human Services Agency (CalHHS)]_ Data De-Identification Guidelines (DDG) describes a procedure to be used by _\[CalHHS]_ to assess data for public release. As part of the document, specific actions that may be taken for each step in the procedure are described. \[If you are a covered entity, keep this sentence and delete the next one:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) \[1] and the Health Insurance Portability and Accountability Act (HIPAA) \[2] to prevent the disclosure of personal information.] \[If you are not a covered entity, keep this sentence and delete the prior:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meets the requirements of the California Information Practices Act (IPA).]
+## DDG Purpose
 
-Additionally, the _\[CalHHS]_ DDG aligns with the CalHHS DDG which supports CalHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CalHHS initiatives, such as the CalHHS Open Data Portal.
+The _<mark style="background-color:orange;">\[California Health and Human Services Agency (CalHHS)]</mark>_ Data De-Identification Guidelines (DDG) describes a procedure to be used by _\[CalHHS]_ to assess data for public release. As part of the document, specific actions that may be taken for each step in the procedure are described. \[If you are a covered entity, keep this sentence and delete the next one:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) \[1] and the Health Insurance Portability and Accountability Act (HIPAA) \[2] to prevent the disclosure of personal information.] \[If you are not a covered entity, keep this sentence and delete the prior:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meets the requirements of the California Information Practices Act (IPA).]
+
+Additionally, the _<mark style="background-color:orange;">\[CalHHS]</mark>_ DDG aligns with the CalHHS DDG which supports CalHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CalHHS initiatives, such as the CalHHS Open Data Portal.
 
 ***
 
-### Navigation
+### Table of Contents
 
-Below are the links to the various documents and guides that are part of the CalHHS Data Resource Terminal.
+The CalHHS Data De-Identification Guidelines are divided up into multiple sections. The sections can be navigated using the list on the left side of this page or by clicking one of the section links below:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><strong>Data De-Identification Guidelines</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4><strong>Open Data Handbook</strong></h4></td><td>Lorem ipsum sicut dolor.</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Playbook</h4></td><td>CalHHS Data Playbook</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><h4>Data Sharing Guide</h4></td><td>CalHHS data sharing guide</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+* [Background](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/background)
+* [Scope](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/scope)
+* [Statistical Masking](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/statistical)
+* [Types of Reporting](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/reporting)
+* [Thresholds](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/thresholds)
+* [Approval Process](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/approval-process)
+* [DDG Governance](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/ddg-governance)
+* [Publicly Available Data](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/publicly-available-data)
+* [Development Process](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/development-process)
+* [Legal Framework](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/legal-framework)
+* [References](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/references)
+* [DDG Appendix](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/appendix)

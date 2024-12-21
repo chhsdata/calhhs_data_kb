@@ -2,7 +2,7 @@
 
 ### Data with More Specificity
 
-Specific diagnosis and procedure codes have higher risk of identification because of their unique nature. Thus, these diagnosis and procedure codes should be scored based on “Other Variables” in Section 6.2.&#x20;
+Specific diagnosis and procedure codes have higher risk of identification because of their unique nature. Thus, these diagnosis and procedure codes should be scored based on “Other Variables” in Section 6.2.
 
 Some examples of data with more specificity include:
 
@@ -35,11 +35,3 @@ If the expert determines that the provided information could be used, alone or i
 \[2] Golle, “Revisiting the Uniqueness of Simple Demographics in the US Population”, Accessed [from stanford.edu](https://crypto.stanford.edu/~pgolle/papers/census.pdf): [https://crypto.stanford.edu/\~pgolle/papers/census.pdf](https://crypto.stanford.edu/~pgolle/papers/census.pdf)
 
 \[3] Rocher, et al. “Estimating the success of re-identifications in incomplete datasets using generative models”, Nat Commun 10, 3069 (2019). [https://doi.org/10.1038/s41467-019-10933-3](https://doi.org/10.1038/s41467-019-10933-3)
-
-***
-
-&#x20;\[A1]Reminder to add footnote
-
-Check with team if adding developmentally disabled, ok? \[A2]
-
-&#x20;\[A3]approved

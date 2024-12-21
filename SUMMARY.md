@@ -25,7 +25,7 @@
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 
-* [DDG Purpose](ddg/purpose.md)
+* [CalHHS Data De-Identification Guidelines](ddg/purpose.md)
 * [Background](ddg/background.md)
 * [Scope](ddg/scope.md)
 * [Statistical Masking](ddg/statistical/README.md)

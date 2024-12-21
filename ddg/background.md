@@ -20,7 +20,7 @@ In addition, the PRT reviews and approves department DDGs and approves certain i
 
 Data can change from Level 3 to Level 1 if appropriate de-identification processes are employed. The CalHHS DDG described in this document will support departments and offices in the evaluation of data to determine whether it has been adequately de-identified so that it can be considered Level 1.
 
-\[Enter one to two paragraphs regarding your department’s commitment in relation to data sharing, transparency, as well as compliance with applicable privacy laws, and tie back to the relevance of data de-identification to accomplish those goals.]
+<mark style="color:red;">**\[Enter one to two paragraphs regarding your department’s commitment in relation to data sharing, transparency, as well as compliance with applicable privacy laws, and tie back to the relevance of data de-identification to accomplish those goals.]**</mark>
 
 ### Footnotes:
 

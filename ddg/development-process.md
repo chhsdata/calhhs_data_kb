@@ -4,4 +4,4 @@ icon: terminal
 
 # Development Process
 
-_\[Describe the process by which your department developed your Department-specific DDG.]_
+_<mark style="background-color:orange;">\[Describe the process by which your department developed your Department-specific DDG.]</mark>_

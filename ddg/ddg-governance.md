@@ -4,7 +4,7 @@ icon: gavel
 
 # DDG Governance
 
-Governance for DDG will be provided by the Data Subcommittee with support from the Risk Management Subcommittee. The Subcommittees are part of the CalHHS governance structure as described in the CalHHS Information Strategic Plan.\[1] \[A1] Governance for the CalHHS DDG will provide the following support for departments and offices.
+Governance for DDG will be provided by the Data Subcommittee with support from the Risk Management Subcommittee. The Subcommittees are part of the CalHHS governance structure as described in the CalHHS Information Strategic Plan.\[1] Governance for the CalHHS DDG will provide the following support for departments and offices.
 
 * Maintain the CalHHS DDG, which will include updates and revisions to the document as well as annual reviews for currency.
 * Coordinate integration of the CalHHS DDG into the Statewide Health Information Policy Manual (SHIPM), Section 2.5.0 De-identification\[2] and the CalHHS Open Data Handbook.

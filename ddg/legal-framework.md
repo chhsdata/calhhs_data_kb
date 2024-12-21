@@ -26,11 +26,11 @@ Senate Bill 13 updated the IPA, effective January 1, 2006, to require Committee 
 
 ## California Laws
 
-California Laws Governing the Collection and Release of Confidential, Personal, or Sensitive Information:
-
-{% hint style="info" %}
+{% hint style="warning" %}
 Please note that this is not an exhaustive list
 {% endhint %}
+
+California Laws Governing the Collection and Release of Confidential, Personal, or Sensitive Information:
 
 ### General State Collected Information and Data
 
@@ -184,11 +184,11 @@ Please note that this is not an exhaustive list
 
 ## Federal Laws
 
-Federal Laws Governing Public Data Release
-
-{% hint style="info" %}
+{% hint style="warning" %}
 Please note that this is not an exhaustive list.
 {% endhint %}
+
+Federal Laws Governing Public Data Release
 
 * HIPAA - Section 164.514 of the HIPAA Privacy Rule (45 CFR)
 * 42 CFR Part 2
@@ -201,9 +201,9 @@ While the IPA does not include specific de-identification methods or criteria, t
 
 The Center for Data Insights and Innovation (CDII) is authorized by state statute to coordinate and monitor HIPAA compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. The 2014 assessment that was revised July 2015, identified programs and departments in CalHHS that are considered covered entities under HIPAA as a Health Care Provider, Health Care Plan, Health Care Clearinghouse, Hybrid Entity or Business Associate. Detail is provided in Appendix B. One difference between CA IPA and HIPAA is the documentation requirement in HIPAA for data de-identified using the Expert Determination method.
 
-\[If your Department is a covered entity under HIPAA, keep this paragraph:] \[\[Dept. Acronym] is covered by HIPAA and must meet the HIPAA de-identification standard. The DDG serves as a tool to make and document an expert determination consistent with the HIPAA standard. The following comes from federal guidance for HIPAA that provides more detail regarding Safe Harbor and Expert Determination under the HIPAA standard.]
+<mark style="color:red;">\[If your Department is a covered entity under HIPAA, keep this paragraph:]</mark> <mark style="background-color:orange;">\[\[Dept. Acronym] is covered by HIPAA and must meet the HIPAA de-identification standard. The DDG serves as a tool to make and document an expert determination consistent with the HIPAA standard. The following comes from federal guidance for HIPAA that provides more detail regarding Safe Harbor and Expert Determination under the HIPAA standard.]</mark>
 
-\[If your Department is not a covered entity under HIPAA, keep this paragraph:] \[\[Dept. Acronym] must comply with the data de-identification requirements under IPA. Accordingly, the following data de-identification standards will be used to ensure that data is de-identified for purposes of public release that meets the requirements of the IPA.
+<mark style="color:red;">\[If your Department is not a covered entity under HIPAA, keep this paragraph:]</mark> <mark style="background-color:orange;">\[\[Dept. Acronym] must comply with the data de-identification requirements under IPA. Accordingly, the following data de-identification standards will be used to ensure that data is de-identified for purposes of public release that meets the requirements of the IPA.</mark>
 
 The HIPAA Standard\[1] for de-identification of protected health information (PHI)\[2] states “Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.” If the data are de-identified, and it is not reasonably likely that the data could be re-identified, the Privacy Rule no longer restricts the use or disclosure of the de-identified data.
 

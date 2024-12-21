@@ -4,6 +4,12 @@ icon: folder-gear
 
 # References
 
+{% hint style="warning" %}
+Note: Some references listed here are no longer directly cited within the DDG but have been kept on this list due to their influence on the development of the original guidelines. Later DDG versions replaced some older references with newer, more up-to-date resources as those became available.
+
+***
+{% endhint %}
+
 Abowd and Hawes, “21st Century Statistical Disclosure Limitation: Motivations and Challenges”
 
 Armstrong, MP, G Rusthon, and DL Zimmerman, 1999, Geographically Masking Health Data to Preserve Confidentiality. Statistics in Medicine, 18, 497-525.
@@ -102,8 +108,6 @@ Sweeney, L. Testimony before that National Center for Vital and Health Statistic
 
 Templ et al., “Introduction to Statistical Disclosure Control”, International Household Survey Network, Working Paper 007, 2014
 
-\[A3]
-
 U.S. Bureau of Labor Statistics, “Occupation Finder: Occupational Outlook Handbook”, https://www.bls.gov/ooh/occupation-finder.htm
 
 U.S. Census Bureau, Geography Program, “About Geographic Areas: Urban and Rural”, 2020 Census, Retrieved from: https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html on April 2, 2024
@@ -147,9 +151,3 @@ Wartman SA, Combs CD. Reimagining Medical Education in the Age of AI. AMA J Ethi
 Washington State Department of Health. "Guidelines for Working with Small Numbers." N.p., 15 October 2012. Retrieved from [http://www.doh.wa.gov/Portals/1/Documents/5500/SmallNumbers.pdf](http://www.doh.wa.gov/Portals/1/Documents/5500/SmallNumbers.pdf).
 
 ***
-
-{% hint style="info" %}
-Note: Some references that appear above are no longer directly cited within the DDG but have been kept on this list due to their influence on the development of the original guidelines. Later DDG versions replaced some older references with newer, more up-to-date resources as those became available. \[A1]
-
-***
-{% endhint %}
