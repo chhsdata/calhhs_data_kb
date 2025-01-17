@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Data Sharing Knowledgebase](README.md)
+* [Data Knowledgebase](README.md)
 
 ## Data Sharing <a href="#sharing-guide" id="sharing-guide"></a>
 
