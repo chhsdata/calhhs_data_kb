@@ -1,5 +1,4 @@
 ---
-icon: square-info
 layout:
   title:
     visible: true

@@ -1,7 +1,3 @@
----
-icon: magnifying-glass-chart
----
-
 # Assess
 
 ## Play 02. Assess: tools & capabilities <a href="#play-02-assess-tools--capabilities" id="play-02-assess-tools--capabilities"></a>

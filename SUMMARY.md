@@ -2,18 +2,6 @@
 
 * [Data Knowledgebase](README.md)
 
-## Data Playbook
-
-* [Home](data-playbook/data-playbook-intro.md)
-* [Define](data-playbook/define.md)
-* [Assess](data-playbook/assess.md)
-* [Implement](data-playbook/implement.md)
-* [Evaluate](data-playbook/evaluate.md)
-* [Share](data-playbook/share.md)
-* [Action Items](data-playbook/action-items.md)
-* [Success Stories](data-playbook/success-stories.md)
-* [Resource Library](data-playbook/resource.md)
-
 ## Data Sharing <a href="#sharing-guide" id="sharing-guide"></a>
 
 * [Data Sharing Guidebook](sharing-guide/data-sharing-guidebook.md)
@@ -27,6 +15,18 @@
   * [Play 7: Promote](sharing-guide/data-plays-intro/play-7.md)
   * [Play 8: Prepare](sharing-guide/data-plays-intro/play-8.md)
 * [Lessons Learned](sharing-guide/lessons-learned.md)
+
+## Data Playbook
+
+* [Home](sharing-guide/data-playbook-intro.md)
+* [Define](sharing-guide/define.md)
+* [Assess](sharing-guide/assess.md)
+* [Implement](sharing-guide/implement.md)
+* [Evaluate](sharing-guide/evaluate.md)
+* [Share](sharing-guide/share.md)
+* [Action Items](sharing-guide/action-items.md)
+* [Success Stories](sharing-guide/success-stories.md)
+* [Resource Library](supplemental/odp-resources.md)
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 

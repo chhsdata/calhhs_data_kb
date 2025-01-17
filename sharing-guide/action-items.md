@@ -1,7 +1,3 @@
----
-icon: square-check
----
-
 # Action Items
 
 _Adapted from the_ [_GovLoop Big Data Playbook for Government_](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website\&utm_medium=Button\&utm_campaign=Guide)
