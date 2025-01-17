@@ -26,6 +26,7 @@
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 
+* [Data De-Identification Guidelines](ddg/data-de-identification-guidelines.md)
 * [DDG: Purpose](ddg/purpose.md)
 * [DDG: Background](ddg/background.md)
 * [DDG: Scope](ddg/scope.md)
