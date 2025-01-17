@@ -31,15 +31,25 @@ Additionally, the DDG support CHHS governance goals to reduce inconsistency of p
 
 The CalHHS Data De-Identification Guidelines are divided up into multiple sections. The sections can be navigated using the list on the left side of this page or by clicking one of the section links below:
 
-* [Background](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/background)
-* [Scope](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/scope)
-* [Statistical Masking](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/statistical)
-* [Types of Reporting](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/reporting)
-* [Thresholds](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/thresholds)
-* [Approval Process](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/approval-process)
-* [DDG Governance](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/ddg-governance)
-* [Publicly Available Data](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/publicly-available-data)
-* [Development Process](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/development-process)
-* [Legal Framework](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/legal-framework)
-* [References](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/references)
-* [DDG Appendix](https://calhhs-data.gitbook.io/data-knowledge-base/ddg/appendix)
+Background
+
+Scope
+
+Statistical De-Identification
+
+Types of Reporting
+
+Justification of Thresholds Identified
+
+Approval Process
+
+DDG Governance
+
+Publicly Available Data
+
+Development Process
+
+Legal Framework
+
+
+

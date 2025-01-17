@@ -26,7 +26,7 @@
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 
-* [DDG: Revision History](ddg/ddg-revision-history.md)
+* [Revision History](ddg/revision-history.md)
 * [1. Purpose](ddg/purpose.md)
 * [2. Background](ddg/background.md)
 * [3. Scope](ddg/scope.md)
@@ -43,10 +43,10 @@
   * [5.3 Budgets and Fiscal Estimates](ddg/5.-types-of-reporting/5.3-budgets-and-fiscal-estimates.md)
   * [5.4 Facilities, Service Locations and Providers](ddg/5.-types-of-reporting/5.4-facilities-service-locations-and-providers.md)
   * [5.5 Mandated Reporting](ddg/5.-types-of-reporting/5.5-mandated-reporting.md)
-* [Justification of Thresholds Identified](ddg/justification-of-thresholds-identified/README.md)
-  * [6.2 Assessing Potential Risk – Publication Scoring Criteria](ddg/justification-of-thresholds-identified/6.2-assessing-potential-risk-publication-scoring-criteria.md)
-  * [6.3 Assessing Potential Risk – Alternate Methods](ddg/justification-of-thresholds-identified/6.3-assessing-potential-risk-alternate-methods.md)
-  * [6.4 Statistical Masking](ddg/justification-of-thresholds-identified/6.4-statistical-masking.md)
+* [6. Justification of Thresholds Identified](ddg/6.-justification-of-thresholds-identified/README.md)
+  * [6.2 Assessing Potential Risk – Publication Scoring Criteria](ddg/6.-justification-of-thresholds-identified/6.2-assessing-potential-risk-publication-scoring-criteria.md)
+  * [6.3 Assessing Potential Risk – Alternate Methods](ddg/6.-justification-of-thresholds-identified/6.3-assessing-potential-risk-alternate-methods.md)
+  * [6.4 Statistical Masking](ddg/6.-justification-of-thresholds-identified/6.4-statistical-masking.md)
 * [7. Approval Process](ddg/7.-approval-process.md)
 * [8. DDG Governance](ddg/8.-ddg-governance.md)
 * [9. Publicly Available Data](ddg/9.-publicly-available-data.md)
