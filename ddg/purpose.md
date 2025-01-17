@@ -19,13 +19,11 @@ layout:
     visible: true
 ---
 
-# CalHHS Data De-Identification Guidelines
+# DDG: Purpose
 
-## DDG Purpose
+The California Health and Human Services Agency (CalHHS) Data De-Identification Guidelines (DDG) describes a procedure to be used by CalHHS to assess data for public release. As part of the document, specific actions that may be taken for each step in the procedure are described. \[If you are a covered entity, keep this sentence and delete the next one:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) \[1] and the Health Insurance Portability and Accountability Act (HIPAA) \[2] to prevent the disclosure of personal information.] \[If you are not a covered entity, keep this sentence and delete the prior:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meets the requirements of the California Information Practices Act (IPA).]
 
-The _<mark style="background-color:orange;">\[California Health and Human Services Agency (CalHHS)]</mark>_ Data De-Identification Guidelines (DDG) describes a procedure to be used by _\[CalHHS]_ to assess data for public release. As part of the document, specific actions that may be taken for each step in the procedure are described. \[If you are a covered entity, keep this sentence and delete the next one:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) \[1] and the Health Insurance Portability and Accountability Act (HIPAA) \[2] to prevent the disclosure of personal information.] \[If you are not a covered entity, keep this sentence and delete the prior:] \[These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meets the requirements of the California Information Practices Act (IPA).]
-
-Additionally, the _<mark style="background-color:orange;">\[CalHHS]</mark>_ DDG aligns with the CalHHS DDG which supports CalHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CalHHS initiatives, such as the CalHHS Open Data Portal.
+Additionally, the CalHHS DDG supports CalHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CalHHS initiatives, such as the CalHHS Open Data Portal.
 
 ***
 

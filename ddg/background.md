@@ -2,9 +2,7 @@
 icon: list-timeline
 ---
 
-# Background
-
-## Data De-Identification Guidelines: Background
+# DDG: Background
 
 CalHHS implemented an agency-wide governance structure in October 2014. The governance structure acts both in a decision-making and advisory capacity to Agency leadership and its departments and offices. Implementation of the governance framework supports information technology (IT) initiatives that are more tightly aligned with meeting business objectives, enhanced project prioritization and improved strategic IT investment decisions. The Executive Sponsor is the Undersecretary of CalHHS. The Advisory Council consists of representatives of senior leadership from departments and offices in the Agency. There are six subcommittees that report to the Advisory Council, which include the Risk Management, and Data Subcommittees.
 
@@ -19,8 +17,6 @@ In addition, the PRT reviews and approves department DDGs and approves certain i
 * Level Three: Level three data are restricted due to HIPAA, state, or federal law. These data will NOT be accessible through the CalHHS Open Data Portal.
 
 Data can change from Level 3 to Level 1 if appropriate de-identification processes are employed. The CalHHS DDG described in this document will support departments and offices in the evaluation of data to determine whether it has been adequately de-identified so that it can be considered Level 1.
-
-<mark style="color:red;">**\[Enter one to two paragraphs regarding your department’s commitment in relation to data sharing, transparency, as well as compliance with applicable privacy laws, and tie back to the relevance of data de-identification to accomplish those goals.]**</mark>
 
 ### Footnotes:
 
