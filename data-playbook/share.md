@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Share
 
 ## Play 05. Share: progress & results <a href="#play-05-share-progress--results" id="play-05-share-progress--results"></a>

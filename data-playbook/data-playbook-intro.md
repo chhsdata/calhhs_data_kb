@@ -1,11 +1,6 @@
 ---
 icon: square-info
-cover: ../data-plays/.gitbook/assets/00_figure01.png
-coverY: 254
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -18,7 +13,7 @@ layout:
     visible: true
 ---
 
-# About Data Plays
+# Home
 
 ## Five plays for your Department <a href="#five-plays-for-your-department" id="five-plays-for-your-department"></a>
 

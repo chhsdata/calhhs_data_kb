@@ -1,6 +1,5 @@
 ---
 icon: magnifying-glass-chart
-hidden: true
 ---
 
 # Assess

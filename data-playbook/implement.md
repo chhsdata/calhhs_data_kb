@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Implement
 
 ## Play 03. Implement: plan & strategy <a href="#play-03-implement-plan--strategy" id="play-03-implement-plan--strategy"></a>
