@@ -52,6 +52,9 @@
 * [9. Publicly Available Data](ddg/9.-publicly-available-data.md)
 * [10. Development Process](ddg/10.-development-process.md)
 * [11. Legal Framework](ddg/11.-legal-framework.md)
+* [Appendix A: Expert Determination Template](ddg/appendix-a-expert-determination-template.md)
+* [Appendix B: 2015 HIPAA Reassessment Results](ddg/appendix-b-2015-hipaa-reassessment-results.md)
+* [Appendix C: State and County Population Projections](ddg/appendix-c-state-and-county-population-projections.md)
 
 ## Open Data Handbook <a href="#odp" id="odp"></a>
 
