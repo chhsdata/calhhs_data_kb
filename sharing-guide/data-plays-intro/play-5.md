@@ -2,7 +2,9 @@
 icon: circle-5
 ---
 
-# Play 5
+# Play 5: Metadata
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 5: Establish Your Metadata Repository
 
@@ -17,7 +19,7 @@ The term “metadata” may not be familiar to your data consumers. When explain
 
 This diagram depicts your metadata repository and its consumers across your department’s various teams:
 
-<figure><img src="../../.gitbook/assets/image%20(4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 **Metadata Repository Consumers**
 
@@ -118,7 +120,7 @@ The CDW lacks the funds to purchase a data catalog for its metadata repository t
 
 Carlos’ background as a database administrator helps solve the funding problem. He suggests using tools CDW already owns, including the department’s database and collaboration platform, Microsoft Teams. First, the CDW will use a combination of spreadsheets and description fields in their databases to collect and store their metadata. These tools provide automation that help scale the effort for the rest of the department’s datasets. Carlos’ metadata management process is depicted below:
 
-<figure><img src="../../.gitbook/assets/image%20(9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 #### **The CDW Creates Its Metadata Repository Technology Platform**
 

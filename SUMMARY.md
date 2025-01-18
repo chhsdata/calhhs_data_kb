@@ -5,6 +5,7 @@
 ## Data Sharing <a href="#sharing-guide" id="sharing-guide"></a>
 
 * [Data Sharing Guidebook](sharing-guide/data-sharing-guidebook.md)
+* [Lessons Learned](sharing-guide/lessons-learned.md)
 * [Data Plays](sharing-guide/data-plays-intro/README.md)
   * [Play 1: Sharing Metrics](sharing-guide/data-plays-intro/play-1.md)
   * [Play 2: Identify](sharing-guide/data-plays-intro/play-2.md)
@@ -14,7 +15,6 @@
   * [Play 6: Describe](sharing-guide/data-plays-intro/play-6.md)
   * [Play 7: Promote](sharing-guide/data-plays-intro/play-7.md)
   * [Play 8: Prepare](sharing-guide/data-plays-intro/play-8.md)
-* [Lessons Learned](sharing-guide/lessons-learned.md)
 
 ## Data Playbook
 

@@ -2,7 +2,9 @@
 icon: circle-6
 ---
 
-# Play 6
+# Play 6: Describe
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 6: Describe Your Data
 

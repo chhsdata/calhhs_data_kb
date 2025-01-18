@@ -2,7 +2,9 @@
 icon: circle-2
 ---
 
-# Play 2
+# Play 2: Identify
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 2: Identify Your Datasets
 
@@ -67,7 +69,7 @@ These roles may not be represented in your department, but staff who perform the
 
 Combining a list of your department’s programs and their corresponding technology platforms creates a comprehensive starting point to inventory your datasets. Although your information technology department likely has a broad view of data sources, they may not have visibility of systems developed by lines of business. Creating the inventory from both the program and technology aspects ensures your dataset list is complete and captures the information needed for your data-sharing efforts. The diagram below depicts the process of collecting your dataset inventory:
 
-<figure><img src="../../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **Identify and Describe Your Datasets**
 
@@ -86,9 +88,9 @@ Populate your data inventory as you capture each dataset’s information to incr
 
 #### Play 2.2 Vignette: Sally and Carlos Inventory the CDW Datasets
 
-Sally sets out to create a current inventory of the CDW datasets. Sally and Carlos’ effort to inventory the CDW data is depicted in the graphic on the following page:\\
+Sally sets out to create a current inventory of the CDW datasets. Sally and Carlos’ effort to inventory the CDW data is depicted in the graphic on the following page:
 
-<figure><img src="../../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 **Creating the CDW Dataset Inventory**
 

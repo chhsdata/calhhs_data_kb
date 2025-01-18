@@ -1,6 +1,6 @@
 ---
 icon: head-side-brain
-cover: .gitbook/assets/Artboard 6.png
+cover: .gitbook/assets/Artboard 6 (2).png
 coverY: 0
 layout:
   cover:

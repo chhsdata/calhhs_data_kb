@@ -2,7 +2,9 @@
 icon: circle-1
 ---
 
-# Play 1
+# Play 1: Sharing Metrics
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 1: Establish Data-Sharing Metrics and BUCP Tracking
 

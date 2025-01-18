@@ -1,5 +1,21 @@
 ---
 icon: map-location
+cover: ../.gitbook/assets/Artboard 9.png
+coverY: -25.33765392093325
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Data Sharing Guidebook
@@ -12,7 +28,7 @@ Data is a core facilitator for the California Health and Human Services (CalHHS)
 
 Realizing this vision requires data flow across the Agency’s departments and partner organizations. The CalHHS Data-Sharing Guidebook’s purpose is to be an asset that is broadly applicable to departments with various levels of data-sharing capabilities and experience. The diagram below provides the CalHHS Data-Sharing Guidebook’s purpose in California’s data- sharing ecosystem.
 
-<figure><img src="../data-plays/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 The Guide is composed of two sections:
 
@@ -31,9 +47,5 @@ The Guidebook’s primary audience is data coordinators and data management team
 
 ***
 
-### Navigation
 
-Below are the links to the various documents and guides that make up the CalHHS Data Resource Knowledge Base.
-
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td>Agency Data Plays</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Data De-Identification</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Open Data Handbook</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Supplemental Information</td><td><a href="broken-reference">Broken link</a></td><td></td></tr></tbody></table>
 
