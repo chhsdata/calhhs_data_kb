@@ -2,7 +2,9 @@
 icon: circle-8
 ---
 
-# Play 8
+# Play 8: Prepare
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 8: Prepare to Receive Data
 

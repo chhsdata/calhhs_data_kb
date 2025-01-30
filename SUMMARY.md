@@ -15,6 +15,9 @@
   * [Play 6: Describe](sharing-guide/data-plays-intro/play-6.md)
   * [Play 7: Promote](sharing-guide/data-plays-intro/play-7.md)
   * [Play 8: Prepare](sharing-guide/data-plays-intro/play-8.md)
+* [Data Element Definitions](sharing-guide/definitions.md)
+* [Application Program Interfaces](sharing-guide/api.md)
+* [Training and Reference](sharing-guide/supplemental-reference.md)
 
 ## Data Playbook
 
@@ -75,8 +78,5 @@
 
 * [Glossary and Acronyms](supplemental/glossary.md)
 * [Tools Supplement](supplemental/tools.md)
-* [Definitions Supplement](supplemental/definitions.md)
 * [Discovery Sessions Supplement](supplemental/discovery-sessions.md)
 * [Benefits Supplement](supplemental/benefits.md)
-* [API Supplement](supplemental/api.md)
-* [Supplemental: Reference](supplemental/supplemental-reference.md)

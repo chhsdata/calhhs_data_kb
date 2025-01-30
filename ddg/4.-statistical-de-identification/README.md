@@ -23,7 +23,7 @@ Summarized data may be reviewed in the context of the numerator and the denomina
 
 The numerator is typically the value in each table cell. However, the denominator can be difficult to identify given the various ways in which tables are prepared. Two examples of tables, Figure 3 and Figure 4, show the numerators and denominators in sample tables.
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Figure 3: Illustration of Numerators and Denominators in a Table</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Figure 3: Illustration of Numerators and Denominators in a Table</p></figcaption></figure></div>
 
 Figure 3 shows an example table with the numerator and the denominator highlighted. The Cells in the table are the boxes with values in them, as opposed to the row and column headings. The row headings are 2012 and 2011. The column headings are Year, # of Medi-Cal Members in Fee For Service (in thousands) and Number of Medi- Cal Members in Managed Care (in thousands). In Figure 3, “2,775” is the value in a table cell and represents a numerator. The sum of the row for year 2012 (2,775 + 4,853
 
@@ -31,6 +31,6 @@ Figure 3 shows an example table with the numerator and the denominator highlight
 
 Figure 4 shows another type of table that contains rates. In this case, the numerator is the number of Salmonella cases for a sample of California Local Health Jurisdictions in 2014. The table also includes the rate of Salmonella for these jurisdictions. In order to calculate the rate, the population size of each jurisdiction is required, but is not shown directly in this table. The population denominator is an important element for data de- identification.
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure></div>
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure></div>

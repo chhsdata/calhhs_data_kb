@@ -2,7 +2,9 @@
 icon: circle-7
 ---
 
-# Play 7
+# Play 7: Promote
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Play 7: Promote Data Awareness
 

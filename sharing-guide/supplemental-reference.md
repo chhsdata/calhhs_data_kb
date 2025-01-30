@@ -1,9 +1,8 @@
 ---
 icon: books
-hidden: true
 ---
 
-# Supplemental: Reference
+# Training and Reference
 
 ## Additional Training and Reference Materials
 
