@@ -17,7 +17,7 @@
   * [Play 8: Prepare](sharing-guide/data-plays-intro/play-8.md)
 * [Data Element Definitions](sharing-guide/definitions.md)
 * [Application Program Interfaces](sharing-guide/api.md)
-* [Training and Reference](sharing-guide/supplemental-reference.md)
+* [Additional Training and Reference Materials](sharing-guide/supplemental-reference.md)
 
 ## Data Playbook
 
