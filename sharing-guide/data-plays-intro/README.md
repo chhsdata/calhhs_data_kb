@@ -55,7 +55,7 @@ Meet the core team that is working on the CDW data-sharing improvement effort:
 
 Other CDW staff that will help improve data sharing are introduced as they appear in Play- specific vignettes.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sally recently facilitated a team retrospective after providing data under a BUCP to share a portion of the Healthy Habits program data. Common themes from the team’s feedback include:
 
@@ -70,7 +70,7 @@ Based on these findings, Sally is launching an effort to improve CDW’s ability
 
 This Guidebook comprises eight Data-Sharing Plays that aim to improve your ability to share and receive data. The roadmap below depicts the relationships of the Plays and their suggested order of execution:
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Data Sharing Roadmap</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Data Sharing Roadmap</p></figcaption></figure>
 
 The tables below summarize the Plays and their primary objectives:
 

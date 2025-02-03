@@ -98,8 +98,6 @@ After looking through the CDW, she finds an inventory of datasets. The file was 
 
 Since Carlos recently joined the department, he has not yet learned about all the CDW systems. Carlos asks Andrea, the CDW IT Manager, for a list of the various databases and extracts maintained by CDW. The list from IT has high-level technical information on the datasets and some high-level description of the content but needs additional information from program teams to establish business context.
 
-\\
-
 Sally retrieves a list of the programs (e.g., Healthy Habits) run by the CDW. She added the related programs to the list of systems she received from IT. Sally adds the lists of the CDW programs to verify that the list is complete. She finds that the IT department’s list does not include a system used by the Healthy Habits program. She takes a note to find out more about where the Healthy Habits data is stored.
 
 Before contacting the various programs, Sally prepares discovery session questions to gather the information she needs to complete the data inventory. Sally reads _Play 4: Prioritize Your Data_ to develop questions to gather some initial information that will be later used to prioritize the CDW data-sharing improvement efforts.

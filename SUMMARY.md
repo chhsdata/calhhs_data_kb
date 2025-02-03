@@ -18,6 +18,11 @@
 * [Data Element Definitions](sharing-guide/definitions.md)
 * [Application Program Interfaces](sharing-guide/api.md)
 * [Additional Training and Reference Materials](sharing-guide/supplemental-reference.md)
+* [Planning Your Data Project](sharing-guide/planning-your-data-project/README.md)
+  * [Determining Goals and Strategy](sharing-guide/planning-your-data-project/determining-goals-and-strategy.md)
+  * [What Data Will You Need](sharing-guide/planning-your-data-project/what-data-will-you-need.md)
+  * [Where to find your data](sharing-guide/planning-your-data-project/where-to-find-your-data.md)
+* [Share Progress and Results](sharing-guide/share-progress-and-results.md)
 
 ## Data Playbook
 
