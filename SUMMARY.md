@@ -6,7 +6,7 @@
 
 * [Data Sharing Guidebook](sharing-guide/data-sharing-guidebook.md)
 * [Lessons Learned](sharing-guide/lessons-learned.md)
-* [Data Plays](sharing-guide/data-plays-intro/README.md)
+* [Data Sharing Plays](sharing-guide/data-plays-intro/README.md)
   * [Play 1: Sharing Metrics](sharing-guide/data-plays-intro/play-1.md)
   * [Play 2: Identify](sharing-guide/data-plays-intro/play-2.md)
   * [Play 3: Business Case](sharing-guide/data-plays-intro/play-3.md)

@@ -2,9 +2,7 @@
 icon: chalkboard-user
 ---
 
-# Data Plays
-
-## Data Sharing Plays
+# Data Sharing Plays
 
 The Data-Sharing Plays (Plays) improves data data-sharing by:
 
