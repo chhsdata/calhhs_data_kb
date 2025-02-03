@@ -26,7 +26,7 @@ The completion of an “Information Architecture Assessment” provides standard
 
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets. Consider how the creation, maintenance, and sharing of such documentation can add to a greater Agency repository of resources.
 
-\[!\[Action Item]\(\{{ site.baseurl \}}/assets/images/05\_figure01.png "Action Item")]\(\{{ site.baseurl \}}/action\_items)
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **Data Publication and Presentation** – Your Department or program may have an established visual and brand style that can provide greater credibility to your data analysis. Aspects such as color, font face, and citation format can add consistency.
 
@@ -34,8 +34,10 @@ There’s an opportunity to use this documentation to build a repository of Agen
 
 Many think of data in terms of large reports with many charts and graphs, but we can’t expect all audiences to digest long reports. It’s better to offer increasingly deeper levels of detail. For example, lead with an impactful figure or statistics to entice the reader. Then, offer a single graph or short fact sheet with more detail. You can further link the audience to a full report or interactive visualization.
 
-Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwayapp.com/){:target="\_blank"}, to ensure your narrative is impactful, clear, and tailored for your audience. Be sure to also consider your product’s accessibility to a wide array of users.
+Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwayapp.com/), to ensure your narrative is impactful, clear, and tailored for your audience. Be sure to also consider your product’s accessibility to a wide array of users.
 
-\[!\[CHHS Governance Resources]\(\{{ site.baseurl \}}/assets/images/05\_figure04.png "CHHS Governance Resources")]\(\{{ site.baseurl \}}/resource\_library)
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Check out the examples of CHHS data-driven success in the \[Success Stories section]\(\{{ site.baseurl \}}/success\_stories/).
+
+
+Check out the examples of CHHS data-driven success on the [Data Sharing Benefits page](../appendix/benefits.md).

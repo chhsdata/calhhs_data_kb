@@ -23,6 +23,7 @@
   * [What Data Will You Need](sharing-guide/planning-your-data-project/what-data-will-you-need.md)
   * [Where to find your data](sharing-guide/planning-your-data-project/where-to-find-your-data.md)
 * [Share Progress and Results](sharing-guide/share-progress-and-results.md)
+* [Action Items](<sharing-guide/action-items (1).md>)
 
 ## Data Playbook
 
@@ -79,9 +80,9 @@
 * [Guidelines](odp/guidelines.md)
 * [Use](odp/use.md)
 
-## Supplemental Information <a href="#supplemental" id="supplemental"></a>
+## Appendix and Supplemental Information <a href="#appendix" id="appendix"></a>
 
-* [Glossary and Acronyms](supplemental/glossary.md)
-* [Tools Supplement](supplemental/tools.md)
-* [Discovery Sessions Supplement](supplemental/discovery-sessions.md)
-* [Benefits Supplement](supplemental/benefits.md)
+* [Glossary and Acronyms](appendix/glossary.md)
+* [Data Tools Supplement](appendix/tools.md)
+* [Data Discovery Sessions](appendix/discovery-sessions.md)
+* [Data Sharing Benefits](appendix/benefits.md)

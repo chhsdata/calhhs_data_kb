@@ -108,13 +108,13 @@ The data-sharing improvement effort requires support from teams across your depa
 
 **Data Prioritization Staff Resources**
 
-The Plays provide an iterative approach to incrementally improve data-sharing through a prioritization process. Further described in _Play 4: Prioritize Your Data_, you will need to work with staff members with decision-making authority to provide input into a rubric to prioritize your department’s data.
+The Plays provide an iterative approach to incrementally improve data-sharing through a prioritization process. Further described in [_Play 4: Prioritize Your Data_](play-4.md), you will need to work with staff members with decision-making authority to provide input into a rubric to prioritize your department’s data.
 
-Your resource plan should include staff to support the prioritization effort. You can read _Play 4: Prioritize Your Data_ to learn more about the recommended data prioritization approach to create a staff request in your business plan.
+Your resource plan should include staff to support the prioritization effort. You can read [_Play 4: Prioritize Your Data_](play-4.md) to learn more about the recommended data prioritization approach to create a staff request in your business plan.
 
 **Data-Sharing Improvement Staff Resources**
 
-After selecting your priority datasets, in _Play 6: Describe Your Data_, you will improve data understanding and the ability to process BUCP security and privacy requirements by enriching dataset descriptions (i.e., Metadata). Describing the priority datasets is a multidisciplinary effort that requires the following staff support:
+After selecting your priority datasets, in [_Play 6: Describe Your Data_,](play-6.md) you will improve data understanding and the ability to process BUCP security and privacy requirements by enriching dataset descriptions (i.e., Metadata). Describing the priority datasets is a multidisciplinary effort that requires the following staff support:
 
 * Access to data subject matter experts to enrich your dataset’s business definitions.
 * Time from information security to mark data with security classifications.
@@ -123,17 +123,17 @@ After selecting your priority datasets, in _Play 6: Describe Your Data_, you wil
 
 **Technology Investments**
 
-In addition to staff resources, your effort may require technology investments. For example, using a metadata repository tool reduces staff time to collect and maintain your department's data inventory and descriptions. Data catalog tools also provide the capability to maintain description and metadata on datasets beyond those stored in your database, including API and analytics-based datasets. The benefits provided by metadata repository tools are further described in the Guidebook’s supplemental section _Example Metadata Repository Tools._
+In addition to staff resources, your effort may require technology investments. For example, using a metadata repository tool reduces staff time to collect and maintain your department's data inventory and descriptions. Data catalog tools also provide the capability to maintain description and metadata on datasets beyond those stored in your database, including API and analytics-based datasets. The benefits provided by metadata repository tools are further described in the Guidebook’s supplemental section [_Example Metadata Repository Tools_](../../appendix/tools.md)_._
 
-You may also find that technology investments are needed to improve your BUCP tracking, and document repository created in _Play 1: Establish Data-Sharing Metrics and BUCP Tracking_. Include software and infrastructure costs required for the data-sharing improvement effort in your business plan.
+You may also find that technology investments are needed to improve your BUCP tracking, and document repository created in [_Play 1: Establish Data-Sharing Metrics and BUCP Tracking_](play-1.md). Include software and infrastructure costs required for the data-sharing improvement effort in your business plan.
 
 #### Play 3.4 Vignette: Sally and Carlos Create a High-Level Resource Plan
 
 With the benefits of her proposal defined, Sally creates a high-level resource plan. Sally works with Carlos to identify the staff resources she will need for the effort.
 
-Sally requests access to the following staff to prioritize the CDW’s datasets. These CDW staff members support the execution of _Play 4: Prioritize Your Data._ She asks executive management to select a set of stakeholders with decision-making authority to create the method used to prioritize datasets. She also denotes the need for access to program and business analysis staff to gather information to rank the priority of the department’s datasets.
+Sally requests access to the following staff to prioritize the CDW’s datasets. These CDW staff members support the execution of [_Play 4: Prioritize Your Data_](play-4.md)_._ She asks executive management to select a set of stakeholders with decision-making authority to create the method used to prioritize datasets. She also denotes the need for access to program and business analysis staff to gather information to rank the priority of the department’s datasets.
 
-Once the dataset priority is established, the effort will need access to a broader set of staff to execute _Play 6: Describe Your Data._ She summarizes resource needs from the business analysis, program, information security, legal, and technology teams. The high-level plan denotes that specific staff and tooling resource requests will be made once the first dataset is selected for data-sharing improvements.
+Once the dataset priority is established, the effort will need access to a broader set of staff to execute [_Play 6: Describe Your Data_](play-6.md)_._ She summarizes resource needs from the business analysis, program, information security, legal, and technology teams. The high-level plan denotes that specific staff and tooling resource requests will be made once the first dataset is selected for data-sharing improvements.
 
 Sally and Carlos also created the business case to invest in a technology platform to collect and provide web-based access to the resulting data descriptions. The technology platform reduces the project's effort and improves the resulting benefits to internal data consumers.
 
@@ -149,8 +149,8 @@ A sample outline of a presentation to management is provided below:
 
 * Definition of Data Sharing: Describe data-sharing using terms that are relatable to executive management.
 * Benefits of Data Sharing: Summarize the findings from your initial research on the benefits of data sharing.
-* Direct Benefits to the Department: The Guidebook’s supplemental section _Benefits to Your Department from Executing the Plays_ provides a detailed description of benefits you can include in your business case.
-* High-Level Plan: Summarize the iterative approach described in _Play 3.4: Creation a High-Level Plan and Resource Request._
+* Direct Benefits to the Department: The Guidebook’s supplemental section [_Benefits to Your Department from Executing the Play_](../../appendix/benefits.md)_s_ provides a detailed description of benefits you can include in your business case.
+* High-Level Plan: Summarize the iterative approach described in [_Play 3.4: Creation a High-Level Plan and Resource Request_](play-3.md#play_3.4_create_a_high-level_plan_and_re)_._
 * Deliverable: Describe the data inventory and prioritization. Regardless of whether the initiative moves forward, the department will better understand its data.
 * Request for Staff Support: List the staff resources for the effort to prioritize the department datasets.
 * Approval to Develop a Prioritization Rubric: Obtain approval and access to department data stakeholders to create a standard mechanism to prioritize data-sharing improvements.
