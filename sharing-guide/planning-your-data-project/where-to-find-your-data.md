@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Where to find your data
 
 The final step of the planning process is also the most important and crucial to successful execution of your project: determining what data you need and where you will find it. This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. In most data-driven companies, the “80/20 Rule” applies to data projects: 80 percent of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20 percent spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. In this section, you’ll find information on accessing Internal Data (both within your department and in others) as well as External Data (data owned by some outside agency/organization, and typically publicly available). Use the Process Flow Chart on the following page to choose which resource — the Data Sharing Agreement, the Open Data Portal, your department’s stored data, or publicly available data— is appropriate for each of your data sources.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Option 1: Program Data
 
@@ -22,7 +26,7 @@ The goals of the Data Sharing Agreement are the following:
 
 Establish a legal framework for data initiatives Maximize appropriate sharing to increase positive outcomes and customer service Ensure privacy and security protections Reduce risk and use of duplicative resources Standardize data use agreements among CHHS Departments and offices Reduce contracting and data use agreement redundancies Track activity for better understanding of common data sharing needs between CHHS departments To get data via the Data Sharing Agreement, you must contact your department’s Data Coordinator and submit a Business Use Case Proposal; this ensures proper documentation of what data you need, why you need it, and your commitment to several requirements, such as preserving the shared dataset in the form it was given to you. For more detailed instructions, visit the Business Use Case instructions or view the FAQ.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Option 3: Externally (Publicly-Available Data)
 

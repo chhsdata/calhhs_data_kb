@@ -6,7 +6,7 @@ It is important to decide your vision and purpose behind your project, and ident
 
 First, a bit about goals: for your project to execute smoothly, it is best to choose SMART Goals, of goals that are specific, measurable, achievable, realistic, and timely. Look at our summary of the [SMART Goal checklist](https://www.mindtools.com/pages/article/smart-goals.htm) below:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>SMART Goals</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>SMART Goals</p></figcaption></figure>
 
 {% hint style="info" %}
 Hint: Goals often fall into one of the following categories:

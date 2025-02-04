@@ -1,9 +1,9 @@
 ---
-description: 'Supplemental: Example Metadata Repository Tools'
 icon: wrench
+description: 'Supplemental: Example Metadata Repository Tools'
 ---
 
-# Supplemental: Tools
+# Data Tools
 
 Metadata repository platforms save time in the maintenance of your data dictionary and improve access to metadata. Data catalog platforms also make it easier to manage custom metadata, including references to applicable statutes that govern data-sharing. Data catalog platforms also promote the use of your data-sharing artifacts by improving access through web access and search functions.
 
@@ -16,7 +16,7 @@ Standard data catalog features include:
 * Compatibility with both cloud and on-premises database platforms.
 * Store metadata across data sources (e.g., Databases, APIs)
 
-Commercial and open-source platforms are available. Sparx EA is a commonly used tool that provides data dictionary functionality that may already be in use by your department's Enterprise Architecture team. Your metadata must be widely accessible to be useful. Your selected tool must be easy to use for non-technical staff.
+Commercial and open-source platforms are available. [Sparx EA (Enterprise Architect)](https://sparxsystems.com/) is a commonly used tool that provides data dictionary functionality that may already be in use by your department's Enterprise Architecture team. Your metadata must be widely accessible to be useful. Your selected tool must be easy to use for non-technical staff.
 
 Some example open-source offerings include:
 

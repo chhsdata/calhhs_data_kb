@@ -5,7 +5,7 @@ description: Benefits to data sharing and success stories.
 
 # Data Sharing Benefits
 
-## Benfits
+## Benefits
 
 ### Benefits to Your Department from Executing the Plays
 
@@ -13,7 +13,7 @@ Cataloging your department's datasets and capturing their metadata benefits exte
 
 * Secure executive support by showing internal benefits and bolstering the business case for the data cataloging effort.
 * Gain buy-in from the internal teams that are needed to support the effort by demonstrating direct benefit to their efforts.
-* **Support the business case for the acquisition of data management tools.**
+* Support the business case for the acquisition of data management tools.
 
 ### Benefits for Internal Cross-Program Data-Sharing
 
@@ -44,7 +44,8 @@ Creating your data catalog also addresses State Administrative Manual (SAM) [516
 Having a detailed inventory of data elements and their data security classifications also benefits information security. The inventory of data elements and classifications provides the following:
 
 * **State Information Management Manual (SIMM)** [**5305-A**](https://cdt.ca.gov/wp-content/uploads/2018/01/SIMM-5305_A_2018-0108.pdf) **Requirements:** SIMM 5305-A, through a reference to the Federal Information Processing Standards (FIPS) 199, requires that data maintained by the State of California maintain data classifications and other metadata.
-* Complete List of Applicable Security Requirements: The regulatory and department- level security requirements will vary by data element. Classifying each data element provides the information to establish the required data security controls. For example, some data elements may be subject to the Health Insurance Portability and Accountability Act (HIPAA)/ Health Information Technology for Economic and Clinical Health Act (HITECH). Other data elements may contain Personal Identifiable Information (PII) subject to California Senate Bill 1382 (SB1386 2003).
+* [State Information Management Manual (SIMM) 5305-A](https://cdt.ca.gov/wp-content/uploads/2018/01/SIMM-5305_A_2018-0108.pdf) Requirements: SIMM 5305-A, through a reference to the [Federal Information Processing Standards (FIPS) 199](https://csrc.nist.gov/pubs/fips/199/final), requires that data maintained by the State of California maintain data classifications and other metadata.
+* Complete List of Applicable Security Requirements: The regulatory and department- level security requirements will vary by data element. Classifying each data element provides the information to establish the required data security controls. For example, some data elements may be subject to the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)/ Health Information Technology for Economic and Clinical Health Act (HITECH). Other data elements may contain Personal Identifiable Information (PII) subject to [California Senate Bill 1382 (SB1386 2003)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200120020SB1386).
 * Input for Role-Based Access Control (RBAC): An inventory of data elements is the foundation for establishing an RBAC based on least privilege. The inventory of data elements is used to map elements to user roles to implement data access that restricts access while allowing users access to data needed to work effectively. The inventory of data and its classifications is used to implement fine-grained controls such as record and attribute level security.
 * Data De-identification: Data classifications and definitions are inputs for implementing data de-identification for datasets provided to internal users and external data recipients. Data de-identification eases data sharing by reducing risk. De-identified data may also expand the pool of internal staff to support analytics efforts through reduced security risk exposure.
 
@@ -70,7 +71,7 @@ Creating a data catalog also helps future modernization efforts by providing inp
   * Data migration/conversion efforts.
 * Document the data portions of the current state system to supplement procurement (e.g., Bidder's Library)
 
-The data architecture artifacts created during the data cataloging effort support aspects of the California Department of Technology (CDT) Project Approval Lifecycle (PAL) including:
+The data architecture artifacts created during the data cataloging effort support aspects of the [California Department of Technology (CDT) Project Approval Lifecycle (PAL)](https://cdt.ca.gov/project-delivery/how-do-i-start-a-project/) including:
 
 * Mid-Level Requirements
 * Data Conversion Plan

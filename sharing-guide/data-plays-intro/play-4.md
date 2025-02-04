@@ -10,7 +10,7 @@ icon: circle-4
 
 Preparing your data for sharing with other departments requires staff time and resources; this step focuses and prioritizes data-sharing efforts on data that yields the most benefits to your department and data consumers from other organizations. Starting with a single priority dataset delivers benefits more quickly than an expansive effort across all your department’s data and better utilizes staff resources. Additionally, an incremental approach allows your team to “inspect and adapt” with each iteration to improve efficiency.
 
-Your dataset inventory created in _Play 2: Identify Your Datasets_ is the foundation to prioritize data-sharing improvement efforts.
+Your dataset inventory created in [Play 2: Identify Your Datasets](play-2.md) is the foundation to prioritize data-sharing improvement efforts.
 
 This Play provides general guidance to:
 
@@ -20,15 +20,15 @@ This Play provides general guidance to:
 
 #### **Parallel Execution of Play 5: Establish Your Metadata Repository**
 
-We recommend executing Play 4 in parallel with _Play 5: Establish Your Metadata Repository_ to have capabilities for an immediate launch of _Play 6: Describe Your Data_ after completion of your data prioritization effort.
+We recommend executing Play 4 in parallel with [Play 5: Establish Your Metadata Repository](play-5.md) to have capabilities for an immediate launch of [Play 6: Describe Your Data](play-6.md) after completion of your data prioritization effort.
 
 ### Play 4.1 Establish a Data Prioritization Rubric <a href="#play_4.1_establish_a_data_prioritization" id="play_4.1_establish_a_data_prioritization"></a>
 
-A data prioritization rubric provides a standard set of characteristics to create consensus among department stakeholders about where to focus data-sharing improvement efforts. In _Play 3: Create a Business Case_, we recommended obtaining approval from executive management to collaborate with data stakeholders to establish a data prioritization rubric. This approach creates an organizational-level perspective to prioritize your department’s data.
+A data prioritization rubric provides a standard set of characteristics to create consensus among department stakeholders about where to focus data-sharing improvement efforts. In [Play 3: Create a Business Case](play-3.md), we recommended obtaining approval from executive management to collaborate with data stakeholders to establish a data prioritization rubric. This approach creates an organizational-level perspective to prioritize your department’s data.
 
 Establishing your prioritization rubric before initiating data prioritization research helps you collect the information needed to rank your department’s datasets during dataset analysis and discovery sessions.
 
-The table below provides sample characteristics to incorporate into your data prioritization rubric. Collaborate with the departmental staff selected to prioritize your department’s data in _Play 4.1: Establish a Data Prioritization Rubric_ to identify additional criteria and rankings. Collaboration improves your rubric and helps establish buy-in during the data prioritization ranking selection conducted later in this Play.
+The table below provides sample characteristics to incorporate into your data prioritization rubric. Collaborate with the departmental staff selected to prioritize your department’s data in [Play 4.1: Establish a Data Prioritization Rubric](play-4.md#play_4.1_establish_a_data_prioritization) to identify additional criteria and rankings. Collaboration improves your rubric and helps establish buy-in during the data prioritization ranking selection conducted later in this Play.
 
 | Criteria                                                                                                                                                                                                                                                                                                                                              | Importance                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,7 +85,7 @@ Sally documents the criteria and weighting factors in the data inventory the tea
 Your approach to gathering information to prioritize your data will vary depending on the selected criteria. The list below provides examples based on the example criteria provided in _Play 4.1: Establish a Data Prioritization Rubric:_
 
 * Review program initiatives and strategic plans to identify cross-program relationships. You want to validate prioritization provided by document reviews by interviewing department Executives and Program Managers. Discovery sessions provide an effective mechanism to help further your understanding of priorities and achieve executive buy-in.
-* Use your BUCP tracking system and repository created in _Play 1: Establish Data- Sharing Metrics and BUCP Tracking._
+* Use your BUCP tracking system and repository created in [Play 1: Establish Data- Sharing Metrics and BUCP Tracking](play-1.md)_._
 * **that identifies datasets that are frequently requested or part of a current BUCP.**
 * Review your department’s project portfolio to identify systems that have future modernization efforts.
 
@@ -160,3 +160,110 @@ Sally schedules a meeting with the data prioritization workgroup and executive m
 After review, the CDW executive management agrees with the workgroup’s recommendation to prioritize data efforts on the W2W program.
 
 With W2W selected as the priority dataset, Sally and her team start to collect detailed metadata to improve data understanding and assist with BUCP agreements.
+
+***
+
+## What Data Will You Need?
+
+With your goals and strategy successfully outlined, you can now think about what data or measurements you need to collect to answer your guiding questions, as well as the data you need to determine if you are ready to proceed with data collection. If you’re a manager, you’ll also need to define your outcome measures and performance/self-assessment metrics to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can.
+
+### For Analysts
+
+Before proceeding, you should go through a Readiness Checklist to ensure you’ve considered your own strengths, weaknesses, and that of your manager and team. Get the support or learning you need now to prevent misunderstandings or frustrations later in the process.
+
+#### Step 1: Readiness Checklist
+
+Ask yourself: Do you have the Support, Knowledge, and Resources to Complete your Project?
+
+* Do my managers/directors have the bandwidth to support me?
+* Do I/my team have enough expertise to complete this project?
+* Do I have access to the data I need to complete the project?
+* Do I know the statistical methods required to analyze my data?
+* Who is my department’s Data Coordinator? (The individual responsible for knowing the data assets held by your department)
+* Contact CHHS@osi.ca.gov to find your Departments Data Coordinator
+
+#### Step 2: Review Your Program Data
+
+Your program data is the core data of this project — it’s the specific measurements that you need to collect in order to answer the project’s guiding questions. As a review, your guiding questions are the purpose of this project as a whole, and spending some time thinking about your project’s purpose statements will help you determine what data you need and how you should collect it.
+
+Example Purpose Statements:
+
+* I need to decide how to allocate resources to different programs based on which is the most successful
+* I want to improve or refine an existing program or model to be more effective
+* I want to create product or service that positively impacts a community
+* I want to look at existing data to find trends and patterns that people care about
+
+It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing CHHS@osi.ca.gov.
+
+### For Managers:
+
+Managing a team at CHHS is challenging — in addition to setting and working toward your program goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more. The following section is written for a wide range of manager roles, including the larger cohort of managers who supervise analysts and technical employees (SSM1s) to the smaller cohort of branch-level directors or managers working on capacity, vision, and strategy of their department.
+
+#### Part 1: Assessing Capability
+
+As a manager, you may be in charge of managing the overall performance and strategy of the project or program; you also may need to assess the performance of the team itself, and the department’s resources. This requires defining and measuring outcome data, monitoring your team’s or program’s performance, and assessing your department’s current data assets and analytic capabilities.
+
+The following section contains a number of frameworks and resources to assess your Team’s Capabilities… …related to projects and programs
+
+* Assessing Readiness: considering the scope, risks, limitations of your data project
+* Measuring Performance: Setting Key Performance Indicators (KPIs) for the project and your team
+* Determining Outcome Measures: benchmark, baseline, and comparative data …at the department level
+* Strategic Use of Data: how effectively does the department utilize data to inform decisions and strategy?
+* Capacity Building: Improving internal capacity, assessing management strategy & organization
+* Data Governance & Management: Management & Security of Data, Improving Data Literacy, data de-identification guidelines
+
+### Managers of Projects and Programs: Assessing Readiness
+
+Before planning your data collection, go through the following readiness checklist to ensure you are capable of successfully carrying out this data project. You should catalog your assets and resources regularly throughout your project to identify areas of weakness or gaps in resources.
+
+***
+
+### The Readiness Checklist:
+
+* How do programs or stakeholders use data currently? What do they do with it? How do they use it to make decisions or produce products for external stakeholders?
+* What are limits to either the data or the implementation solution?
+* What are the risks and issues with the current data? What value is not being realized?
+* Identify the current workflow for collecting, processing, and publishing data. Are there dependencies to collecting, processing, and publishing the data?
+
+Remember, if you do not have the resources you need, you and your team will likely encounter problems in your data project. Address weaknesses early and be on the lookout for areas you can improve throughout your project.
+
+***
+
+## Measuring Performance and Outcome
+
+This is the data you need to collect after deploying your product or service to determine whether or not it met your goals and was successful. A useful framework to reference is the Key Performance Indicators (KPIs) framework described [here](http://kpilibrary.com/). KPIs measure your performance relative to your goals.
+
+{% hint style="info" %}
+Check out [this resource](https://kpi.org/KPI-Basics) to learn all about KPIs: what they are, why they work, and how to set them effectively.
+{% endhint %}
+
+### Managers of Departments: Strategic Use of Data
+
+It is imperative for managers to regularly assess and improve how effectively they use their data assets to inform their strategic planning and organizational structure, as well as improve their offered programs and services. We will root our assessment in Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf), a useful framework for understanding how strategically your department uses data and how to improve. A few examples from the guide:
+
+* Effective Budgeting and Financial Planning practices driven by data
+* Assessing organizational strategy and goal-setting
+* Measuring accountability at all levels of your team
+
+### Building Analytic Capacity
+
+For managers interested in these types of assessments, check out additional resources on building Capability and Capacity in your department (such as the [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf).)
+
+{% hint style="info" %}
+Note: For more concrete recommendations to build analytic capacity, check out this [Roadmap to Capacity Building in Analytics](https://chhsdata.github.io/dataplaybook/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf). It will cover:
+
+* All staff/Human Resource Needs for a successful team
+* Executing a successful Program or Initiative
+* How to integrate best practices in Data Governance
+* Training Resource Topics to Provide to Analysts (Data Processing Methods)
+{% endhint %}
+
+You may also be tasked with assessing the quality of your department’s data management and data governance, or working on capacity-building frameworks to improve data literacy and analysis skills.
+
+Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) has specific questions to identify where departments can better use data at the organizational and strategic levelHarvard Assessment 1Harvard’s Strategic Use of Data Self-Assessment Guide has specific questions to identify where departments can better use data at the organizational and strategic level
+
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+Harvard’s Strategic Use of Data Self-Assessment Guide has specific questions to identify where departments can better use data at the organizational and strategic level
+
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
