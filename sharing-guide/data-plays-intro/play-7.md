@@ -14,14 +14,14 @@ This Play provides ideas about how to communicate the available data for sharing
 
 ### Play 7.1: Internal Data Awareness <a href="#play_7.1-_internal_data_awareness" id="play_7.1-_internal_data_awareness"></a>
 
-As previously noted, data-sharing improvements aren’t just for the benefit of data-requesting organizations. Your internal department teams benefit from the metadata you collected in _Play 6: Describe Your Data._ The Guidebook’s supplemental section, _Benefits to Your Department from Executing the Plays,_ describes the benefits of executing the Plays. You can use this supplemental section to identify teams within your department and notify them of the enriched metadata and artifacts created in Play 6. Examples of stakeholders who may benefit from your team’s work include:
+As previously noted, data-sharing improvements aren’t just for the benefit of data-requesting organizations. Your internal department teams benefit from the metadata you collected in [Play 6: Describe Your Data](play-6.md)_._ The Guidebook’s supplemental section, _Benefits to Your Department from Executing the Plays,_ describes the benefits of executing the Plays. You can use this supplemental section to identify teams within your department and notify them of the enriched metadata and artifacts created in Play 6. Examples of stakeholders who may benefit from your team’s work include:
 
 * Data Analytics
 * Application and Data Management
 * Information Security
 * Departmental Programs
 
-The first step is identifying internal stakeholders and teams benefitting from your data-sharing improvements. The _Benefits to Your Department from Executing the Plays_ supplement helps you identify internal analytics, technical, and security teams that benefit from your enhanced metadata repository. The notes on the department’s datasets collected in _Play 2: Identify Your Datasets_ may identify programs that frequently share data within your department.
+The first step is identifying internal stakeholders and teams benefitting from your data-sharing improvements. The [Data Sharing Benefits page](../../appendix/benefits.md) supplement helps you identify internal analytics, technical, and security teams that benefit from your enhanced metadata repository. The notes on the department’s datasets collected in [Play 2: Identify Your Datasets](play-2.md) may identify programs that frequently share data within your department.
 
 Start your data awareness campaign by emailing relevant stakeholders to notify them of the improved datasets and their benefits. Be sure to use terms that are relatable to your target audience. For example, using the term “data descriptions” is more easily understood than “metadata.” You can also schedule a Lunch and Learn or online meeting to review the benefits and how to use your metadata repository. This creates an opportunity for rich discussion about the data, how it is used, and ideas for future improvements.
 

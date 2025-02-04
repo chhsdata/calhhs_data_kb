@@ -67,7 +67,7 @@
 * [Guidelines](odp/guidelines.md)
 * [Use](odp/use.md)
 
-## Appendix and Supplemental Information <a href="#appendix" id="appendix"></a>
+## Appendix
 
 * [Glossary and Acronyms](appendix/glossary.md)
 * [Data Tools](appendix/tools.md)

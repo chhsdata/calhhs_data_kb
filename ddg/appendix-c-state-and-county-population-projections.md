@@ -1,3 +1,7 @@
+---
+icon: earth-americas
+---
+
 # Appendix C: State and County Population Projections
 
 The following table is provided for reference related to the race and ethnicity composition at the county level. It is _State of California, Department of Finance, Report P-1 (Race): State and County Population Projections by Race/Ethnicity, 2010-2060._ Sacramento, California, January 2013. The table is for year 2010.

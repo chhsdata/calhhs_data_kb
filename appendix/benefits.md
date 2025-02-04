@@ -5,9 +5,7 @@ description: Benefits to data sharing and success stories.
 
 # Data Sharing Benefits
 
-## Benefits
-
-### Benefits to Your Department from Executing the Plays
+## Benefits to Your Department from Executing the Plays
 
 Cataloging your department's datasets and capturing their metadata benefits external data recipients and your organization's analytics, application enhancement, and information security teams. You can use this section during the execution of the Plays to:
 
@@ -15,7 +13,7 @@ Cataloging your department's datasets and capturing their metadata benefits exte
 * Gain buy-in from the internal teams that are needed to support the effort by demonstrating direct benefit to their efforts.
 * Support the business case for the acquisition of data management tools.
 
-### Benefits for Internal Cross-Program Data-Sharing
+## Benefits for Internal Cross-Program Data-Sharing
 
 The Data-Sharing Plays provides benefits for internal data-sharing between your department’s programs. Your data catalog creates awareness across your department’s programs of available data and points of contact to coordinate data-sharing agreements.
 
@@ -23,7 +21,7 @@ Like external data-sharing, providing data between programs within your departme
 
 Additionally, data recipients from other programs may not be familiar with your data. The metadata catalog and business glossary created by executing the Plays foster understanding and the ability to accurately use data from other programs.
 
-### Department Analytics Benefits
+## Department Analytics Benefits
 
 Your department's report and analytics creation efforts benefit from improved and comprehensive metadata by:
 
@@ -39,7 +37,7 @@ Your department's report and analytics creation efforts benefit from improved an
 
 Creating your data catalog also addresses State Administrative Manual (SAM) [5160.1](https://www.dgs.ca.gov/Resources/SAM/TOC/5100/5160-1) Item 4, requirements for Agencies to maintain an enterprise data inventory.
 
-### Information Security Benefits
+## Information Security Benefits
 
 Having a detailed inventory of data elements and their data security classifications also benefits information security. The inventory of data elements and classifications provides the following:
 
@@ -49,7 +47,7 @@ Having a detailed inventory of data elements and their data security classificat
 * Input for Role-Based Access Control (RBAC): An inventory of data elements is the foundation for establishing an RBAC based on least privilege. The inventory of data elements is used to map elements to user roles to implement data access that restricts access while allowing users access to data needed to work effectively. The inventory of data and its classifications is used to implement fine-grained controls such as record and attribute level security.
 * Data De-identification: Data classifications and definitions are inputs for implementing data de-identification for datasets provided to internal users and external data recipients. Data de-identification eases data sharing by reducing risk. De-identified data may also expand the pool of internal staff to support analytics efforts through reduced security risk exposure.
 
-### Application and Database Development Benefits <a href="#application_and_database_development_ben" id="application_and_database_development_ben"></a>
+## Application and Database Development Benefits <a href="#application_and_database_development_ben" id="application_and_database_development_ben"></a>
 
 The data catalog established by executing the Plays also benefits your department's application development teams. The inventory of data improves the efficiency of system enhancement efforts by:
 
@@ -61,7 +59,7 @@ The data catalog established by executing the Plays also benefits your departmen
 * Level of Effort Estimates: The inventory from the data catalog provides an input to data-related level of effort estimates.
 * Reduce New Staff Ramp-Up Time: Like reduced staff ramp-up time for analytics efforts, your application development teams benefit from the metadata catalog. Application and database developers can learn your data architecture more quickly using your metadata catalog.
 
-### System Modernization Benefits <a href="#system_modernization_benefits" id="system_modernization_benefits"></a>
+## System Modernization Benefits <a href="#system_modernization_benefits" id="system_modernization_benefits"></a>
 
 Creating a data catalog also helps future modernization efforts by providing inputs to current state analysis and data conversion. A comprehensive inventory of data elements and their descriptions is one input to assist with planning modernization efforts by:
 

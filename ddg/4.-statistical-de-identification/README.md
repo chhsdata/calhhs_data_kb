@@ -4,7 +4,7 @@ icon: chart-scatter-bubble
 
 # 4. Statistical De-Identification
 
-The DDG describes a procedure, the Data Assessment for Public Release Procedure shown in Figure 5, to be used by departments in the CHHS to assess data for public release. This section, section 4, describes specific actions that may be taken for each step in the procedure with additional supporting information being described in sections 5, 6 and 7. These steps are intended to assist departments in assuring that data is de- identified for purposes of public release that meet the requirements of the California IPA to prevent the disclosure of personal information.
+The DDG describes a procedure, the Data Assessment for Public Release Procedure shown in Figure 5, to be used by departments in the CalHHS to assess data for public release. This section, section 4, describes specific actions that may be taken for each step in the procedure with additional supporting information being described in sections 5, 6 and 7. These steps are intended to assist departments in assuring that data is de- identified for purposes of public release that meet the requirements of the California IPA to prevent the disclosure of personal information.
 
 The Data Assessment for Public Release Procedure includes the following steps:
 
@@ -15,7 +15,7 @@ The Data Assessment for Public Release Procedure includes the following steps:
 5. Following statistical de-identification, the data release is reviewed by legal if indicated in departmental procedures; and,
 6. After statistical de-identification, the data is reviewed and approved for release based on program and policy criteria pursuant to departmental procedures.
 
-The steps above are represented in a step-wise process shown in Figure 5. Each step is described in further detail in sectio**n 4.1 through 4.6.**
+The steps above are represented in a step-wise process shown in Figure 5. Each step is described in further detail in section 4.1 through 4.6.
 
 Data summaries that originate from data which includes personal identifiers must be de- identified before release to the public. Additionally, data summaries about conditions experienced by individuals must be adequately de-identified to prevent re-identification of individuals represented by the summarized data. Various statistical methods are available to statistically de-identify data.
 

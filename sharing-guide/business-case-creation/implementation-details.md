@@ -54,12 +54,10 @@ The goals of data sharing at CalHHS are to:
 * Reduce contracting and data use agreement redundancies
 * Track activity for better understanding of common data sharing needs between CHHS departments
 
-See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials \[in the Resource Library]\(\{{ site.baseurl \}}/resource\_library#datasharing "CHHS Data Sharing Framework").
+See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials in the [Resource Library](../supplemental-reference.md).
 
 Data Sharing Tips:
 
 1. The CalHHS data sharing process encourages collaboration between departments. Start by requesting a meeting with the data provider to talk through your business use case. You will likely find the data provider has important insights about the data you are requesting.
 2. The CalHHS data sharing process requires data providers to work with the Departmental Data Coordinator in the development of a Business Use Case Proposal. Data coordinators will help programs refine Business Use Case Proposals so that they can be successful. If the two parties cannot come to agreement, the data coordinators will assist in taking the request to the Risk Management Subcommittee to help moderate the dispute.
 3. The CalHHS Data Exchange Agreement and associated resources govern intra-agency data sharing between CalHHS departments. Considering using these resources as templates for data sharing agreements with California government agencies, local governments, and universities as well.
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
