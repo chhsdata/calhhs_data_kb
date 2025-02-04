@@ -18,25 +18,11 @@
 * [Data Element Definitions](sharing-guide/definitions.md)
 * [Application Program Interfaces](sharing-guide/api.md)
 * [Additional Training and Reference Materials](sharing-guide/supplemental-reference.md)
-* [Planning Your Data Project](sharing-guide/planning-your-data-project/README.md)
-  * [Determining Goals and Strategy](sharing-guide/planning-your-data-project/determining-goals-and-strategy.md)
-  * [What Data Will You Need](sharing-guide/planning-your-data-project/what-data-will-you-need.md)
-  * [Where to find your data](sharing-guide/planning-your-data-project/where-to-find-your-data.md)
-* [Share Progress and Results](sharing-guide/share-progress-and-results.md)
-* [Action Items](<sharing-guide/action-items (1).md>)
-* [Implementation Details](sharing-guide/implementation-details.md)
-
-## Data Playbook
-
-* [Home](sharing-guide/data-playbook-intro.md)
-* [Define](sharing-guide/define.md)
-* [Assess](sharing-guide/assess.md)
-* [Implement](sharing-guide/implement.md)
-* [Evaluate](sharing-guide/evaluate.md)
-* [Share](sharing-guide/share.md)
-* [Action Items](sharing-guide/action-items.md)
-* [Success Stories](sharing-guide/success-stories.md)
-* [Resource Library](supplemental/odp-resources.md)
+* [Business Case Creation](sharing-guide/business-case-creation/README.md)
+  * [Determining Goals and Strategy](sharing-guide/business-case-creation/determining-goals-and-strategy.md)
+  * [Implementation Details](sharing-guide/business-case-creation/implementation-details.md)
+  * [Evaluating Outcomes & Impacts](sharing-guide/business-case-creation/evaluating-outcomes-and-impacts.md)
+  * [Communicating Your Results](sharing-guide/business-case-creation/communicating-your-results.md)
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 

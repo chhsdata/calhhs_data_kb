@@ -23,6 +23,8 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 * [CalHHS Data De-Identification Guidelines](broken-reference)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 
+***
+
 ## Data Architecture and Sharing Reference Materials <a href="#data_architecture_and_sharing_reference" id="data_architecture_and_sharing_reference"></a>
 
 The list below provides links to reference materials on data architecture and data-sharing practices:

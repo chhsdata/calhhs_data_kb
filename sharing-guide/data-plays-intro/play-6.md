@@ -27,7 +27,7 @@ The roles and responsibilities required to complete this Play vary by department
 * Information security to support creating data classifications.
 * Access to legal teams to provide guidance on statutes that govern data-sharing. Your department’s staff roles and practices may vary from the list above.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Populating Your Metadata Repository</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Populating Your Metadata Repository</p></figcaption></figure>
 
 #### **Engage Required Staff Resources**
 
@@ -234,6 +234,6 @@ Andrea meets with her team leads to review the findings and recommendations from
 
 The new CDW design, development, and documentation process they will follow is depicted in the graphic below:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
 
 The changes to the CDW process avoid the mass metadata collection effort the team conducted in _Play 6.2: Collect Your Metadata_ by incrementally collecting metadata during design and development. This new process saves time since the information to create metadata is already in hand during system design. Additionally, the process creates complete and accurate metadata through a closed loop between design and development.

@@ -262,8 +262,8 @@ You may also be tasked with assessing the quality of your department’s data ma
 
 Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) has specific questions to identify where departments can better use data at the organizational and strategic levelHarvard Assessment 1Harvard’s Strategic Use of Data Self-Assessment Guide has specific questions to identify where departments can better use data at the organizational and strategic level
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Harvard’s Strategic Use of Data Self-Assessment Guide has specific questions to identify where departments can better use data at the organizational and strategic level
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
