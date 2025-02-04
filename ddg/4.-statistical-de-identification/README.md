@@ -27,10 +27,12 @@ The numerator is typically the value in each table cell. However, the denominato
 
 Figure 3 shows an example table with the numerator and the denominator highlighted. The Cells in the table are the boxes with values in them, as opposed to the row and column headings. The row headings are 2012 and 2011. The column headings are Year, # of Medi-Cal Members in Fee For Service (in thousands) and Number of Medi- Cal Members in Managed Care (in thousands). In Figure 3, “2,775” is the value in a table cell and represents a numerator. The sum of the row for year 2012 (2,775 + 4,853
 
-\= 7,628) represents a denominator. In this context, the denominator may represent row totals, column totals or the total occurrences in the data set released. Data in Figure 3 comes from the “Trend in Medi-Cal Program Enrollment by Managed Care Status - for Fiscal Year 2004-2012, 2004-07 - 2012-07.” 10
+\= 7,628) represents a denominator. In this context, the denominator may represent row totals, column totals or the total occurrences in the data set released. Data in Figure 3 comes from the “[Trend in Medi-Cal Program Enrollment by Managed Care Status - for Fiscal Year 2004-2012, 2004-07 - 2012-07.](#user-content-fn-1)[^1]”&#x20;
 
 Figure 4 shows another type of table that contains rates. In this case, the numerator is the number of Salmonella cases for a sample of California Local Health Jurisdictions in 2014. The table also includes the rate of Salmonella for these jurisdictions. In order to calculate the rate, the population size of each jurisdiction is required, but is not shown directly in this table. The population denominator is an important element for data de- identification.
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure></div>
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure></div>
+
+[^1]: Report Date: July 2013 [http://www.dhcs.ca.gov/dataandstats/statistics/Documents/1\_6\_Annual\_Historic\_Trend.pdf](http://www.dhcs.ca.gov/dataandstats/statistics/Documents/1_6_Annual_Historic_Trend.pdf)

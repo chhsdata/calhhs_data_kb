@@ -11,10 +11,12 @@ CalHHS is engaged in improving transparency and public reporting through the Ope
 1. Data that are public by law such as via the [Public Records Act (PRA) ](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=GOV\&division=10.\&title=1.\&part=\&chapter=\&article=)or
 2. The data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction.
 
-Data shall not be released if it is restricted due to the HIPAA, state or federal law. Data tables may fall into one of three categories:
+Data shall not be released if it is restricted due to the HIPAA, state or federal law. Data tables may fall into one of [three categories](#user-content-fn-1)[^1]:
 
 * Level One: Data tables that can be released to the public and published without restriction;
 * Level Two: Data tables that have some level of restriction or sensitivity but currently can be made available to interested parties with a signed data use agreement; or
 * Level Three: Level three data are restricted due to HIPAA, state or federal law. These data will NOT be accessible through the CalHHS Open Data Portal.
 
 Data can change from being Level 3 to Level 1 if appropriate de-identification processes are employed. The CalHHS DDG described in this document will support departments and offices in the evaluation of data to determine whether it has been adequately de-identified so that it can be considered Level 1.
+
+[^1]: CHHS’ Open Data Portal Handbook, Version 2.1, October 2014, Data Levels Decision Tree, pages 91 and 92.

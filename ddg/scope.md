@@ -20,7 +20,7 @@ CalHHS collects, manages and disseminates a wide range of data. The focus for th
 
 {% tabs %}
 {% tab title="CA - Personal Information" %}
-Any information that identifies or describes an individual, including but not limited to:\[1]
+Any information that identifies or describes an individual, [including but not limited to](#user-content-fn-1)[^1]:
 
 * Name
 * Social security number
@@ -32,7 +32,7 @@ Any information that identifies or describes an individual, including but not li
 * Medical history
 * Employment history
 
-Electronically collected personal information:\[2]
+[Electronically collected personal information](#user-content-fn-2)[^2]:
 
 * His or Her name
 * Social Security Number
@@ -75,7 +75,7 @@ Excludes information relating to individuals who are users serving in a business
 
 Assessing the risk of an unauthorized disclosure that violates an individual’s right to privacy and/or confidentiality, as provided by statute, may be achieved by associating personal characteristics with a person’s identity or attributes. When these characteristics can successfully confirm an individual’s identity in a publicly released data set, then release of this data results in disclosure of personal information.
 
-Less obvious qualities in data sets and elements that may be used to identify individuals or groups can present uniqueness in data. Individual uniqueness in the released data and in the population is a quality that helps distinguish one person from another and is directly related to re-identification of individuals in aggregate data. Disclosure risk becomes a concern when released data reveal characteristics that are unique in both the released data and in the underlying population. The risk of re-identifying an individual or group of individuals increases when unique or rare characteristics are “highly visible”, or are readily accessible by the general public without any special or privileged knowledge. Unique or rare personal characteristics (e.g., height above 7 feet) or information that isolate individuals to small demographic subgroups (e.g., American Indian Tribal membership) increase the likelihood that someone can correctly attribute information in the released data to an individual or group of individuals.
+Less obvious qualities in data sets and elements that may be used to identify individuals or groups can present uniqueness in data. Individual uniqueness in the released data and in the population is a quality that helps distinguish one person from another and is directly related to re-identification of individuals in aggregate data. Disclosure risk becomes a concern when released data reveal characteristics that are unique in both the released data and in the underlying population. The risk of re-identifying an individual or group of individuals increases when unique or rare characteristics are “highly visible”, or are readily accessible by the general public without any special or privileged knowledge. Unique or rare personal characteristics (e.g., height above 7 feet) or information that isolate individuals to small demographic subgroups (e.g., American Indian Tribal membership) increase the [likelihood that someone can correctly attribute information in the released data to an individual or group of individuals](#user-content-fn-3)[^3].
 
 ### Assessment of variables and their uniqueness
 
@@ -86,3 +86,9 @@ There are a number of variables that are unique to individuals that have been id
 The removal of PI and PHI from datasets is often considered straight-forward, because as soon as data is aggregated or summarized the majority of the data fields defined as identifiers in the IPA and HIPAA are removed. However, various characteristics of individuals may remain that alone or in combination could contribute to identifying individuals. These characteristics have been described as quasi-identifiers. Figure 2 helps demonstrate the quasi-identifier concept. For instance, there is interest in reporting about providers, where providers may be individuals, clinics, group homes, or other entities. Each of these providers has a publicly available address and has publicly available characteristics. While patients may come to a provider from anywhere, they typically will visit providers within a certain distance of their residence. Thus, by publicly publishing details on providers, data miners with malicious intent would have a targeted geography that lists locality information, types of services offered and received, and demographic information about patients. To expand on this example, data that states a provider saw two patients with heart disease does not indicate who had the heart disease nor does it reveal the identity of the two patients amongst the thousands of patients that provider sees. However, datasets that display a provider within a given region with two Black or African American female patients under age 10 with heart disease may release enough personal characteristics about the patients to successfully reveal their identity. These compounding patient details released about providers that give geography information (address), health condition (heart disease), and person- based characteristics (quasi-identifiers) of the patients puts the dataset in the overlapping area of the diagram of Figure 2. This overlap, consequently, highlights potential risks associated with seemingly innocent summary data.
 
 <figure><img src="../.gitbook/assets/Picture1.png" alt="Figure 2. This is a Venn Diagram with three circles. 1. Health and Human Services Utilization data (e.g., visits, diagnoses, services, etc.) 2. Personal Characteristics (e.g., IPA Identifiers (PI), HIPAA Identifiers (PHI), and quasi-identifiers). 3. Providers (e.g., individuals, hospitals, clinics, plans, foster care homes, etc.) The overlap of these circles is displayed with the type of resulting data combinations."><figcaption><p>Figure 2: Relationship of Types of Reporting Variables</p></figcaption></figure>
+
+[^1]: California Civil Code 1798.3 (a)
+
+[^2]: California Government Code 11015.5 (d) (1)
+
+[^3]: Introduction to Statistical Disclosure Control, Temple et al. 2014
