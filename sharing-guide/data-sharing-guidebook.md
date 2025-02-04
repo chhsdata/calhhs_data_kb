@@ -46,8 +46,3 @@ The Guide is a supplement to existing data-sharing assets, including:
 The Guidebook is shared with you and your Department so you can use its content to supplement existing department data-sharing processes and training materials.
 
 The Guidebook’s primary audience is data coordinators and data management teams that create data-sharing agreements, fulfill data requests, and consume shared data. The Guidebook’s Data-Sharing Plays also benefit your department’s data analyst, application development and security teams.
-
-***
-
-
-
