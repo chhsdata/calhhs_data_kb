@@ -10,9 +10,7 @@ CalHHS departments and offices are required to engage in an internal review proc
 
 The CalHHS Open Data Portal governance model takes a multi-level approach that provides oversight in the most efficient/streamlined way possible. Figure 2 provides a graphical representation of the model.
 
-!\[Figure 2. Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices]\(\{{ site.baseurl \}}/assets/images/figure\_02.png "Figure 2. Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices")
-
-Figure 2. Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Figure 2: Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices</p></figcaption></figure>
 
 ## How the Governance Model Works - Overview
 
@@ -28,7 +26,7 @@ Each office and department within CalHHS will designate a Data Coordinator. The 
 
 * Has authority equivalent to that of a Deputy Director or the head of a division or office within their department (e.g. Chief Information Officer, Informatics Deputy Director, etc.);
 * Can identify appropriate persons with comprehensive knowledge of data and resources in use by their centers/divisions/offices/programs;
-* Assumes responsibility for their department's compliance with this handbook, the [CalHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf), and future directives which may be needed to support the CalHHS Open Data program;
+* Assumes responsibility for their department's compliance with this handbook, the [CalHHS Data De-Identification Guidelines](broken-reference), and future directives which may be needed to support the CalHHS Open Data program;
 * Ensures that guidelines and tools, established by CalHHS governance, are applied to aggregate data for public reporting that: (1) adequately minimizes risk of re-identification, and (2) produce meaningful information (that is, they enable statistically reliable calculations).
 
 The Data Coordinator acts as a liaison between Information Technology staff, departmental programs and leadership, and CalHHS Agency. As such, the Data Coordinator is best positioned to convey to the appropriate parties any specific needs of the Open Data Portal (such as formatting the data or defining a structure that is optimal for publication). Insofar as departments vary in terms of size, functions, and complexity, larger departments may also identify individuals within specific divisions, offices, and/or units to assist the department Data Coordinator.
@@ -85,6 +83,7 @@ Data tables may fall into one of three categories as noted below:
     * There is pending enforcement action or litigation related to this data table.
 * **Level Three:** Level three databases are highly restricted due to HIPAA, state or federal law. These data will NOT be accessible through the CalHHS Open Data Portal.
 
-The CalHHS [Data Release Permission Decision Tree](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Release-Permission-Decision-Tree.pdf) can help departments and offices determine a dataset's permission level. Based on review and comments provided by the department, Agency will determine whether the data table will be published on the Open Data Portal.
+The CalHHS Data Release Permission Decision Tree can help departments and offices determine a dataset's permission level. Based on review and comments provided by the department, Agency will determine whether the data table will be published on the Open Data Portal.
 
-« Prev Next »
+<figure><img src="../.gitbook/assets/Decision_Matrix.png" alt=""><figcaption><p>Data Release Permission Decision Tree</p></figcaption></figure>
+

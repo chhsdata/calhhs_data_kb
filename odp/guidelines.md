@@ -12,8 +12,6 @@ CalHHS departments and offices vary widely in terms of size, personnel, function
 
 ![Figure 3: Guidance Summary](https://chhsdata.github.io/opendatahandbook/assets/images/figure_03.png)
 
-Figure 3: Guidance Summary
-
 ## 1. Data Table Identification <a href="#id-1-data-table-identification" id="id-1-data-table-identification"></a>
 
 Within a CalHHS Department or Office, any number of individuals can and should consider identifying data tables for which they may self-identify as stewards of that data. In addition, subject matter experts and leaders within the Department or Office may also identify data tables that could fulfill strategic needs by sharing on the CalHHS Open Data Portal. After identification, all suggested data tables should be assessed and prioritized
@@ -107,8 +105,6 @@ When creating a schedule for publication of a particular data table, departments
 In prioritizing data for release, therefore, departments and offices must account for time to: identify data, assess and validate the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, prepare visualizations and talking points, and obtain all necessary approvals to publish the data (Figure 4). The [CalHHS Priority Scoring Template](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Priority-Scoring-Template.xlsx) can help departments and offices prioritize open data for publishing.
 
 ![Figure 4: Prioritization](https://chhsdata.github.io/opendatahandbook/assets/images/figure_04.png)
-
-Figure 4: Prioritization
 
 ## 3. Pre-Publication <a href="#id-3-pre-publication" id="id-3-pre-publication"></a>
 

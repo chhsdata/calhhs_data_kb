@@ -21,8 +21,8 @@ The CalHHS Open Data Portal encourages citizen engagement and participation thro
 
 The CalHHS Open Data Portal supports two classifications of data tables: tabular and geospatial. A tabular data table is a flat file that conforms to a predefined schema. The schema defines the characteristics of a fixed number of columns, including the column name and data type. A geospatial data table contains information that can be readily rendered on an underlying map. Examples of geospatial features include points (buildings), polylines (bus routes), and polygons (school districts), along with attribute information that describes characteristics of each spatial feature.
 
-### **Tabular**
-
+{% tabs %}
+{% tab title="Tabular" %}
 Data tables can be exported for download in popular human-readable formats, machine-readable standards and streamable file formats. The CalHHS Open Data Portal currently supports the following exportable tabular file formats:
 
 * CSV
@@ -33,13 +33,15 @@ Data tables can be exported for download in popular human-readable formats, mach
 * XLS
 * XLSX
 * XML
+{% endtab %}
 
-### **Geospatial**
-
+{% tab title="Geospatial" %}
 Geospatial data contain geographic feature and attribute data that define the properties of geographic features which may be used in a geographic information system (GIS). Attributes are stored in a tabular format with unique key references to the associated geographic features. Two export methodologies are supported for geographic information: geospatial and attribute. Attribute layers can be exported as tabular data file formats (see tabular formats listed above). Geospatial data can be downloaded in any of the tabular formats defined above, as well as the following formats:
 
 * .Shapefile
 * .Keyhole Markup Language (KML/KMZ)
+{% endtab %}
+{% endtabs %}
 
 ### **Large Files**
 
