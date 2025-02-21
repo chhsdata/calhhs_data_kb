@@ -83,6 +83,8 @@ Data tables may fall into one of three categories as noted below:
     * There is pending enforcement action or litigation related to this data table.
 * **Level Three:** Level three databases are highly restricted due to HIPAA, state or federal law. These data will NOT be accessible through the CalHHS Open Data Portal.
 
+### Data Publishing Decision Tree
+
 The CalHHS Data Release Permission Decision Tree can help departments and offices determine a dataset's permission level. Based on review and comments provided by the department, Agency will determine whether the data table will be published on the Open Data Portal.
 
 <figure><img src="../.gitbook/assets/Decision_Matrix.png" alt=""><figcaption><p>Data Release Permission Decision Tree</p></figcaption></figure>
