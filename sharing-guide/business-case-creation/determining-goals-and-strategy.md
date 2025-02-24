@@ -10,7 +10,7 @@ It is important to decide your vision and purpose behind your project, and ident
 
 First, a bit about goals: for your project to execute smoothly, it is best to choose SMART Goals, of goals that are specific, measurable, achievable, realistic, and timely. Look at our summary of the [SMART Goal checklist](https://www.mindtools.com/pages/article/smart-goals.htm) below:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>SMART Goals</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>SMART Goals</p></figcaption></figure>
 
 {% hint style="info" %}
 Hint: Goals often fall into one of the following categories:
@@ -45,7 +45,7 @@ If you are creating a product:
 
 ***
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Example Use Case Diagram (<a href="https://www.lucidchart.com/pages/uml-use-case-diagram">lucidchart.com</a>)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Example Use Case Diagram (<a href="https://www.lucidchart.com/pages/uml-use-case-diagram">lucidchart.com</a>)</p></figcaption></figure>
 
 ## The Use Case Diagram
 
@@ -78,7 +78,7 @@ Also check out this [Online resource](https://online.visual-paradigm.com/diagram
 
 The logic model framework focuses on visualizing the relationship between inputs, outcomes, and costs associated with your project. It is a graphical model where each component (or “phase”) of your project relates to a list of intended effects in an implicit, ‘if-then’ way.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 The seven “components” you’ll consider are:
 
@@ -105,4 +105,4 @@ Guiding Questions:
 
 List everything that comes to mind when you answer the those guiding questions above, drawing a box around each entry. Finally, draw arrows between boxes to signify the ‘if-then’ relationship.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>A Sample Logic Model from <a href="https://www.cdc.gov/dhdsp/docs/logic_model.pdf">CDC.gov</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>A Sample Logic Model from <a href="https://www.cdc.gov/dhdsp/docs/logic_model.pdf">CDC.gov</a></p></figcaption></figure>

@@ -30,7 +30,7 @@ Data is a core facilitator for the California Health and Human Services (CalHHS)
 
 Realizing this vision requires data flow across the Agency’s departments and partner organizations. The CalHHS Data-Sharing Guidebook’s purpose is to be an asset that is broadly applicable to departments with various levels of data-sharing capabilities and experience. The diagram below provides the CalHHS Data-Sharing Guidebook’s purpose in California’s data- sharing ecosystem.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 The Guide is composed of two sections:
 

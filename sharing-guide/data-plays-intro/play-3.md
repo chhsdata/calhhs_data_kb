@@ -15,7 +15,7 @@ layout:
 
 # Play 3: Business Case
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 3: Create a Business Case
 

@@ -12,13 +12,13 @@ By detailing all critical steps before starting the project, the Department can 
 
 The planning becomes proactive instead of reactive, which allows best practices to be used and ensures that energy and time are spent on implementing a high-quality, well‐thought‐out project rather than "putting out fires."
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Solutions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Solutions</p></figcaption></figure>
 
 The planning and implementation processes will allow any person working on the project, regardless of his or her level of involvement, to fully understand the goal of the project and how it is to be accomplished. It ensures that everyone working on the project is on the same page and that any discrepancies are resolved before they become costly to the project or population served.
 
 This play includes various resources designed to help with project management and data management.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>"How do you share data?"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>"How do you share data?"</p></figcaption></figure>
 
 Departments will work to identify Data Sharing and Data De-Identification best practices and lessons learned.
 

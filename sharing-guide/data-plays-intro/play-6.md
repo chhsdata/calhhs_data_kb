@@ -4,7 +4,7 @@ icon: circle-6
 
 # Play 6: Describe
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 6: Describe Your Data
 
@@ -27,7 +27,7 @@ The roles and responsibilities required to complete this Play vary by department
 * Information security to support creating data classifications.
 * Access to legal teams to provide guidance on statutes that govern data-sharing. Your department’s staff roles and practices may vary from the list above.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Populating Your Metadata Repository</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Populating Your Metadata Repository</p></figcaption></figure>
 
 #### **Engage Required Staff Resources**
 
@@ -66,7 +66,7 @@ Sally will schedule a kickoff meeting to ready the individual team members to re
 
 With your team assembled, it’s time to start populating your metadata repository created in _Play 5: Establish Your Metadata Repository._ The diagram on the following page depicts the flow of technical, business, security, and legal metadata collection:
 
-<figure><img src="../../.gitbook/assets/image%20(11).png" alt=""><figcaption><p>Metadata Collection Flow</p></figcaption></figure>
+<figure><img src="https://github.com/RyanSwift-CDII/calhhs_data_kb/blob/main/.gitbook/assets/image%20(11).png" alt=""><figcaption><p>Metadata Collection Flow</p></figcaption></figure>
 
 **Establish Your Data Element Baseline**
 
@@ -234,6 +234,6 @@ Andrea meets with her team leads to review the findings and recommendations from
 
 The new CDW design, development, and documentation process they will follow is depicted in the graphic below:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>CDW Process to Keep Metadata Current</p></figcaption></figure>
 
 The changes to the CDW process avoid the mass metadata collection effort the team conducted in _Play 6.2: Collect Your Metadata_ by incrementally collecting metadata during design and development. This new process saves time since the information to create metadata is already in hand during system design. Additionally, the process creates complete and accurate metadata through a closed loop between design and development.

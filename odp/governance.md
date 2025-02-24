@@ -10,7 +10,7 @@ CalHHS departments and offices are required to engage in an internal review proc
 
 The CalHHS Open Data Portal governance model takes a multi-level approach that provides oversight in the most efficient/streamlined way possible. Figure 2 provides a graphical representation of the model.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Figure 2: Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Figure 2: Multi-level 'vertical' governance model for CalHHS Agency and its departments and offices</p></figcaption></figure>
 
 ## How the Governance Model Works - Overview
 

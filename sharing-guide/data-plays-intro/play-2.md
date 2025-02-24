@@ -4,7 +4,7 @@ icon: circle-2
 
 # Play 2: Identify
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ## Play 2: Identify Your Datasets
 
@@ -69,7 +69,7 @@ These roles may not be represented in your department, but staff who perform the
 
 Combining a list of your department’s programs and their corresponding technology platforms creates a comprehensive starting point to inventory your datasets. Although your information technology department likely has a broad view of data sources, they may not have visibility of systems developed by lines of business. Creating the inventory from both the program and technology aspects ensures your dataset list is complete and captures the information needed for your data-sharing efforts. The diagram below depicts the process of collecting your dataset inventory:
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 **Identify and Describe Your Datasets**
 
@@ -90,7 +90,7 @@ Populate your data inventory as you capture each dataset’s information to incr
 
 Sally sets out to create a current inventory of the CDW datasets. Sally and Carlos’ effort to inventory the CDW data is depicted in the graphic on the following page:
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 **Creating the CDW Dataset Inventory**
 
@@ -138,7 +138,7 @@ Establishing data archiving and disposal processes and technical capabilities al
 
 The final step of the planning process is also the most important and crucial to successful execution of your project: determining what data you need and where you will find it. This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. In most data-driven companies, the “80/20 Rule” applies to data projects: 80 percent of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20 percent spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. In this section, you’ll find information on accessing Internal Data (both within your department and in others) as well as External Data (data owned by some outside agency/organization, and typically publicly available). Use the Process Flow Chart on the following page to choose which resource — the Data Sharing Agreement, the Open Data Portal, your department’s stored data, or publicly available data— is appropriate for each of your data sources.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Option 1: Program Data
 
@@ -158,7 +158,7 @@ The goals of the Data Sharing Agreement are the following:
 
 Establish a legal framework for data initiatives Maximize appropriate sharing to increase positive outcomes and customer service Ensure privacy and security protections Reduce risk and use of duplicative resources Standardize data use agreements among CHHS Departments and offices Reduce contracting and data use agreement redundancies Track activity for better understanding of common data sharing needs between CHHS departments To get data via the Data Sharing Agreement, you must contact your department’s Data Coordinator and submit a Business Use Case Proposal; this ensures proper documentation of what data you need, why you need it, and your commitment to several requirements, such as preserving the shared dataset in the form it was given to you. For more detailed instructions, visit the Business Use Case instructions or view the FAQ.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Option 3: Externally (Publicly-Available Data)
 
