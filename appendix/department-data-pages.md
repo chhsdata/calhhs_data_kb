@@ -1,8 +1,9 @@
 ---
 icon: globe-pointer
+description: Web pages and resources for CalHHS Departments.
 ---
 
-# Department Data Webpages
+# Department Data Pages
 
 ## Departments
 
