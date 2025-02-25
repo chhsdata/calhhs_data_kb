@@ -43,7 +43,7 @@ The Data De-Identification Guide published here is the current approved CalHHS A
 {% endtab %}
 
 {% tab title="Open Data Handbook" %}
-The Open Data handbook is a resource with its audience being the CalHHS ODP+GIS Workgroup and those that publish or utilize the CalHHS Open Data Portal. As of February 2025, revisions are being made to the If you have questions or contributions for the Open Data section, email [opendata@chhs.ca.gov](mailto:opendata@chhs.ca.gov).
+The Open Data handbook is a resource with its audience being the CalHHS ODP+GIS Workgroup and those that publish or utilize the CalHHS Open Data Portal. As of February 2025, revisions are being made to the ODP handbook. Please see the [ODP Governance page](odp/governance.md) for more information. If you have questions or ideas to contribute to the Open Data section, email [opendata@chhs.ca.gov](mailto:opendata@chhs.ca.gov).
 {% endtab %}
 {% endtabs %}
 
