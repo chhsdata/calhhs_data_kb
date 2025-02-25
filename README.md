@@ -38,7 +38,7 @@ The Data Sharing Guide was created in 2024 by the CalHHS Office of Technical Sys
 {% tab title="Data De-Identification Guidelines" %}
 The Data De-Identification Guide published here is the current approved CalHHS Agency De-Identification Guidelines. Each Department or Office within CalHHS can also publish their own version of the DDG. The refresh cycle of the Agency DDG is determined by the CalHHS DDG Peer Review Team (PRT.) As of January 2025, the PRT is currently developing an update to the Agency DDG with publication date TBD.
 
-* Please visit this page for links to the specific Department DDG publications.
+* Please visit this page for links to the specific [Department DDG publications](appendix/department-data-pages.md).
 * If you have questions about the governance around the Agency Data De-Identification Guidelines please visit the [DDG Governance page](ddg/8.-ddg-governance.md).
 {% endtab %}
 
