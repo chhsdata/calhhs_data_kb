@@ -20,7 +20,34 @@ layout:
 
 # Data Knowledge Base
 
+## About the Knowledge Base
+
 The CalHHS Data Knowledge Base is composed of three main parts. These have historically been siloed documents, however, have now been published together to serve as a point of truth guide for all CalHHS data sharing needs.
+
+## Governance and Updates
+
+As a product, the Knowledge Base is maintained by the Center for Data Insights and Innovation. It will be reviewed at least annually to ensure base functionality, such as no broken links, etc. For questions or contribution suggestions, please email cdii@chhs.ca.gov. Each section or component of the knowledge base will have it's own governance, update cycle, and contact information. Please see below.
+
+{% tabs %}
+{% tab title="Data Sharing Guide" %}
+<figure><img src=".gitbook/assets/Artboard 9.png" alt=""><figcaption><p>Header image of the data sharing guide.</p></figcaption></figure>
+
+The Data Sharing Guide was created in 2024 by the CalHHS Office of Technical Systems Integration (OTSI). The content of the previously published CalHHS Data Playbook and Data Playbook-Beta has been merged with this new sharing guide. If you have questions or ideas to contribute to the Data Sharing Guidebook section, please email [cdii@chhs.ca.gov](mailto:cdii@chhs.ca.gov).
+{% endtab %}
+
+{% tab title="Data De-Identification Guidelines" %}
+The Data De-Identification Guide published here is the current approved CalHHS Agency De-Identification Guidelines. Each Department or Office within CalHHS can also publish their own version of the DDG. The refresh cycle of the Agency DDG is determined by the CalHHS DDG Peer Review Team (PRT.) As of January 2025, the PRT is currently developing an update to the Agency DDG with publication date TBD.
+
+* Please visit this page for links to the specific Department DDG publications.
+* If you have questions about the governance around the Agency Data De-Identification Guidelines please visit the [DDG Governance page](ddg/8.-ddg-governance.md).
+{% endtab %}
+
+{% tab title="Open Data Handbook" %}
+The Open Data handbook is a resource with its audience being the CalHHS ODP+GIS Workgroup and those that publish or utilize the CalHHS Open Data Portal. As of February 2025, revisions are being made to the If you have questions or contributions for the Open Data section, email [opendata@chhs.ca.gov](mailto:opendata@chhs.ca.gov).
+{% endtab %}
+{% endtabs %}
+
+
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td>CalHHS Data Sharing Guidebook</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Data De-Identification Guide</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Open Data Handbook</td><td><a href="broken-reference">Broken link</a></td><td></td></tr><tr><td>Supplemental Information</td><td><a href="broken-reference">Broken link</a></td><td></td></tr></tbody></table>
 
