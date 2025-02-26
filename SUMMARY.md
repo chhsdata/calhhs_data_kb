@@ -73,4 +73,3 @@
 * [Data Tools](appendix/tools.md)
 * [Data Discovery Sessions](appendix/discovery-sessions.md)
 * [Data Sharing Benefits](appendix/benefits.md)
-* [Department Data Pages](appendix/department-data-pages.md)
