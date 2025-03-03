@@ -4,6 +4,7 @@
 
 ## Data Sharing <a href="#sharing-guide" id="sharing-guide"></a>
 
+* [Revision History](sharing-guide/revision-history.md)
 * [Data Sharing Guidebook](sharing-guide/data-sharing-guidebook.md)
 * [Lessons Learned](sharing-guide/lessons-learned.md)
 * [Data Sharing Plays](sharing-guide/data-plays-intro/README.md)
@@ -61,6 +62,7 @@
 
 ## Open Data Handbook <a href="#odp" id="odp"></a>
 
+* [Revision History](odp/revision-history.md)
 * [Open Data: Purpose](odp/purpose.md)
 * [Disclosure](odp/disclosure.md)
 * [Governance](odp/governance.md)
