@@ -110,9 +110,9 @@ In prioritizing data for release, therefore, departments and offices must accoun
 
 Prior to publishing a data table on the CalHHS Open Data Portal a number of steps must first be completed to ensure a high quality and usable product.
 
-### Data Format
+### Resource Format
 
-Data tables will be formatted in a machine-readable format. CalHHS Departments and Offices have chosen Comma Separated Values (CSV) as its standard format for publication.&#x20;
+Resource files will be formatted in a machine-readable format. CalHHS Departments and Offices have chosen Comma Separated Values (CSV) as its standard format for publication.
 
 ### Metadata
 
@@ -134,7 +134,54 @@ When publishing data with suppressed values, use an annotation field (column) in
   * 2 = cell suppressed for complementary cell​
   * 3 = no data is available​
   * 4 = statistically unstable value​
-  * 5 = incomplete data.
+  * 5 = incomplete data
+
+### Address Format Standard
+
+Address standards in published data sets is critical to ensure accuracy, consistency, and interoperability. They allow for a structured framework for data publishers and data consumers to interact with the process in a uniform manner. Requiring uniform data formatting will also improve the dataset concept review process. Datasets must follow these formatting and code standards in before being published to the CalHHS Open Data Portal or a GIS Hub site within CalHHS. If there are existing datasets that do not align to these standards, CDII Open Data staff will work with these Departments on a plan and timeline to update the datasets to follow these standards.
+
+{% hint style="danger" %}
+Not all elements are required; however, when a dataset contains address information or any of the other elements identified here, these standards must be adhered to for the dataset to be published.
+{% endhint %}
+
+{% tabs fullWidth="false" %}
+{% tab title="Street Address" %}
+| Element Name  | Data Type    | Example      | Notes                                                                                         |
+| ------------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
+| Address       | String (80)  | 1215 O St    | First address line including number and road information. \*Use USPS abbreviation standards.  |
+| Address2      | String (20)  | Suite #1106  | Building, suite, etc.                                                                         |
+| City          | String (30)  | Sacramento   | <p>City Name </p><p>*Spell out City name, no abbreviations. </p>                              |
+| State         | String (2)   | CA           | <p>State Abbreviation </p><p>*Use FIPS standard 2-digit abbreviation </p>                     |
+| ZIP           | String (5)   | 95814        | USPS ZIP Code (5-digit)                                                                       |
+| ZIP\_4        | String (10)  | 0000         | <p>USPS Zip+4 code </p><p>(4-digit extension, 000 if unknown) </p>                            |
+{% endtab %}
+
+{% tab title="Geography " %}
+| Element Name   | Data Type    | Example       | Notes                                                                                      |
+| -------------- | ------------ | ------------- | ------------------------------------------------------------------------------------------ |
+| Country        | String (2)   | US            | <p>Country abbreviation </p><p>*Use 2-character FIPS standard </p>                         |
+| County         | String (20)  | Sacramento    | <p>County Name </p><p>*Do not include words “County” or “Co.” </p>                         |
+| County\_ FIPS  | String (3)   | 067           | <p>3-digit California FIPS County Code. </p><p>*Required when County Name is present. </p> |
+| Latitude       | Float        | 37.2345432    | WGS 84 Projection Latitude                                                                 |
+| Longitude      | Float        | -121.2345363  | WGS 84 Projection Longitude                                                                |
+{% endtab %}
+
+{% tab title="US Census" %}
+| Area Type     | GEOID Structure                       | Number of Digits  | Example          |
+| ------------- | ------------------------------------- | ----------------- | ---------------- |
+| Census Tract  | State + County + Tract                | 2+3+6=11          | 06067001202      |
+| Block Group   | State + County + Tract + Block Group  | 2+3+6+1=12        | 060670012022     |
+| Block         | State + County + Tract + Block        | 2+3+6+4=15        | 060670012022006  |
+{% endtab %}
+
+{% tab title="Medical Service Study Area (MSSA) " %}
+| Element Name       | Data Type     | Example                                                                | Notes                                                                                           |
+| ------------------ | ------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| MSSA\_ID           | String (9)    | 139j                                                                   | MSSA ID                                                                                         |
+| MSSA\_ Name        | String (160)  | Capitol Park/ Del Paso Heights/ Downtown/ Gardenland/North Sacramento  | <p>MSSA Area Name </p><p>*Required if MSSA_ID is present </p>                                   |
+| MSSA\_ Definition  | String (8)    | Urban                                                                  | <p>MSSA Area Density Definition (Frontier/Rural/Urban) <br>*Required if MSSA_ID is present </p> |
+{% endtab %}
+{% endtabs %}
 
 ## 4. Publication <a href="#id-4-publication" id="id-4-publication"></a>
 
