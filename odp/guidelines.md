@@ -108,7 +108,33 @@ In prioritizing data for release, therefore, departments and offices must accoun
 
 ## 3. Pre-Publication <a href="#id-3-pre-publication" id="id-3-pre-publication"></a>
 
-Prior to publishing a data table on the CalHHS Open Data Portal a number of steps must first be completed to ensure a high quality and usable product. Data tables will be formatted in a machine-readable format. CalHHS Departments and Offices have chosen Comma Separated Values (CSV) as its standard format for publication. Accompanying the data table will be complete metadata and a data dictionary that provides descriptions and technical notes as necessary for every field in the data table. Departments and Offices are also encouraged to include with each data table one or more visualizations of the data (graphs and/or maps) as well as one or more potential research questions of interest to the Department/Office as a way to encourage public engagement and innovation related to strategic goals. Each data table, as a part of the approval process, will be reviewed for quality assurance, compliance with the CalHHS Data De-Identification Guidelines, and consistency of the data over time.
+Prior to publishing a data table on the CalHHS Open Data Portal a number of steps must first be completed to ensure a high quality and usable product.
+
+### Data Format
+
+Data tables will be formatted in a machine-readable format. CalHHS Departments and Offices have chosen Comma Separated Values (CSV) as its standard format for publication.&#x20;
+
+### Metadata
+
+Accompanying the data table will be complete metadata and a data dictionary that provides descriptions and technical notes as necessary for every field in the data table. Departments and Offices are also encouraged to include with each data table one or more visualizations of the data (graphs and/or maps) as well as one or more potential research questions of interest to the Department/Office as a way to encourage public engagement and innovation related to strategic goals.
+
+### De-Identification and Suppression
+
+Each data table, as a part of the approval process, will be reviewed for quality assurance, compliance with the CalHHS Data De-Identification Guidelines, and consistency of the data over time. Please refer to the Data De-Identification Guidelines for more specific information.
+
+When publishing data with suppressed values, use an annotation field (column) in each data table that corresponds to records that have suppressed cells. Additionally, use metadata and documentation to indicates small cell method used (<11, etc.)​ and consider highlighting and drawing attention to annotated fields​.
+
+#### Small Cell Data Standard:​
+
+* Value in cell is blank if blank due to “annotation”​
+* “0” in cell if value is 0​
+* Annotation Field:
+  * 0 or blank = no annotation or blank​
+  * 1 = cell suppressed for small numbers​
+  * 2 = cell suppressed for complementary cell​
+  * 3 = no data is available​
+  * 4 = statistically unstable value​
+  * 5 = incomplete data.
 
 ## 4. Publication <a href="#id-4-publication" id="id-4-publication"></a>
 
