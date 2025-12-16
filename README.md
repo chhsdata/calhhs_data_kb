@@ -2,20 +2,6 @@
 icon: head-side-brain
 cover: .gitbook/assets/Artboard 6 (2).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Data Knowledge Base
@@ -53,5 +39,5 @@ The Open Data handbook is a resource with its audience being the CalHHS ODP+GIS 
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="rating" data-max="5"></th><th data-hidden data-type="users" data-multiple></th><th data-hidden data-type="users" data-multiple></th></tr></thead><tbody><tr><td>CalHHS Data Sharing Guidebook</td><td><a href="broken-reference">Broken link</a></td><td></td><td><a href=".gitbook/assets/data_sharing_header.jpeg">data_sharing_header.jpeg</a></td><td><a href="sharing-guide/data-plays-intro/">data-plays-intro</a></td><td>null</td><td></td><td></td></tr><tr><td>Data De-Identification Guide</td><td><a href="broken-reference">Broken link</a></td><td></td><td><a href=".gitbook/assets/deidentify_header.png">deidentify_header.png</a></td><td><a href="broken-reference">Broken link</a></td><td>null</td><td></td><td></td></tr><tr><td>Open Data Handbook</td><td><a href="broken-reference">Broken link</a></td><td></td><td><a href=".gitbook/assets/open_data_header.jpeg">open_data_header.jpeg</a></td><td><a href="broken-reference">Broken link</a></td><td>null</td><td></td><td></td></tr><tr><td>Supplemental Information</td><td><a href="broken-reference">Broken link</a></td><td></td><td><a href=".gitbook/assets/supplemental_header.jpeg">supplemental_header.jpeg</a></td><td><a href="broken-reference">Broken link</a></td><td>null</td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="rating" data-max="5"></th><th data-hidden data-type="users" data-multiple></th><th data-hidden data-type="users" data-multiple></th></tr></thead><tbody><tr><td>CalHHS Data Sharing Guidebook</td><td><a href="/broken/pages/XpkHsFuenmBfpu2slWEU">Broken link</a></td><td></td><td><a href=".gitbook/assets/data_sharing_header2.jpeg">data_sharing_header2.jpeg</a></td><td><a href="sharing-guide/data-plays-intro/">data-plays-intro</a></td><td>null</td><td></td><td></td></tr><tr><td>Data De-Identification Guide</td><td><a href="/broken/pages/bV6QKvtWGI58PfUvWVIG">Broken link</a></td><td></td><td><a href=".gitbook/assets/deidentify_header.png">deidentify_header.png</a></td><td><a href="/broken/pages/bV6QKvtWGI58PfUvWVIG">Broken link</a></td><td>null</td><td></td><td></td></tr><tr><td>Open Data Handbook</td><td><a href="/broken/pages/KoT10LDu7DRUTjTtyIoD">Broken link</a></td><td></td><td><a href=".gitbook/assets/open_data_header.jpeg">open_data_header.jpeg</a></td><td><a href="/broken/pages/KoT10LDu7DRUTjTtyIoD">Broken link</a></td><td>null</td><td></td><td></td></tr><tr><td>Supplemental Information</td><td><a href="/broken/pages/YPRDJfKAPNpnzfOHq2eP">Broken link</a></td><td></td><td><a href=".gitbook/assets/supplemental_header2.jpeg">supplemental_header2.jpeg</a></td><td><a href="/broken/pages/YPRDJfKAPNpnzfOHq2eP">Broken link</a></td><td>null</td><td></td><td></td></tr></tbody></table>
 
