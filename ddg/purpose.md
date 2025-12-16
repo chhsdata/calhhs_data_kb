@@ -3,20 +3,6 @@ icon: files-medical
 cover: >-
   ../.gitbook/assets/Medical-Data-Reviewer-Allucents-Secrets-to-Study-Success.webp
 coverY: -82
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 1. Purpose

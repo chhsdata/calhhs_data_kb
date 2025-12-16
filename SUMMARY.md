@@ -25,6 +25,16 @@
   * [Evaluating Outcomes & Impacts](sharing-guide/business-case-creation/evaluating-outcomes-and-impacts.md)
   * [Communicating Your Results](sharing-guide/business-case-creation/communicating-your-results.md)
 
+## Group 1
+
+* [Data De-Identification Guidelines](group-1/data-de-identification-guidelines.md)
+* [1. Purpose](group-1/1.-purpose.md)
+* [2. Background](group-1/2.-background.md)
+* [3. Scope](group-1/3.-scope.md)
+* [4. Statistical De-Identification](group-1/4.-statistical-de-identification.md)
+* [5. Types of Reporting](group-1/5.-types-of-reporting.md)
+* [Appendix J: Full Revision History](group-1/appendix-j-full-revision-history.md)
+
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 
 * [Revision History](ddg/revision-history.md)
