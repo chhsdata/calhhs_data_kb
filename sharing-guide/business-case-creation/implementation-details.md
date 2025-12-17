@@ -34,7 +34,7 @@ The Data Management Resources will include resources on: data access and publish
 
 CHHS collects, manages and disseminates a wide range of data. As Departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide guidelines to assist Departments in assessing data for public release.
 
-The [CalHHS Data De-Identification Guidelines](broken-reference) support CalHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CalHHS Open Data Portal](https://data.chhs.ca.gov). See the full guidelines in the [CalHHS Data De-Identification Guidelines section](broken-reference).
+The [CalHHS Data De-Identification Guidelines](/broken/pages/bV6QKvtWGI58PfUvWVIG) support CalHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CalHHS Open Data Portal](https://data.chhs.ca.gov). See the full guidelines in the [CalHHS Data De-Identification Guidelines section](/broken/pages/bV6QKvtWGI58PfUvWVIG).
 
 ### De-Identification Considerations:
 

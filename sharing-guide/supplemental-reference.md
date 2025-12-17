@@ -13,14 +13,14 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 * CalHHS Information Strategic Plan
 * CalHHS Master Data Management Strategy
 * [CalHHS Open Data Portal](https://data.chhs.ca.gov/)
-* [CalHHS Open Data Handbook](broken-reference)
+* [CalHHS Open Data Handbook](/broken/pages/KoT10LDu7DRUTjTtyIoD)
 * Data sharing materials:
   * CalHHS Data Sharing - Process Flow
   * CalHHS Data Sharing - Legal Agreement
   * CalHHS Data Sharing - Frequently Asked Questions (FAQs)
   * Business Use Case Proposal - Form
   * Business Use Case Proposal - Instructions
-* [CalHHS Data De-Identification Guidelines](broken-reference)
+* [CalHHS Data De-Identification Guidelines](/broken/pages/bV6QKvtWGI58PfUvWVIG)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 
 ***

@@ -25,15 +25,32 @@
   * [Evaluating Outcomes & Impacts](sharing-guide/business-case-creation/evaluating-outcomes-and-impacts.md)
   * [Communicating Your Results](sharing-guide/business-case-creation/communicating-your-results.md)
 
-## Group 1
+## Data De-Identification Guidelines <a href="#ddg-new" id="ddg-new"></a>
 
-* [Data De-Identification Guidelines](group-1/data-de-identification-guidelines.md)
-* [1. Purpose](group-1/1.-purpose.md)
-* [2. Background](group-1/2.-background.md)
-* [3. Scope](group-1/3.-scope.md)
-* [4. Statistical De-Identification](group-1/4.-statistical-de-identification.md)
-* [5. Types of Reporting](group-1/5.-types-of-reporting.md)
-* [Appendix J: Full Revision History](group-1/appendix-j-full-revision-history.md)
+* [Data De-Identification Guidelines](ddg-new/data-de-identification-guidelines.md)
+* [1. Purpose](ddg-new/1.-purpose.md)
+* [2. Background](ddg-new/2.-background.md)
+* [3. Scope](ddg-new/3.-scope.md)
+* [4. Statistical De-Identification](ddg-new/4.-statistical-de-identification.md)
+* [11. References](ddg-new/11.-references.md)
+* [12. Approvals](ddg-new/12.-approvals.md)
+* [5. Types of Reporting](ddg-new/5.-types-of-reporting.md)
+* [6. Approval Process](ddg-new/6.-approval-process.md)
+* [7. DDG Governance](ddg-new/7.-ddg-governance.md)
+* [8. Development Process](ddg-new/8.-development-process.md)
+* [9. Abbreviations and Acronyms](ddg-new/9.-abbreviations-and-acronyms.md)
+* [10. Definitions](ddg-new/10.-definitions.md)
+* [Appendix](ddg-new/appendix/README.md)
+  * [A. Legal Framework](ddg-new/appendix/a.-legal-framework.md)
+  * [B. The HIPAA De-Identification Standard](ddg-new/appendix/b.-the-hipaa-de-identification-standard.md)
+  * [C: June 2022 HIPAA Reassessment Results](ddg-new/appendix/c-june-2022-hipaa-reassessment-results.md)
+  * [D: Justification of Thresholds Identified](ddg-new/appendix/d-justification-of-thresholds-identified.md)
+  * [E. More About Statistical Masking Methods](ddg-new/appendix/e.-more-about-statistical-masking-methods.md)
+  * [F: Publicly Available Data](ddg-new/appendix/f-publicly-available-data.md)
+  * [G: State and County Population Projections](ddg-new/appendix/g-state-and-county-population-projections.md)
+  * [H: Survey and Suppression Rules](ddg-new/appendix/h-survey-and-suppression-rules.md)
+  * [I: Scoring Scenarios for Public Health Care Coverage](ddg-new/appendix/i-scoring-scenarios-for-public-health-care-coverage.md)
+  * [J: CalHHS DDG Template Development and Revision History](ddg-new/appendix/j-calhhs-ddg-template-development-and-revision-history.md)
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 

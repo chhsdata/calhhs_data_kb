@@ -1,10 +1,4 @@
----
-description: >-
-  California Health and Human Services, Data De-Identification Guidelines
-  Template Development and Revision History
----
-
-# Appendix J: Full Revision History
+# J: CalHHS DDG Template Development and Revision History
 
 This section outlines the development, review, and approval stages for the CalHHS DDG Template Editions 1.0 and 2.0.
 

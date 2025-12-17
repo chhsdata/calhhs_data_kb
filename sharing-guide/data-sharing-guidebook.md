@@ -2,20 +2,6 @@
 icon: map-location
 cover: ../.gitbook/assets/Artboard 9.png
 coverY: -25.33765392093325
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Data Sharing Guidebook

@@ -1,16 +1,5 @@
 ---
 icon: circle-3
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Play 3: Business Case
