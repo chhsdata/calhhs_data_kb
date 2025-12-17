@@ -19,50 +19,21 @@ Summarized data may be reviewed in the context of the numerator and the denomina
 
 The numerator is typically the value in each table cell. However, the denominator can be difficult to identify given the various ways in which tables are prepared. Two examples of tables, Figure 3 and Figure 4, show the numerators and denominators in sample tables. &#x20;
 
-<figure><img src="../.gitbook/assets/f3-numerators-and-denominators-in-a-table.png" alt=""><figcaption><p>Figure 3. Illustration of Numerators and Denominators in a Table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/f3-numerators-and-denominators-in-a-table.png" alt=""><figcaption><p>Figure 3. Illustration of Numerators and Denominators in a Table</p></figcaption></figure>
 
 Figure 3 shows an example table with the numerator highlighted. The Cells in the table are the boxes with values in them, as opposed to the row and column headings. The row headings are 2021 and 2022. The column headings are Year, Number of Female Medi-Cal Members, and Number of Male Medi-Cal Members. In Figure 3, “8,625,954” is the value in a table cell and represents a numerator. The sum of the row for year 2022 (8,625,954 + 7,654,306 = 16,280,260) represents a denominator. In this context, the denominator may represent row totals, column totals or the total occurrences in the dataset released. Data in Figure 3 comes from the “[Medi-Cal Long-Term Services and Supports Data” dashboard on the CalHHS Open Data Portal](#user-content-fn-1)[^1].
 
 Figure 4 shows another type of table that contains rates. In this case, the numerator is the [number of Salmonellosis cases for a sample of California Local Health Jurisdictions in 2021](#user-content-fn-2)[^2]. The table also includes the rate of Salmonellosis for these jurisdictions. In order to calculate the rate, the population size of each jurisdiction is required, but is not shown directly in this table. The population denominator is an important element for data de-identification.
 
-<figure><img src="../.gitbook/assets/f4-numerators-denominators-table-of-rates.png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/f4-numerators-denominators-table-of-rates.png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/f5-assessment-for-public-release.png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/f5-assessment-for-public-release.png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure>
 
 ***
 
-### 4.1 Personal Characteristics of Individuals
-
-As described in Section 3 and Figure 2, personal characteristics of individuals introduce the most significant risk with respect to identifying individuals in a dataset. The following are examples of personal characteristics.
-
-* Identifiers as defined in the California IPA
-* Identifiers as defined in HIPAA
-* Demographics typically reported in census and other reporting
-  * Race
-  * Ethnicity
-  * Language Spoken
-  * Sex
-  * Sexual Orientation and Gender Identity
-  * Age
-  * Socio-economic status as percent of poverty
-
-Personal characteristics are those characteristics that are distinctive to a person and may be used to describe that person. Personal characteristics include a broader set of information than those data elements that may be specifically defined as identifiers (such as, driver license, address, birth date, etc.) Personal characteristics may also be inferred from characteristics related to provider or utilization data. For example, if presented with information about a provider that only sees women, it can be inferred that the clients are women even if that is not specifically stated in the data presentation.
-
-### 4.2 Numerator – Denominator Condition <a href="#toc196116284" id="toc196116284"></a>
-
-The Numerator – Denominator Condition represents a combination of both the Numerator Condition and Denominator Condition and for which both conditions must be met or else a more detailed assessment is required. This may be considered as an initial screening of a dataset.
-
-<p align="center">Numerator – number of events with the characteristics of the given row and column</p>
-
-<p align="center">Denominator – the population from which the events arise</p>
-
-The Numerator Condition sets a lower limit for the cell size of cells displayed in a table.  The DDG has set this limit as any value representing aggregated or summarized records which are derived from less than 11 individuals (clients). Of note, values of zero (0) are typically shown since a non-event cannot be identified.&#x20;
-
-The Denominator Condition sets a minimum value for the denominator. The DDG has identified the lower limit for the denominator to be a minimum value of 20,000.
-
-Since this is a Numerator – Denominator Condition, both the minimum cell size for the numerator and denominator must be met. If these conditions are met, the table can move to Step 5 for consideration for release to the public. If either the numerator or denominator condition is not met, then the review of the data must proceed to Step 3. &#x20;
+### &#x20;<a href="#toc196116284" id="toc196116284"></a>
 
 ### 4.3 Assess Potential Risk <a href="#toc196116285" id="toc196116285"></a>
 
@@ -98,7 +69,7 @@ Events (Numerator)
 
 Age Range
 
-<table><thead><tr><th valign="top"></th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">>29-year age range</td><td valign="top">+1</td></tr><tr><td valign="top">11-29 year age range</td><td valign="top">+2</td></tr><tr><td valign="top">6-10 year age range</td><td valign="top">+3</td></tr><tr><td valign="top">3-5 year age range</td><td valign="top">+5</td></tr><tr><td valign="top">1-2 year age range</td><td valign="top">+7</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">>29-year age range</td><td valign="top">+1</td></tr><tr><td valign="top">11-29 year age range</td><td valign="top">+2</td></tr><tr><td valign="top">6-10 year age range</td><td valign="top">+3</td></tr><tr><td valign="top">3-5 year age range</td><td valign="top">+5</td></tr><tr><td valign="top">1-2 year age range</td><td valign="top">+7</td></tr></tbody></table>
 
 Race or Race/Ethnicity
 
@@ -106,11 +77,11 @@ The following two tables can be used for data that complies with current OMB sta
 
 Race or Race/Ethnicity Combined
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African</td><td valign="top">+2</td></tr><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African, American Indian or Alaska Native, Native Hawaiian or Other Pacific Islander, Mixed</td><td valign="top">+3</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African</td><td valign="top">+2</td></tr><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African, American Indian or Alaska Native, Native Hawaiian or Other Pacific Islander, Mixed</td><td valign="top">+3</td></tr></tbody></table>
 
 Detailed Race or Race/Ethnicity Combined
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td valign="top">+1</td></tr><tr><td valign="top"><p> Detailed Race or Race/Ethnicity Combined with Population 300,001 – 4,000,000</p><p><em>e</em>.<em>g., Chinese, Filipino, German, Asian Indian, Italian, Korean, Salvadoran, Guatemalan</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population 100,001 – 300,000</p><p><em>e.g., Japanese, Armenian, Iranian, Aztec, Portuguese, Taiwanese, Hmong, Puerto Rican, Peruvian</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population 20,001 – 100,000</p><p><em>e.g., Cambodian, Dutch, Pakistani, Egyptian, Thai, Maya, Afghan, Nigerian, Indonesian, Fijian, Native Hawaiian, Jamaican, Cuban, Colombian, Argentinean</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population ≤20,000</p><p><em>e.g., Tongan, Chamorro, Bangladeshi, Sri Lankan, Brazilian, Mixtec, Kenyan, Zapotec, Malaysian, Belizean, Chumash, Sudanese, Pomo, Inca, Pipil</em></p></td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td valign="top">+1</td></tr><tr><td valign="top"><p> Detailed Race or Race/Ethnicity Combined with Population 300,001 – 4,000,000</p><p><em>e</em>.<em>g., Chinese, Filipino, German, Asian Indian, Italian, Korean, Salvadoran, Guatemalan</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population 100,001 – 300,000</p><p><em>e.g., Japanese, Armenian, Iranian, Aztec, Portuguese, Taiwanese, Hmong, Puerto Rican, Peruvian</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population 20,001 – 100,000</p><p><em>e.g., Cambodian, Dutch, Pakistani, Egyptian, Thai, Maya, Afghan, Nigerian, Indonesian, Fijian, Native Hawaiian, Jamaican, Cuban, Colombian, Argentinean</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Race or Race/Ethnicity Combined with Population ≤20,000</p><p><em>e.g., Tongan, Chamorro, Bangladeshi, Sri Lankan, Brazilian, Mixtec, Kenyan, Zapotec, Malaysian, Belizean, Chumash, Sudanese, Pomo, Inca, Pipil</em></p></td><td valign="top">+7</td></tr></tbody></table>
 
 Ethnicity
 
@@ -118,27 +89,27 @@ Use the following two tables to assess risk for the ethnicity variable, which wi
 
 Ethnicity Only
 
-<table><thead><tr><th valign="top"></th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">Hispanic or Latino - yes or no</td><td valign="top">+1</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Hispanic or Latino - yes or no</td><td valign="top">+1</td></tr></tbody></table>
 
 Detailed Ethnicity
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td valign="top">+1</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td valign="top">+1</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td valign="top">+7</td></tr></tbody></table>
 
 Language Spoken
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">English, Spanish, Other Language</td><td valign="top">+1</td></tr><tr><td valign="top"><p>Detailed Language with Population 300,001 – 4,000,000</p><p><em>e.g., Chinese, Tagalog, Vietnamese, Korean</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Language with Population 100,001 - 300,000</p><p><em>e.g., Persian, Hindi, Arabic, Russian, Japanese, French</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Language with Population 20,001 - 100,000</p><p><em>e.g., German, Portuguese, Hmong, Hebrew, Bengali, Polish</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Language with Population ≤20,000</p><p><em>e.g., Haitian, Navajo</em></p></td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">English, Spanish, Other Language</td><td valign="top">+1</td></tr><tr><td valign="top"><p>Detailed Language with Population 300,001 – 4,000,000</p><p><em>e.g., Chinese, Tagalog, Vietnamese, Korean</em></p></td><td valign="top">+2</td></tr><tr><td valign="top"><p>Detailed Language with Population 100,001 - 300,000</p><p><em>e.g., Persian, Hindi, Arabic, Russian, Japanese, French</em></p></td><td valign="top">+3</td></tr><tr><td valign="top"><p>Detailed Language with Population 20,001 - 100,000</p><p><em>e.g., German, Portuguese, Hmong, Hebrew, Bengali, Polish</em></p></td><td valign="top">+5</td></tr><tr><td valign="top"><p>Detailed Language with Population ≤20,000</p><p><em>e.g., Haitian, Navajo</em></p></td><td valign="top">+7</td></tr></tbody></table>
 
 Sex, Sexual Orientation, and Gender Identity
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Sex</td><td valign="top">Male or Female</td><td valign="top">+1</td></tr><tr><td valign="top">Sexual Orientation</td><td valign="top">Straight, Gay or Lesbian, Bisexual, Asexual</td><td valign="top">+2</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, Transgender or Non-Binary </td><td valign="top">+3</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, disaggregation of Transgender/Non-Binary category into more specific identities (e.g., Genderqueer, Two-Spirit, etc.) </td><td valign="top">+5</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Variable</th><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Sex</td><td valign="top">Male or Female</td><td valign="top">+1</td></tr><tr><td valign="top">Sexual Orientation</td><td valign="top">Straight, Gay or Lesbian, Bisexual, Asexual</td><td valign="top">+2</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, Transgender or Non-Binary </td><td valign="top">+3</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, disaggregation of Transgender/Non-Binary category into more specific identities (e.g., Genderqueer, Two-Spirit, etc.) </td><td valign="top">+5</td></tr></tbody></table>
 
 Intersex
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Intersex (asked as separate question)</td><td valign="top">Yes or No</td><td valign="top">+2</td></tr><tr><td valign="top">Intersex (combined with Sex question)</td><td valign="top">Male, Female, Intersex</td><td valign="top">+2</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Variable</th><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Intersex (asked as separate question)</td><td valign="top">Yes or No</td><td valign="top">+2</td></tr><tr><td valign="top">Intersex (combined with Sex question)</td><td valign="top">Male, Female, Intersex</td><td valign="top">+2</td></tr></tbody></table>
 
 Immigration Status
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen) </td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses - Refer to High-Risk Populations (Section 5.6.2)  </td><td valign="top">N/A</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen) </td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses - Refer to High-Risk Populations (Section 5.6.2)  </td><td valign="top">N/A</td></tr></tbody></table>
 
 Insurance Coverage
 
@@ -150,11 +121,11 @@ Use the following table when reporting by insurance coverage, such as by health 
 
 3\.    If the number of members enrolled in Insurance Coverage is less than the population of the geographic subdivision, then use the Insurance Table. If the number of members enrolled in Insurance Coverage is greater than or equal to the population of the geographic subdivision, then use the Geography Table.
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Coverage with >2,000,000 members</td><td valign="top">-5</td></tr><tr><td valign="top">Coverage with 1,000,001 - 2,000,000 members</td><td valign="top">-3</td></tr><tr><td valign="top">Coverage with 560,001 - 1,000,000 members</td><td valign="top">-1</td></tr><tr><td valign="top">Coverage with 250,001 - 560,000 members</td><td valign="top">0</td></tr><tr><td valign="top">Coverage with 100,001 - 250,000 members</td><td valign="top">+1</td></tr><tr><td valign="top">Coverage with 50,001 - 100,000 members</td><td valign="top">+3</td></tr><tr><td valign="top">Coverage with 20,001 - 50,000 members</td><td valign="top">+4</td></tr><tr><td valign="top">Coverage with ≤ 20,000 members</td><td valign="top">+5</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Coverage with >2,000,000 members</td><td valign="top">-5</td></tr><tr><td valign="top">Coverage with 1,000,001 - 2,000,000 members</td><td valign="top">-3</td></tr><tr><td valign="top">Coverage with 560,001 - 1,000,000 members</td><td valign="top">-1</td></tr><tr><td valign="top">Coverage with 250,001 - 560,000 members</td><td valign="top">0</td></tr><tr><td valign="top">Coverage with 100,001 - 250,000 members</td><td valign="top">+1</td></tr><tr><td valign="top">Coverage with 50,001 - 100,000 members</td><td valign="top">+3</td></tr><tr><td valign="top">Coverage with 20,001 - 50,000 members</td><td valign="top">+4</td></tr><tr><td valign="top">Coverage with ≤ 20,000 members</td><td valign="top">+5</td></tr></tbody></table>
 
 Expected Payer/ Public Assistance and Means-Tested Programs
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Enrollment > 10,000,000 people</td><td valign="top">+0</td></tr><tr><td valign="top">Enrollment 4,000,001 – 10,000,000</td><td valign="top">+1</td></tr><tr><td valign="top">Enrollment 300,001 – 4,000,000</td><td valign="top">+2</td></tr><tr><td valign="top">Enrollment 100,001 – 300,000</td><td valign="top">+3</td></tr><tr><td valign="top">Enrollment 20,001 – 100,000</td><td valign="top">+5</td></tr><tr><td valign="top">Enrollment ≤20,000</td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Enrollment > 10,000,000 people</td><td valign="top">+0</td></tr><tr><td valign="top">Enrollment 4,000,001 – 10,000,000</td><td valign="top">+1</td></tr><tr><td valign="top">Enrollment 300,001 – 4,000,000</td><td valign="top">+2</td></tr><tr><td valign="top">Enrollment 100,001 – 300,000</td><td valign="top">+3</td></tr><tr><td valign="top">Enrollment 20,001 – 100,000</td><td valign="top">+5</td></tr><tr><td valign="top">Enrollment ≤20,000</td><td valign="top">+7</td></tr></tbody></table>
 
 Geography
 
@@ -162,19 +133,19 @@ If the level of reporting is best described by the geography of the individual/s
 
 Residence Geography
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">0</td></tr><tr><td valign="top">Population 100,001 - 250,000</td><td valign="top">+1</td></tr><tr><td valign="top">Population 50,001 - 100,000</td><td valign="top">+3</td></tr><tr><td valign="top">Population 20,001 - 50,000</td><td valign="top">+4</td></tr><tr><td valign="top">Population 4,001 - 20,000</td><td valign="top">+5</td></tr><tr><td valign="top">Population ≤ 4,000</td><td valign="top">+7</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">0</td></tr><tr><td valign="top">Population 100,001 - 250,000</td><td valign="top">+1</td></tr><tr><td valign="top">Population 50,001 - 100,000</td><td valign="top">+3</td></tr><tr><td valign="top">Population 20,001 - 50,000</td><td valign="top">+4</td></tr><tr><td valign="top">Population 4,001 - 20,000</td><td valign="top">+5</td></tr><tr><td valign="top">Population ≤ 4,000</td><td valign="top">+7</td></tr></tbody></table>
 
 Service Geography
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-4</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population of reporting region 20,001 - 250,000</td><td valign="top">0</td></tr><tr><td valign="top">Population of reporting region ≤20,000</td><td valign="top">+1</td></tr><tr><td valign="top">Address (Street and ZIP)</td><td valign="top">+3</td></tr><tr><td valign="top">Address in rural[2] area</td><td valign="top">+5</td></tr><tr><td valign="top">Address in frontier[3], [4] area</td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-4</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population of reporting region 20,001 - 250,000</td><td valign="top">0</td></tr><tr><td valign="top">Population of reporting region ≤20,000</td><td valign="top">+1</td></tr><tr><td valign="top">Address (Street and ZIP)</td><td valign="top">+3</td></tr><tr><td valign="top">Address in rural[2] area</td><td valign="top">+5</td></tr><tr><td valign="top">Address in frontier[3], [4] area</td><td valign="top">+7</td></tr></tbody></table>
 
 Time – Reporting Period
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">5 years aggregated</td><td valign="top">-5</td></tr><tr><td valign="top">2-4 years aggregated</td><td valign="top">-3</td></tr><tr><td valign="top">1 year (e.g., 2001)</td><td valign="top">0</td></tr><tr><td valign="top">Bi-Annual</td><td valign="top">+3</td></tr><tr><td valign="top">Quarterly</td><td valign="top">+4</td></tr><tr><td valign="top">Monthly</td><td valign="top">+5</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">5 years aggregated</td><td valign="top">-5</td></tr><tr><td valign="top">2-4 years aggregated</td><td valign="top">-3</td></tr><tr><td valign="top">1 year (e.g., 2001)</td><td valign="top">0</td></tr><tr><td valign="top">Bi-Annual</td><td valign="top">+3</td></tr><tr><td valign="top">Quarterly</td><td valign="top">+4</td></tr><tr><td valign="top">Monthly</td><td valign="top">+5</td></tr></tbody></table>
 
 Variable Interactions
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage)</td><td valign="top">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td valign="top">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td valign="top">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td valign="top">+4</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage)</td><td valign="top">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td valign="top">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td valign="top">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td valign="top">+4</td></tr></tbody></table>
 
 ### 1.4        Statistical Masking <a href="#toc440230125" id="toc440230125"></a>
 
@@ -184,27 +155,20 @@ Statistical masking provides an extensive set of tools that can be used to mitig
 
 One common way of masking data is to suppress cells that contain small counts by following these steps:
 
-1\.    Suppress cells (e.g., count of members and services provided to members) <11 (excluding 0) when total score ≥13.
-
-2\.    After the cell suppression (<11 excluding 0) is completed, complementary cell suppression is also required so that the suppressed cells cannot be re-identified. See “Complementary Cell Suppression” section 4.4.3.
-
-3\.    Values of 0 should not be suppressed since a non-event cannot be identified.
-
-4\.    Suppression is also required for financial data which can be associated with members or services provided to members <11 (excluding 0).
-
-5\.    Suppression is required for all the associated statistical entries (e.g., Prevalence rates, percentages, Mean etc.) of the suppressed cells.
-
-6\.    An additional complementary cell needs to be suppressed if (a) OR (b) is true:
-
-a.    all of the values suppressed in a specific group (row or column) are each ≤ 3 (1, 2, 3 excluding 0)
-
-b.    the sum of the values suppressed is less than 11
+1. Suppress cells (e.g., count of members and services provided to members) <11 (excluding 0) when total score ≥13.
+2. After the cell suppression (<11 excluding 0) is completed, complementary cell suppression is also required so that the suppressed cells cannot be re-identified. See “Complementary Cell Suppression” section 4.4.3.
+3. Values of 0 should not be suppressed since a non-event cannot be identified.
+4. Suppression is also required for financial data which can be associated with members or services provided to members <11 (excluding 0).
+5. Suppression is required for all the associated statistical entries (e.g., Prevalence rates, percentages, Mean etc.) of the suppressed cells.
+6. An additional complementary cell needs to be suppressed if (a) OR (b) is true:
+   1. all of the values suppressed in a specific group (row or column) are each ≤ 3 (1, 2, 3 excluding 0)
+   2. the sum of the values suppressed is less than 11
 
 #### 1.4.2 Other Masking Methods
 
 Other masking methods may be applied when one of the following conditions is met:
 
-a)    Multiple variables. This most often occurs in a pivot table presentation or a query interface where a user may have occurrences of disease X, stratified by multiple variables, such as age, sex, race, and ethnicity.
+a) Multiple variables. This most often occurs in a pivot table presentation or a query interface where a user may have occurrences of disease X, stratified by multiple variables, such as age, sex, race, and ethnicity.
 
 b)    Granular variables. The more granular the variable the smaller the potential numerator and denominator. This most commonly occurs with shortening the time period of reporting (weekly) or making the geography more specific (zip code or census tract). However, it can also occur when there are many categories for a variable. An example of this is aid codes in Medi-Cal where there are almost 200 aid codes.
 
@@ -218,7 +182,7 @@ b)    Granular variables. A common approach to this situation would be to decrea
 
 c)    Rare events: In these cases, it is challenging to suppress the value so that it cannot be used with other public information to identify individuals. Additionally, with rare events, there is more significance in the variance of small numbers. The above-mentioned suppression rules minimize the risk of re-identification most times. However, an expert should treat each data on a case-by-case basis and add additional rules if there is a risk of re-identification in any data. Please see 4.4.3 for a couple of examples in which all the above rules are covered but note that if it is revealed that the cells are suppressed due to regular suppression (<11) and not for complementary suppression then all the suppressed cells can be re-identified.
 
-#### 1.4.3 Complementary Cell Suppression
+#### 4.4.3 Complementary Cell Suppression
 
 Complementary cells are those that must be suppressed to prevent someone from calculating the suppressed cell based on row or column totals in combination with other data in that row or column. For example:
 
@@ -226,7 +190,7 @@ Example 1: 10-10-10
 
 _Count of Medi-Cal Members by Age_
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Age</td><td valign="top">Count</td><td></td></tr><tr><td valign="top">A1</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A2</td><td valign="top">14</td><td> </td></tr><tr><td valign="top">A3</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A4</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A5</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A6</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A7</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A8</td><td valign="top">30</td><td></td></tr><tr><td valign="top">Total</td><td valign="top">74</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top">Age</th><th valign="top">Count</th><th></th></tr></thead><tbody><tr><td valign="top">Age</td><td valign="top">Count</td><td></td></tr><tr><td valign="top">A1</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A2</td><td valign="top">14</td><td> </td></tr><tr><td valign="top">A3</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A4</td><td valign="top">10</td><td></td></tr><tr><td valign="top">A5</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A6</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A7</td><td valign="top">0</td><td></td></tr><tr><td valign="top">A8</td><td valign="top">30</td><td></td></tr><tr><td valign="top">Total</td><td valign="top">74</td><td></td></tr></tbody></table>
 
 In the above example, if we suppress the three highlighted counts for cells A1, A3 and A4 (in orange, each with values of 10) and if we reveal that it is due to regular suppression of cells <11 then anyone can guess that each cell is 10. In this case, either we should not specify that the three cells are <11 or suppress a complementary cell A2 (with a value of 14) so that the three cells highlighted in orange could not be identified.
 
