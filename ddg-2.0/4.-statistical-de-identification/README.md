@@ -17,7 +17,9 @@ Data summaries that originate from data which includes personal identifiers must
 
 Summarized data may be reviewed in the context of the numerator and the denominator for the given presentation. The numerator represents the number of events being reported while the denominator represents the population from which the numerator is taken. For example, if it is reported that there are 50 cases of diabetes in California then the numerator would be the number of cases (50) and the denominator would be the number of people in California that could have diabetes (more than 38 million people since diabetes can occur at any age or sex). While the numerator is relatively straight-forward to identify, the denominator can be difficult. Data summaries are frequently presented in tables in which numerators and denominators may be identified.&#x20;
 
-The numerator is typically the value in each table cell. However, the denominator can be difficult to identify given the various ways in which tables are prepared. Two examples of tables, Figure 3 and Figure 4, show the numerators and denominators in sample tables. &#x20;
+The numerator is typically the value in each table cell. However, the denominator can be difficult to identify given the various ways in which tables are prepared. Two examples of tables, Figure 3 and Figure 4, show the numerators and denominators in sample tables.
+
+#### Figure 3: Illustration of Numerators and Denominators in a Table
 
 <figure><img src="../../.gitbook/assets/f3-numerators-and-denominators-in-a-table.png" alt=""><figcaption><p>Figure 3. Illustration of Numerators and Denominators in a Table</p></figcaption></figure>
 
@@ -25,12 +27,14 @@ Figure 3 shows an example table with the numerator highlighted. The Cells in the
 
 Figure 4 shows another type of table that contains rates. In this case, the numerator is the number of Salmonellosis cases for a sample of California Local Health Jurisdictions in 2021. The table also includes the rate of Salmonellosis for these jurisdictions. In order to calculate the rate, the population size of each jurisdiction is required, but is not shown directly in this table. The population denominator is an important element for data de-identification.
 
+#### Figure 4: Illustration of Numerators and Denominators in a Table of Rates
+
 <figure><img src="../../.gitbook/assets/f4-numerators-denominators-table-of-rates.png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure>
 
 ***
 
-<figure><img src="../../.gitbook/assets/f5-assessment-for-public-release.png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure>
+#### Figure 5: Data Assessment for Public Release Procedure
 
-&#x20;
+<figure><img src="../../.gitbook/assets/f5-assessment-for-public-release.png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure>
 
 [^1]: Data was extracted from the _Medi-Cal Long-Term Services and Supports Data_ files for 2021 and 2022, CalHHS Open Data Portal: [https://data.chhs.ca.gov/dataset/long-term-services-and-supports](https://data.chhs.ca.gov/dataset/long-term-services-and-supports)
