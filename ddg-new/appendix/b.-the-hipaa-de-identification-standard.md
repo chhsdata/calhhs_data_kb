@@ -1,5 +1,19 @@
 ---
 description: 14.1 The HIPAA De-Identification Standard
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # B. The HIPAA De-Identification Standard

@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # D: Justification of Thresholds Identified
 
 ### 1.1        Establishing Minimum Numerator and Denominator <a href="#toc196116314" id="toc196116314"></a>

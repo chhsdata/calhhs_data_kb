@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # E. More About Statistical Masking Methods
 
 There are a number of alternative methods that are available for statistical masking. Use of any alternative method for de-identification must be reviewed and approved by the PRT.

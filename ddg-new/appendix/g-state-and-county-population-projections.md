@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # G: State and County Population Projections
 
 View the “[CalHHS Data De-Identification Guidelines Reference Dataset](https://data.chhs.ca.gov/dataset/chhs-ddg)” resource on the California Health & Human Services Agency’s Open Data Portal.
