@@ -1,16 +1,22 @@
+---
+description: 14.1 The HIPAA De-Identification Standard
+---
+
 # B. The HIPAA De-Identification Standard
+
+##
 
 The Center for Data Insights and Innovation (CDII) is authorized by state statute to coordinate and monitor HIPAA compliance by all California State entities within the executive branch of government covered or impacted by HIPAA. One difference between the California IPA and HIPAA is the documentation requirement in HIPAA for data de-identified using the Expert Determination method.&#x20;
 
-The HIPAA Standard <sup>\[1]</sup> for de-identification of protected health information (PHI)<sup>\[2]</sup> states “Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.” If the data are de-identified, and it is not reasonably likely that the data could be re-identified, the Privacy Rule no longer restricts the use or disclosure of the de-identified data.
+[The HIPAA Standard](#user-content-fn-1)[^1] for de-identification of [protected health information (PHI)](#user-content-fn-2)[^2] states “Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.” If the data are de-identified, and it is not reasonably likely that the data could be re-identified, the Privacy Rule no longer restricts the use or disclosure of the de-identified data.
 
 The following is quoted from the “Guidance Regarding Methods for De-Identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule”, published November, 2012 by the U.S. Department of Health & Human Services, Office for Civil Rights: ([https://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html](https://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html))&#x20;
 
-### 1.1        The HIPAA De-Identification Standard <a href="#toc196116310" id="toc196116310"></a>
+## 14.1 The HIPAA De-Identification Standard <a href="#toc196116310" id="toc196116310"></a>
 
 Section 164.514(a) of the HIPAA Privacy Rule (45 CFR) provides the standard for de-identification of protected health information. Under this standard, health information is not individually identifiable if it does not identify an individual and if the covered entity has no reasonable basis to believe it can be used to identify an individual.
 
-§ 164.514 Other requirements relating to uses and disclosures of protected health information.
+**§ 164.514 Other requirements relating to uses and disclosures of protected health information.**
 
 (a) _Standard: de-identification of protected health information._ Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.
 
@@ -115,3 +121,7 @@ The request does not meet the Safe Harbor standard because it includes counts by
 \[1] The Standard is found in the HIPAA Privacy Rule, 45 CFR section 164.514(a).
 
 \[2] “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual. (45 CFR section 160.103)
+
+[^1]: The Standard is found in the HIPAA Privacy Rule, 45 CFR section 164.514(a)
+
+[^2]: “PHI” is defined as information which relates to the individual’s past, present, or future physical or mental health or condition, the provision of health care to the individual, or the past, present, or future payment for the provision of health care to the individual, and that identifies the individual, or for which there is a reasonable basis to believe can be used to identify the individual. (45 CFR section 160.103)

@@ -6,11 +6,9 @@ The DDG workgroup reviewed the published literature including information from o
 
 Just as there is no consistent value for the Numerator Condition, neither is there a consistent value for the Denominator Condition. Some examples include:
 
-·         National Center for Health Statistics (public micro-data) – 250,000
-
-·         National Environmental Health Tracking Network – 100,000
-
-·         Maine Integrated Youth Health Survey – 5,000
+* National Center for Health Statistics (public micro-data) – 250,000
+* National Environmental Health Tracking Network – 100,000
+* &#x20;                     Maine Integrated Youth Health Survey – 5,000
 
 In establishing a minimum denominator to protect confidentiality, the DDG workgroup began by looking at the risk associated with providing geography associated with record level data. As noted in the “Guidance Regarding Methods for De-Identification of Protected HIPAA Privacy Rule”, published November 2012 by the U.S. Department of Health & Human Services, Office for Civil Rights there is varying risk based on the level of zip code and how the zip code is combined with other variables. It has been estimated that the combination of a patient’s Date of Birth, Sex, and 5-Digit ZIP Code is unique for over 50% of residents in the United States.<sup>\[2],\[3]</sup> This means that over half of U.S. residents could be uniquely described just with these three data elements. In contrast, it has been estimated that the combination of Year of Birth, Sex, and 3-Digit ZIP Code is unique for approximately 0.04% of residents in the United States.\[4] For this reason, the HIPAA Safe Harbor rule specifies that the 3-Digit ZIP Code can be provided at the record level if the 3-Digit ZIP Code has a minimum of 20,000 people. By aggregating data for a given 3-Digit ZIP Code, the potential for identifying a unique individual is less than 0.04%.  By combining with the Numerator Condition, the risk becomes less than 0.04% because there will be a minimum of 11 individuals with a particular age and sex for the 3-Digit ZIP Code. Additionally, most tables will provide additional levels of aggregation further reducing risk. This reduction of risk is discussed further with respect to the Publication Scoring Criteria.&#x20;
 

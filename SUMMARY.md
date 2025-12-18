@@ -36,6 +36,8 @@
   * [4.2 Numerator – Denominator Condition](ddg-new/4.-statistical-de-identification/4.2-numerator-denominator-condition.md)
   * [4.3	Assess Potential Risk](ddg-new/4.-statistical-de-identification/4.3-assess-potential-risk.md)
   * [4.4 Statistical Masking](ddg-new/4.-statistical-de-identification/4.4-statistical-masking.md)
+  * [4.5 Expert Determination Documentation and Legal Review](ddg-new/4.-statistical-de-identification/4.5-expert-determination-documentation-and-legal-review.md)
+  * [4.6	Departmental Release Procedure for De-identified Data](ddg-new/4.-statistical-de-identification/4.6-departmental-release-procedure-for-de-identified-data.md)
 * [5. Types of Reporting](ddg-new/5.-types-of-reporting.md)
 * [6. Approval Process](ddg-new/6.-approval-process.md)
 * [7. DDG Governance](ddg-new/7.-ddg-governance.md)
