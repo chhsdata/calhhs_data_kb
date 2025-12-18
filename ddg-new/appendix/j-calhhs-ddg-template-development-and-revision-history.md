@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # J: CalHHS DDG Template Development and Revision History
 
 This section outlines the development, review, and approval stages for the CalHHS DDG Template Editions 1.0 and 2.0.
