@@ -1,3 +1,7 @@
+---
+icon: chart-scatter
+---
+
 # 4. Statistical De-Identification
 
 The DDG describes the Data Assessment for Public Release Procedure shown in Figure 5, to be used by departments in the CalHHS to assess data for public release. This Section 4 describes specific actions that may be taken for each step in the procedure with additional supporting information provided in Sections 5, 6 and 16. These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California IPA to prevent the disclosure of personal information.
