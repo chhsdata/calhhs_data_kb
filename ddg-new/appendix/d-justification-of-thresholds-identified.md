@@ -59,7 +59,7 @@ Scores for all personal characteristics (e.g., age, race/ethnicity, language spo
 
 <table><thead><tr><th width="700.6000366210938" valign="middle">Population Size</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Population >4,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Population 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Population 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Population 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Population ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
-### 1.2.3 Age Range
+### 16.2.3 Age Range
 
 #### Table 3: Age Range Scoring
 
@@ -79,7 +79,7 @@ The smallest statewide populations for contiguous ranges of ages under 100 years
 
 Be aware that other restrictions may apply when reporting age ranges, such as only reporting ages 90 and older as a single category for HIPAA Safe Harbor. Of note, the HIPAA Safe Harbor method specifically identifies the following as an identifier: “All elements of dates (except year) for dates that are directly related to an individual, including birth date, admission date, discharge date, death date, and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older.” Although dates are included in the Safe Harbor list, age (<90 years old) is not. The risk score to age ranges reflects the two components of the scoring criteria: size of the potential population and the variable specificity.
 
-### 1.2.4 Race Group and Ethnicity
+### 16.2.4 Race Group and Ethnicity
 
 #### Table 5: Race or Race/Ethnicity Combined
 
@@ -191,7 +191,7 @@ Statistically, this “inclusionary” approach would increase both numerator an
 
 When identifying the score for a variable, use the highest scoring criteria. For example, if a table had age groups of 0 to 11 years (+2), 12 to 14 years (+5), and 15 to 18 years (+5) then the score for the Age Range variable would be +5 because the smallest age range is 12 to 14, which is an age range of three years. Similarly, if a table had race groups of Chinese (+2), Japanese (+3), Cambodian (+5), and Malaysian (+7) then the score for the Detailed Race Group variable would be +7 because it is the highest score for the reported groups.
 
-### 1.2.5 Language Spoken
+### 16.2.5 Language Spoken
 
 #### Table 16: Language Spoken Scoring
 
@@ -226,9 +226,9 @@ There are no estimates for more granular categories such as genderqueer and two-
 
 The option for a variable limited to "Male or Female" has been kept for datasets that are limited to these options, or in cases where other categories aren't displayed due to confidentiality concerns. The risk score remains at +1 as both populations are greater than 4 million.
 
-Table 18: Sex, Sexual Orientation, and Gender Identity Scoring
+#### Table 18: Sex, Sexual Orientation, and Gender Identity Scoring
 
-<table><thead><tr><th valign="top">Variable</th><th valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Sex</td><td valign="top">Male or Female</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Sexual Orientation</td><td valign="top">Straight, Gay or Lesbian, Bisexual, Asexual</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, Transgender or Non-Binary</td><td align="center" valign="middle">+3</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, disaggregation of Transgender/ Non-Binary category into more specific identities (e.g. Genderqueer, Two-Spirit, etc.)</td><td align="center" valign="middle">+5</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Variable</th><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Sex</td><td valign="middle">Male or Female</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Sexual Orientation</td><td valign="middle">Straight, Gay or Lesbian, Bisexual, Asexual</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Gender Identity</td><td valign="middle">Man/Male, Woman/Female, Transgender or Non-Binary</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Gender Identity</td><td valign="middle">Man/Male, Woman/Female, disaggregation of Transgender/ Non-Binary category into more specific identities (e.g. Genderqueer, Two-Spirit, etc.)</td><td align="center" valign="middle">+5</td></tr></tbody></table>
 
 **Distinction Between Sexual Orientation and Men Having Sex with Men (MSM) Activity**
 
@@ -254,7 +254,7 @@ Table 19: Intersex Scoring
 
 #### Table 20: Immigration Status Scoring
 
-<table><thead><tr><th width="703" valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td valign="top">N/A</td></tr></tbody></table>
+<table><thead><tr><th width="703" valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td align="center" valign="middle">N/A</td></tr></tbody></table>
 
 In this version of DDG, immigration status is added as a new variable because immigration status in the summarized health care data may increase the re-identification risk of individuals due to increased granularity of the aggregated data. This additional information has the potential to make it easier to narrow down and identify individuals, especially if the dataset is combined with other publicly available sources. Immigration status often intersects with other demographic factors such as age, gender, ethnicity, and location. When combined, these factors can create a more distinct profile for certain individuals.
 
@@ -272,52 +272,39 @@ Based on reporting by the U.S. Census Bureau and the U.S. Department of Homeland
 
 #### Table 21: Population Estimates Related to Immigration Status
 
-| U.S. Citizen                                 | \~28.8 million |
-| -------------------------------------------- | -------------- |
-| Foreign Born                                 | \~10.5 million |
-| <ul><li>Naturalized Citizens</li></ul>       | \~5.7 million  |
-| <ul><li>Noncitizens</li></ul>                | \~4.7 million  |
-| <ul><li>Lawful Permanent Residents</li></ul> | \~2.2 million  |
-| <ul><li>Nonimmigrants</li></ul>              | \~560,000      |
-| <ul><li>Temporary Workers</li></ul>          | \~300,000      |
-| <ul><li>Students</li></ul>                   | \~210,000      |
-| <ul><li>Exchange Visitors</li></ul>          | \~50,000       |
-| <ul><li>Refugees/Asylees</li></ul>           | <10,000        |
-| <ul><li>Undocumented Immigrants</li></ul>    | 2,251,756\[15] |
+<table><thead><tr><th width="555">Immigration Status</th><th valign="middle">Population Estimate</th></tr></thead><tbody><tr><td>U.S. Citizen</td><td valign="middle">~28.8 million</td></tr><tr><td>Foreign Born</td><td valign="middle">~10.5 million</td></tr><tr><td><ul><li>Naturalized Citizens</li></ul></td><td valign="middle">~5.7 million</td></tr><tr><td><ul><li><p>Noncitizens</p><ul><li>Lawful Permanent Residents</li><li><p>Nonimmigrants</p><ul><li>Temporary Workers</li><li>Students</li><li>Exchange Visitors</li><li>Refugees/Asylees</li></ul></li><li>Undocumented Immigrants</li></ul></li></ul></td><td valign="middle"><ul><li><p>~4.7 million</p><ul><li>~2.2 million</li><li><p>~560,000</p><ul><li>~300,000</li><li>~210,000</li><li>~50,000</li><li>&#x3C;10,000</li></ul></li><li><a data-footnote-ref href="#user-content-fn-1">2,251,756</a></li></ul></li></ul></td></tr></tbody></table>
 
-Immigration Status scores are prepared based on the U.S. Census Bureau\[16] population data collected on U.S. citizen and foreign-born populations (Table 21 rows for Naturalized Citizens and Noncitizens). Disaggregated immigration status population sizes are prepared based on the Department of Homeland Security Population Estimates for lawful permanent residents\[17] (Table 21 row for Lawful Permanent Residents) and nonimmigrants\[18] (Table 21 rows for Nonimmigrants, Temporary Workers, Students, and Exchange Visitors), including Refugees/Asylees\[19]. The scores are then harmonized with the risk scores assigned to the latest population size thresholds, Table 2. Immigration statuses for disaggregated statuses, and smaller corresponding population sizes are added to the high-risk populations due to the sensitive nature of these populations and an increased risk for identification.
+Immigration Status scores are prepared based on the [U.S. Census Bureau](#user-content-fn-2)[^2] population data collected on U.S. citizen and foreign-born populations (Table 21 rows for Naturalized Citizens and Noncitizens). Disaggregated immigration status population sizes are prepared based on the Department of Homeland Security Population Estimates for [lawful permanent residents](#user-content-fn-3)[^3] (Table 21 row for Lawful Permanent Residents) and nonimmigrants[^4] (Table 21 rows for Nonimmigrants, Temporary Workers, Students, and Exchange Visitors), including Refugees/Asylees[^5]. The scores are then harmonized with the risk scores assigned to the latest population size thresholds, Table 2. Immigration statuses for disaggregated statuses, and smaller corresponding population sizes are added to the high-risk populations due to the sensitive nature of these populations and an increased risk for identification.
 
-#### 1.2.9 Insurance Coverage
+### 16.2.9 Insurance Coverage
 
-Insurance Coverage is a factor that may be a proxy for other identifiers. For example, employment-based payers may provide information about a person’s job status. Other types of payers, such as Medicaid, may provide information about a person’s income. There is demographic data that indicates populations by income level in the public domain as published by the U.S. Census Bureau,\[20] as well as public information related to various jobs and employment status through labor agencies.\[21] \[22] Given the opportunities to use information about the payer in combination with other public information, this variable is given a risk score. The risk is scored as below given the member size of the Insurance Coverage in the various categories.\[23] \[24]
+Insurance Coverage is a factor that may be a proxy for other identifiers. For example, employment-based payers may provide information about a person’s job status. Other types of payers, such as Medicaid, may provide information about a person’s income. There is demographic data that indicates populations by income level in the public domain as [published by the U.S. Census Bureau](#user-content-fn-6)[^6], as well as public information related to various jobs and employment status through[ labor agencies.](#user-content-fn-7)[^7] Given the opportunities to use information about the payer in combination with other public information, this variable is given a risk score. The risk is scored as below given the member size of the Insurance [Coverage in the various categories](#user-content-fn-8)[^8].
 
-Table 22: Insurance Coverage
+#### Table 22: Insurance Coverage
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Coverage with >2,000,000 members</td><td valign="top">-5</td></tr><tr><td valign="top">Coverage with 1,000,001 - 2,000,000 members</td><td valign="top">-3</td></tr><tr><td valign="top">Coverage with 560,001 - 1,000,000 members</td><td valign="top">-1</td></tr><tr><td valign="top">Coverage with 250,001 - 560,000 members</td><td valign="top">0</td></tr><tr><td valign="top">Coverage with 100,001 - 250,000 members</td><td valign="top">+1</td></tr><tr><td valign="top">Coverage with 50,001 - 100,000 members</td><td valign="top">+3</td></tr><tr><td valign="top">Coverage with 20,001 - 50,000 members</td><td valign="top">+4</td></tr><tr><td valign="top">Coverage with ≤ 20,000 members</td><td valign="top">+5</td></tr></tbody></table>
+<table><thead><tr><th width="699.800048828125" valign="middle">Characteristic</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Coverage with >2,000,000 members</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">Coverage with 1,000,001 - 2,000,000 members</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">Coverage with 560,001 - 1,000,000 members</td><td align="center" valign="middle">-1</td></tr><tr><td valign="middle">Coverage with 250,001 - 560,000 members</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Coverage with 100,001 - 250,000 members</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Coverage with 50,001 - 100,000 members</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Coverage with 20,001 - 50,000 members</td><td align="center" valign="middle">+4</td></tr><tr><td valign="middle">Coverage with ≤ 20,000 members</td><td align="center" valign="middle">+5</td></tr></tbody></table>
 
 See Appendix I for more details on scoring scenarios involving the overlap of Insurance Coverage, Expected Payer/Public Assistance and Means-Tested Programs, and Geography. Below are three key points that summarize all the scenarios:
 
-1\.    If the data is ONLY related to Residence or Service Geography, then DO NOT USE Insurance Coverage or Means-Tested Tables.
-
-2\.    Means-Tested Programs—Only add interaction if enrollment in the Public Assistance program is 10 million or fewer people. No interaction is needed for Medi-Cal as the current enrollment is approximately 14 million, which exceeds 10 million.
-
-3\.    If the number of members enrolled in Insurance Coverage is less than the population of the geographic subdivision, then use the Insurance Table. If the number of members enrolled in Insurance Coverage is greater than or equal to the population of the geographic subdivision, then use the Geography Table.
+1. If the data is ONLY related to Residence or Service Geography, then DO NOT USE Insurance Coverage or Means-Tested Tables.
+2. Means-Tested Programs—Only add interaction if enrollment in the Public Assistance program is 10 million or fewer people. No interaction is needed for Medi-Cal as the current enrollment is approximately 14 million, which exceeds 10 million.
+3. If the number of members enrolled in Insurance Coverage is less than the population of the geographic subdivision, then use the Insurance Table. If the number of members enrolled in Insurance Coverage is greater than or equal to the population of the geographic subdivision, then use the Geography Table.
 
 ### 16.2.10 Expected Payer/ Public Assistance and Means-Tested Programs
 
-Expected Payer is a factor that may be a proxy for other identifiers. For example, employment-based payers may provide information about a person’s job status. Other types of payers, such as Medicaid, may provide information about a person’s income. There is demographic data that indicates populations by income level in the public domain as published by the U.S. Census Bureau\[25], as well as public information related to various jobs and employment status through labor agencies.\[26] \[27]Given the opportunities to use information about the payer in combination with other public information, this variable is given a risk score.
+Expected Payer is a factor that may be a proxy for other identifiers. For example, employment-based payers may provide information about a person’s job status. Other types of payers, such as Medicaid, may provide information about a person’s income. There is demographic data that indicates populations by income level in the public domain as [published by the U.S. Census Bureau](#user-content-fn-6)[^6], as well as public information related to various jobs and employment status [through labor agencies](#user-content-fn-7)[^7]. Given the opportunities to use information about the payer in combination with other public information, this variable is given a risk score.
 
 It's important to be aware of the potential risks associated with this data and to ensure its security and protection. For instance, eligibility for benefits in the Medi-Cal program may be determined based on income, property, and assets. Similarly, self-pay data, often associated with the uninsured, can also indicate low income, highlighting the need for data security.
 
-Table 23: Expected Payer/ Public Assistance and Means-Tested Programs Scoring
+#### Table 23: Expected Payer/ Public Assistance and Means-Tested Programs Scoring
 
-<table data-header-hidden><thead><tr><th valign="middle">Size of program enrollment</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Enrollment > 10,000,000 people</td><td align="center" valign="middle">+0</td></tr><tr><td valign="middle">Enrollment > 4,000,001 – 10,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Enrollment 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Enrollment 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Enrollment 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Enrollment ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="699.800048828125" valign="middle">Size of program enrollment</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Enrollment > 10,000,000 people</td><td align="center" valign="middle">+0</td></tr><tr><td valign="middle">Enrollment > 4,000,001 – 10,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Enrollment 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Enrollment 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Enrollment 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Enrollment ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 It is important to note that Medi-Cal is a Means-Tested Program, and overall enrollment is managed at the statewide level. In 2024, approximately 14 million Californians were enrolled in the Medi-Cal program, therefore, the Medi-Cal category has been assigned a +0 DDG score. Also, more than 6 million California residents had Medicare coverage, therefore, the Medicare category has been assigned a +1 DDG score. There are approximately 5.5 million patients captured in the HCAI Health Care Payments Database who have private insurance and thus assigned as +1 score. The uninsured population, who we presume would self-pay seems to be less than 4 million (2,752,067 based on the 2022 5-year American Community Survey estimate for California), has been assigned a +2 score.
 
-In addition to Medi-Cal, CalHHS administers and collects data on a variety of public assistance programs\[28] or means-tested programs.\[29] In these programs, a granting entity uses information on an individual’s income and resources to determine eligibility for the program. Knowing that an individual is on a means-tested program or a public assistance program can reveal sensitive information about their income, employment status, or other personal characteristic related to eligibility. For example, recipients of SNAP are typically at 130% of the Federal Poverty Level. To qualify for TANF, assistance units must be at 100% of the Federal Poverty Level. Major federal programs include Medicaid (Medi-Cal in California), the Earned Income Tax Credit, the Supplemental Nutrition Assistance Program (CalFresh), Supplemental Security Income (SSI), and Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). Additionally, there are several state-funded public assistance programs, including state anti-poverty tax credits, housing and homelessness programs, and programs such as the Cash Assistance Program for Immigrants (CAPI) and the California Food Assistance Program (CFAP).
+In addition to Medi-Cal, CalHHS administers and collects data on a variety of [public assistance programs](#user-content-fn-9)[^9] or [means-tested programs](#user-content-fn-10)[^10]. In these programs, a granting entity uses information on an individual’s income and resources to determine eligibility for the program. Knowing that an individual is on a means-tested program or a public assistance program can reveal sensitive information about their income, employment status, or other personal characteristic related to eligibility. For example, recipients of SNAP are typically at 130% of the Federal Poverty Level. To qualify for TANF, assistance units must be at 100% of the Federal Poverty Level. Major federal programs include Medicaid (Medi-Cal in California), the Earned Income Tax Credit, the Supplemental Nutrition Assistance Program (CalFresh), Supplemental Security Income (SSI), and Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). Additionally, there are several state-funded public assistance programs, including state anti-poverty tax credits, housing and homelessness programs, and programs such as the Cash Assistance Program for Immigrants (CAPI) and the California Food Assistance Program (CFAP).
 
-The size of these programs ranges widely; as noted in the previous section, 14 million Californians are enrolled in Medi-Cal. Roughly 5.5 million Californians participated in CalFresh in 2024.\[30] CalWORKs served a little over 900,000 Californians in 2023.\[31] In the Housing Support Program, fewer than 13,000 applications were approved.\[32] Risk scores should be assigned to data related to (or breaking out) participation by program enrollment. To prevent the inadvertent disclosure of an individual’s participation in a means-tested or public assistance program, the following risk scores can be assigned to data that includes information on program participation, based on the size of the program (note, these numbers are derived from Table 2) and Means-Tested Programs, and Geography.
+The size of these programs ranges widely; as noted in the previous section, 14 million Californians are enrolled in Medi-Cal. Roughly 5.5 million Californians [participated in CalFresh in 2024](#user-content-fn-11)[^11]. CalWORKs served a little [over 900,000 Californians in 2023](#user-content-fn-12)[^12]. In the Housing Support Program, fewer than 13,000 [applications were approved](#user-content-fn-13)[^13]. Risk scores should be assigned to data related to (or breaking out) participation by program enrollment. To prevent the inadvertent disclosure of an individual’s participation in a means-tested or public assistance program, the following risk scores can be assigned to data that includes information on program participation, based on the size of the program (note, these numbers are derived from Table 2) and Means-Tested Programs, and Geography.
 
 ### 16.2.11 Geography
 
@@ -329,7 +316,7 @@ If the level of reporting is best described by the geography of the individual/s
 
 #### Table 25: Service Geography Scoring
 
-<table><thead><tr><th width="701.4000244140625" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">State or geography with population >2,000,000</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">Population 1,000,001 - 2,000,000</td><td align="center" valign="middle">-4</td></tr><tr><td valign="middle">Population 560,001 - 1,000,000</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">Population 250,001 - 560,000</td><td align="center" valign="middle">-1</td></tr><tr><td valign="middle">Population of reporting region 20,001 - 250,000</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Population of reporting region ≤20,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Address (Street and ZIP)</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Address in rural [33] area</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Address in frontier [34], [35] area</td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="701.4000244140625" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">State or geography with population >2,000,000</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">Population 1,000,001 - 2,000,000</td><td align="center" valign="middle">-4</td></tr><tr><td valign="middle">Population 560,001 - 1,000,000</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">Population 250,001 - 560,000</td><td align="center" valign="middle">-1</td></tr><tr><td valign="middle">Population of reporting region 20,001 - 250,000</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Population of reporting region ≤20,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Address (Street and ZIP)</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle"><a data-footnote-ref href="#user-content-fn-14">Address in rural area</a></td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle"><a data-footnote-ref href="#user-content-fn-15">Address in frontier area</a></td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 The Geography score, while it may or may not represent the denominator of the table, does provide a reference to the base population about which the reporting is occurring. This will often be reflected in the title of the table if a statewide table. Otherwise, the geography may be represented in the rows or columns. There are two different scoring sets based on whether the geography reporting is based on the residence of the individual to which the information applies or to the service location.
 
@@ -337,9 +324,9 @@ The scores are higher for geography related to residence address because so much
 
 The scores for the service geography are lower because clients can generally come from diverse locations for services. Although people often seek services or have health conditions close to their homes, they may also travel extensive distances. Reviewers do need to make sure that there are no constraints associated with services that would mean the service geography and resident geography are the same. For example, if a program publishes service utilization by county and the county services can only be used by county residents, then the service utilization by county is also the county of residence. Scoring should be based on the criteria that result in the highest score and, thus, the highest risk.
 
-There are smaller areas within counties where the population is significantly lower than the overall county population. One example of this is census tracts, which are small, relatively stable statistical subdivisions of a county or an equivalent statistical entity. These tracts can be updated by local participants before each decennial census through the Census Bureau’s Participant Statistical Areas Program (PSAP). Census tracts\[36] typically cover contiguous areas, but their size can vary widely based on population density. The boundaries of these tracts are designed to remain unchanged over time, allowing for consistent statistical comparisons from one census to the next. Generally, census tracts have populations ranging from 1,200 to 8,000 people, with an optimum size of population around 4,000. To account for the higher re-identification risk associated with smaller populations, a score of +7 is assigned when the population size is 4,000 or fewer in the residential area.
+There are smaller areas within counties where the population is significantly lower than the overall county population. One example of this is census tracts, which are small, relatively stable statistical subdivisions of a county or an equivalent statistical entity. These tracts can be updated by local participants before each decennial census through the Census Bureau’s Participant Statistical Areas Program (PSAP). [Census tracts](#user-content-fn-16)[^16] typically cover contiguous areas, but their size can vary widely based on population density. The boundaries of these tracts are designed to remain unchanged over time, allowing for consistent statistical comparisons from one census to the next. Generally, census tracts have populations ranging from 1,200 to 8,000 people, with an optimum size of population around 4,000. To account for the higher re-identification risk associated with smaller populations, a score of +7 is assigned when the population size is 4,000 or fewer in the residential area.
 
-Service Geography includes a level of detail that is identified as “Address (Street and ZIP).” This deals with reporting by provider (hospital, clinic, provider office, etc.) Provider addresses are public information and are public at the street address level. A given provider will tend to have a standard catchment area or the geographic boundaries from which most patients come from. This information is published by the Department of Health Care Access and Information (previously the Office of Statewide Health Planning and Development - OSHPD) \[37] for hospitals. While this addresses where most patients or clients come from, patients or clients may also come from outside the catchment area. For that reason, this does not score as high as the more detailed geography under Residence Geography.
+Service Geography includes a level of detail that is identified as “Address (Street and ZIP).” This deals with reporting by provider (hospital, clinic, provider office, etc.) Provider addresses are public information and are public at the street address level. A given provider will tend to have a standard catchment area or the geographic boundaries from which most patients come from. [This information is published by the Department of Health Care Access and Information (previously the Office of Statewide Health Planning and Development - OSHPD)](#user-content-fn-17)[^17] for hospitals. While this addresses where most patients or clients come from, patients or clients may also come from outside the catchment area. For that reason, this does not score as high as the more detailed geography under Residence Geography.
 
 However, addresses associated with rural and frontier areas have a higher re-identification risk due to lower population density per square mile and isolation of communities in these areas. Thus, higher scores are assigned for Providers’ addresses, except where the Provider is defined as Hospital, in rural and frontier areas.\[38] \[39]
 
@@ -347,7 +334,7 @@ However, addresses associated with rural and frontier areas have a higher re-ide
 
 #### Table 26: Time – Reporting Period Scoring
 
-<table><thead><tr><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">5 years aggregated</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">2-4 years aggregated</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">1 year (e.g., 2001)</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Bi-Annual</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Quarterly</td><td align="center" valign="middle">+4</td></tr><tr><td valign="middle">Monthly</td><td align="center" valign="middle">+5</td></tr></tbody></table>
+<table><thead><tr><th width="699.7999877929688" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">5 years aggregated</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">2-4 years aggregated</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">1 year (e.g., 2001)</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Bi-Annual</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Quarterly</td><td align="center" valign="middle">+4</td></tr><tr><td valign="middle">Monthly</td><td align="center" valign="middle">+5</td></tr></tbody></table>
 
 Many reports are published based on the calendar year. However, the combination of years of data is an excellent way to provide increased aggregation in a way that allows for more specificity elsewhere, such as county identifiers. Inversely, the smaller the time period in the data, the closer the time period comes to approximating a date. Thus, monthly reported data has a high score of +5.
 
@@ -355,11 +342,11 @@ Of note, the HIPAA Safe Harbor method list includes “All elements of dates (ex
 
 The “0” value for this variable is set at one year as this is the criteria for Safe Harbor under the HIPAA de-identification standard.
 
-### 1.2.13 Variable Interactions
+### 16.2.13 Variable Interactions
 
 #### Table 27: Variable Interactions Scoring
 
-<table><thead><tr><th valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage</td><td align="center" valign="middle">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td align="center" valign="middle">+4</td></tr></tbody></table>
+<table><thead><tr><th width="700.5999755859375" valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage</td><td align="center" valign="middle">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td align="center" valign="middle">+4</td></tr></tbody></table>
 
 These criteria specifically address the interaction of the variables in a given data presentation and require the analyst to identify dependent as opposed to independent variables. These criteria are used with respect to dependent variables. This is demonstrated in the two tables below.
 
@@ -367,21 +354,17 @@ Illustration A: Dependent Variables
 
 In this example the Event (counts of Disease A) is shown for Males who are also 0-17 years old or Males who are also 18-25 years old. In this case Sex and Age are dependent because the stratification for each variable is stacked. This commonly occurs in pivot tables.
 
-Table 28: Illustration A: Dependent Variables Example
+#### Table 28: Illustration A: Dependent Variables Example
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Counts of disease A by year</td><td valign="top"><p>Males and</p><p>0-17 years old</p></td><td valign="top"><p>Males and</p><p>18-25 years old</p></td><td valign="top"><p>Females and</p><p>0-17 years old</p></td><td valign="top"><p>Females and</p><p>18-25 years old</p></td></tr><tr><td valign="top">Year 1</td><td valign="top">6</td><td valign="top">10</td><td valign="top">5</td><td valign="top">8</td></tr><tr><td valign="top">Year 2</td><td valign="top">8</td><td valign="top">14</td><td valign="top">3</td><td valign="top">20</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Counts of disease A by year</th><th align="center" valign="middle">Males and 0-17 years old</th><th align="center" valign="middle">Males and 18-25 years old</th><th align="center" valign="middle">Females and 0-17 years old</th><th align="center" valign="middle">Females and 18-25 years old</th></tr></thead><tbody><tr><td valign="middle">Year 1</td><td align="center" valign="middle">6</td><td align="center" valign="middle">10</td><td align="center" valign="middle">5</td><td align="center" valign="middle">8</td></tr><tr><td valign="middle">Year 2</td><td align="center" valign="middle">8</td><td align="center" valign="middle">14</td><td align="center" valign="middle">3</td><td align="center" valign="middle">20</td></tr></tbody></table>
 
 Illustration B: Independent Variables
 
-In this example the Event (counts of Disease A) is for Males or Females which is shown side by side to a table with ages 0-17 years old or 18-25 years old. In this case Sex and Age are independent because the stratification for each variable is not stacked. Although the two variables Sex and Age are shown in the same table, they are presented independently of each other. While you can compile the data in Example B from Example A, the reverse is not true.&#x20;
+In this example the Event (counts of Disease A) is for Males or Females which is shown side by side to a table with ages 0-17 years old or 18-25 years old. In this case Sex and Age are independent because the stratification for each variable is not stacked. Although the two variables Sex and Age are shown in the same table, they are presented independently of each other. While you can compile the data in Example B from Example A, the reverse is not true.
 
-<br>
+#### Table 29: Illustration B: Independent Variables Example
 
-&#x20;
-
-Table 29: Illustration B: Independent Variables Example
-
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Counts of disease A by year</td><td valign="top">Males</td><td valign="top">Females</td><td valign="top">0-17 years old</td><td valign="top">18-25 years old</td></tr><tr><td valign="top">Year 1</td><td valign="top">16</td><td valign="top">13</td><td valign="top">11</td><td valign="top">18</td></tr><tr><td valign="top">Year 2</td><td valign="top">22</td><td valign="top">23</td><td valign="top">11</td><td valign="top">34</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Counts of disease A by year</th><th align="center" valign="middle">Males</th><th align="center" valign="middle">Females</th><th align="center" valign="middle">0-17 years old</th><th align="center" valign="middle">18-25 years old</th></tr></thead><tbody><tr><td valign="top">Year 1</td><td align="center" valign="middle">16</td><td align="center" valign="middle">13</td><td align="center" valign="middle">11</td><td align="center" valign="middle">18</td></tr><tr><td valign="top">Year 2</td><td align="center" valign="middle">22</td><td align="center" valign="middle">23</td><td align="center" valign="middle">11</td><td align="center" valign="middle">34</td></tr></tbody></table>
 
 These criteria are structured to have less impact if personal characteristics outside of time and geography are excluded and more impact if multiple personal characteristics are included. This provides for a subtraction of points if the only variables presented are the events (numerator), time and geography and an addition of points for including more variables in a given presentation. With respect to the subtraction of points, the score is based on the minimum value for the Events variable. For example, if the smallest value for the Events is 5 or more, then the score would be -5. However, if the smallest value for the Events is 2, then the score would be 0.&#x20;
 
@@ -389,15 +372,15 @@ The minimum value for Events of 3 _(Only Events (minimum of 3), Time, and Geogra
 
 In contrast, if additional demographic variables are added, then the risk increases significantly. For example, for Events, Time and Geography (Residence or Service) with three additional variables, a table would show how many individuals are female by age group by race for a given time period and geography. This allows for a more detailed comparison to census data and assessment of the number of individuals with a particular set of characteristics.\[41] For this reason, additional points are added because of the inclusion of multiple dependent variables.
 
-### 1.2.14 Other Variables
+### 16.2.14 Other Variables
 
 Variables not specified in the Publication Scoring Criteria can be released only after an additional, case-by-case review by the department’s Statistical De-Identification Expert or Statistical De-Identification Supervisor Expert. We suggest that this review considers population size-based scores if population size of the characteristics of a variable is present, or otherwise scores based on number of groups or categories.
 
-**1. Other Variable Scores Based on Population Size**
+#### 1. Other Variable Scores Based on Population Size
 
-Table 30: Generalized Scoring Criteria based on Statewide Population&#x20;
+#### Table 30: Generalized Scoring Criteria based on Statewide Population&#x20;
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Population Size </td><td valign="top">Score </td></tr><tr><td valign="top">Population >4,000,000 </td><td valign="top">+1 </td></tr><tr><td valign="top">Population 300,001 – 4,000,000 </td><td valign="top">+2 </td></tr><tr><td valign="top">Population 100,001 – 300,000 </td><td valign="top">+3 </td></tr><tr><td valign="top">Population 20,001 – 100,000 </td><td valign="top">+5 </td></tr><tr><td valign="top">Population ≤20,000 </td><td valign="top">+7  </td></tr></tbody></table>
+<table><thead><tr><th width="699.800048828125" valign="top">Population Size </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Population >4,000,000 </td><td align="center" valign="middle">+1 </td></tr><tr><td valign="top">Population 300,001 – 4,000,000 </td><td align="center" valign="middle">+2 </td></tr><tr><td valign="top">Population 100,001 – 300,000 </td><td align="center" valign="middle">+3 </td></tr><tr><td valign="top">Population 20,001 – 100,000 </td><td align="center" valign="middle">+5 </td></tr><tr><td valign="top">Population ≤20,000 </td><td align="center" valign="middle">+7  </td></tr></tbody></table>
 
 The above table shows scoring criteria for population size in general and can be used to score veteran status and educational attainment. Examples follow below of how these variables can be considered by using data at the Census American Community Survey.\[42]
 
@@ -407,7 +390,7 @@ For the California statewide population estimate of 1,467,025 listed below for t
 
 Table 31: Veteran Status recorded from the 2021 American Community Survey
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Veteran Status for Population 18 years and over</td><td valign="top">California Estimate</td><td valign="top">Margin of Error</td></tr><tr><td valign="top">Civilian veterans </td><td valign="top">1,467,026</td><td valign="top">±9,913</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Veteran Status for Population 18 years and over</th><th align="center" valign="middle">California Estimate</th><th align="center" valign="middle">Margin of Error</th></tr></thead><tbody><tr><td valign="top">Civilian veterans </td><td align="center" valign="middle">1,467,026</td><td align="center" valign="middle">±9,913</td></tr></tbody></table>
 
 Note that even though there is an implicit age associated with veteran status, this information is incorporated into the population estimate used for the score. Therefore, an additional score modifier for the age should not be applied.
 
@@ -430,7 +413,7 @@ For example, the smallest California population with a recorded educational atta
 
 #### Table 33: Other Variable Scoring Based on Number of Groups or Categories
 
-<table><thead><tr><th valign="middle">Number of Groups or Categories  </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">&#x3C;5 groups or categories  </td><td align="center" valign="middle">+3 </td></tr><tr><td valign="middle">5-9 groups </td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">10+ groups  </td><td align="center" valign="middle">+7 </td></tr></tbody></table>
+<table><thead><tr><th width="699.7999877929688" valign="middle">Number of Groups or Categories  </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">&#x3C;5 groups or categories  </td><td align="center" valign="middle">+3 </td></tr><tr><td valign="middle">5-9 groups </td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">10+ groups  </td><td align="center" valign="middle">+7 </td></tr></tbody></table>
 
 If population size is not available for a variable, then score the variable based on number of groups or categories as well as the characteristics of the variables. &#x20;
 
@@ -474,13 +457,15 @@ How publicly identifiable the trait in question is should also be considered. Fo
 
 \[13] U.S. Department of Homeland Security, Office of Homeland Security Statistics, “Refugees and Asylees: 2020” Annual Flow Report for Fiscal Year 2020. March 2022, [Retrieved June 2](file:///C:/Users/daggarwa/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/P0BIF5U8/Retrieved%20June%202), 2025, from [https://ohss.dhs.gov/sites/default/files/2023-12/2022\_0308\_plcy\_refugee\_and\_asylee\_fy2020v2.pdf](https://ohss.dhs.gov/sites/default/files/2023-12/2022_0308_plcy_refugee_and_asylee_fy2020v2.pdf) &#x20;
 
-\[14] 2019 estimate from Estimates of Undocumented and Eligible-to-Naturalize Populations by State, Center for Migration Studies, [http://data.cmsny.org/state.htm](http://data.cmsny.org/state.htm)l.
 
-\[15] 2019 estimate from Estimates of Undocumented and Eligible-to-Naturalize Populations by State, Center for Migration Studies, [http://data.cmsny.org/state.htm](http://data.cmsny.org/state.htm)l.
 
-\[16] U.S. Census Bureau, " SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS," 2022. American Community Survey, ACS 5-Year Estimates Subject Tables, Table S0501, 2022, accessed on December 11, 2023, [https://data.census.gov/table/ACSST5Y2022.S0501?q=S0501](https://data.census.gov/table/ACSST5Y2022.S0501?q=S0501).
 
-\[17] U.S. Department of Homeland Security. (2022, September). September 2022 Population estimates of the Lawful Permanent Resident Population in the United States and the Subpopulation Eligible to Naturalize: 2022. dhs.gov [https://www.dhs.gov/sites/default/files/2022-10/2022\_0920\_plcy\_lawful\_permenent\_resident\_population\_estimate\_2022\_0.pdf](https://www.dhs.gov/sites/default/files/2022-10/2022_0920_plcy_lawful_permenent_resident_population_estimate_2022_0.pdf).
+
+
+
+
+
+
 
 \[18] U.S. Department of Homeland Security, Office of Homeland Security Statistics, “Population Estimates of Nonimmigrants Residing in the United States: Fiscal Years 2017-2019” May 2021, Retrieved June 2, 2025, from [https://ohss.dhs.gov/sites/default/files/2023-12/ni\_population\_estimates\_fiscal\_years\_2017\_-\_2019v2.pdf](https://ohss.dhs.gov/sites/default/files/2023-12/ni_population_estimates_fiscal_years_2017_-_2019v2.pdf).
 
@@ -535,3 +520,49 @@ How publicly identifiable the trait in question is should also be considered. Fo
 \[43] U.S. Department of Veterans Affairs, “VetPop2020 State Estimates 2000 to 2020,” updated on April 6, 2023, Retrieved December 2024 from [https://www.data.va.gov/dataset/VetPop2020-State-Estimates-2000-to-2020/fkjq-z6m8](https://www.data.va.gov/dataset/VetPop2020-State-Estimates-2000-to-2020/fkjq-z6m8).
 
 \[44] U.S. Census Bureau, 2017-2021 American Community Survey 5-Year Estimates, “2021 Educational Attainment, California Estimates, Population 25 Years and Over”, Table S1501: [https://data.census.gov/table/ACSST5Y2021.S1501?q=S1501\&g=040XX00US06\&y=2021](https://data.census.gov/table/ACSST5Y2021.S1501?q=S1501\&g=040XX00US06\&y=2021).
+
+[^1]: 2019 estimate from Estimates of Undocumented and Eligible-to-Naturalize Populations by State, Center for Migration Studies, [http://data.cmsny.org/state.htm](http://data.cmsny.org/state.htm)l.
+
+[^2]: U.S. Census Bureau, " SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS," 2022. American Community Survey, ACS 5-Year Estimates Subject Tables, Table S0501, 2022, accessed on December 11, 2023, [https://data.census.gov/table/ACSST5Y2022.S0501?q=S0501](https://data.census.gov/table/ACSST5Y2022.S0501?q=S0501).
+
+[^3]: U.S. Department of Homeland Security. (2022, September). September 2022 Population estimates of the Lawful Permanent Resident Population in the United States and the Subpopulation Eligible to Naturalize: 2022. dhs.gov [https://www.dhs.gov/sites/default/files/2022-10/2022\_0920\_plcy\_lawful\_permenent\_resident\_population\_estimate\_2022\_0.pdf](https://www.dhs.gov/sites/default/files/2022-10/2022_0920_plcy_lawful_permenent_resident_population_estimate_2022_0.pdf).
+
+[^4]: U.S. Department of Homeland Security, Office of Homeland Security Statistics, “Population Estimates of Nonimmigrants Residing in the United States: Fiscal Years 2017-2019” May 2021, Retrieved June 2, 2025, from [https://ohss.dhs.gov/sites/default/files/2023-12/ni\_population\_estimates\_fiscal\_years\_2017\_-\_2019v2.pdf](https://ohss.dhs.gov/sites/default/files/2023-12/ni_population_estimates_fiscal_years_2017_-_2019v2.pdf).
+
+[^5]: U.S. Department of Homeland Security, Office of Homeland Security Statistics, “Refugees and Asylees: 2020” Annual Flow Report for Fiscal Year 2020. March 2022, [Retrieved June 2](file:///C:/Users/daggarwa/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/P0BIF5U8/Retrieved%20June%202), 2025, from [https://ohss.dhs.gov/sites/default/files/2023-12/2022\_0308\_plcy\_refugee\_and\_asylee\_fy2020v2.pdf](https://ohss.dhs.gov/sites/default/files/2023-12/2022_0308_plcy_refugee_and_asylee_fy2020v2.pdf).&#x20;
+
+[^6]: U.S. Census Bureau, Census Datasets on income topics,[ (census.gov)](https://www.census.gov/data/datasets.html)
+
+[^7]: U.S. Bureau of Labor Statistics, [Occupation Finder: Occupational Outlook Handbook (bls.gov)](https://www.bls.gov/ooh/occupation-finder.htm)
+
+
+
+    California Employment Development Department, California Open Data Portal datasets, [https://data.ca.gov/organization/california-employment-development-department](https://data.ca.gov/organization/california-employment-development-department)&#x20;
+
+[^8]: Department of Health Care Access and Information, Health Care Payments Data Snapshot “Data Overview – Count of Individuals by Payer Type”, [https://hcai.ca.gov/visualizations/healthcare-payments-data-hpd-snapshot/](https://hcai.ca.gov/visualizations/healthcare-payments-data-hpd-snapshot/)
+
+
+
+    Department of Health Care Access and Information, Report to the Legislature “Program Report: Health Care Payments Data Program”, May 2024, [https://hcai.ca.gov/wp-content/uploads/2024/04/HPD-Report-to-the-Legislature-March-2024-1.pdf](https://hcai.ca.gov/wp-content/uploads/2024/04/HPD-Report-to-the-Legislature-March-2024-1.pdf)
+
+[^9]: U.S. Census Bureau, “About Program Income and Public Assistance,” (2025) [https://www.census.gov/topics/income-poverty/public-assistance/about.html](https://www.census.gov/topics/income-poverty/public-assistance/about.html), Accessed March 25, 2025
+
+[^10]: [https://studentaid.gov/help/means-tested-benefits](https://studentaid.gov/help/means-tested-benefits)
+
+[^11]: California Department of Social Services. CalFresh Dashboard. [https://public.tableau.com/app/profile/california.department.of.social.services/viz/CFdashboard-PUBLIC/AnnualParticipation](https://public.tableau.com/app/profile/california.department.of.social.services/viz/CFdashboard-PUBLIC/AnnualParticipation). 2025. Accessed March 25, 2025.
+
+[^12]: California Department of Social Services. CalWORKs Take up. CalWORKs Interactive Summary. [https://www.cdss.ca.gov/inforesources/calworks-summary/program-overview/take-up#C018](https://www.cdss.ca.gov/inforesources/calworks-summary/program-overview/take-up#C018). 2025. Accessed March 25, 2025.
+
+[^13]: California Department of Social Services. Housing Support Program. CalWORKs Interactive Summary. [https://www.cdss.ca.gov/inforesources/calworks-summary/program-services-utilization/housing-and-homelessness#C004](https://www.cdss.ca.gov/inforesources/calworks-summary/program-services-utilization/housing-and-homelessness#C004). 2025. Accessed March 25, 2025
+
+[^14]: U.S. Census Bureau, 2020 Census ”Urban and Rural” Classifications, [https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html)
+
+[^15]: National Rural Health Association, “Definition of Frontier”, Retrieved June 2, 2025, from [https://www.ruralhealth.us/getmedia/132306e1-1643-4b40-818a-4d743317dc7e/NRHAFrontierDefPolicyPaperFeb2016.pdf](https://www.ruralhealth.us/getmedia/132306e1-1643-4b40-818a-4d743317dc7e/NRHAFrontierDefPolicyPaperFeb2016.pdf) &#x20;
+
+
+
+    U.S. Department of Agriculture Economic Research Service, ”Frontier and Remote Area Codes”, Retrieved June 2, 2025, from [https://www.ers.usda.gov/data-products/frontier-and-remote-area-codes](https://www.ers.usda.gov/data-products/frontier-and-remote-area-codes)
+
+[^16]: United States Census Bureau, Geography Program Glossary, [https://www.census.gov/programs-surveys/geography/about/glossary.html#:\~:text=Census%20Tract,-Census%20Tracts%20are\&text=The%20primary%20purpose%20of%20census,optimum%20size%20of%204%2C000%20people.](https://www.census.gov/programs-surveys/geography/about/glossary.html)
+
+[^17]: Department of Health Care Access and Information, “Facility Market Share and Patient Origin” Reports, Retrieved June 2, 2025, from [https://hcai.ca.gov/visualizations/facility-market-share-and-patient-origin/](https://hcai.ca.gov/visualizations/facility-market-share-and-patient-origin/)
