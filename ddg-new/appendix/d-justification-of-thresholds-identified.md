@@ -91,11 +91,11 @@ Be aware that other restrictions may apply when reporting age ranges, such as on
 
 #### Table 7: Ethnicity Scoring
 
-<table data-header-hidden><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>Hispanic or Latino - yes or no</td><td align="center" valign="middle">+1</td></tr></tbody></table>
+<table><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>Hispanic or Latino - yes or no</td><td align="center" valign="middle">+1</td></tr></tbody></table>
 
 #### Table 8: Detailed Ethnicity Scoring
 
-<table data-header-hidden><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 Race and Ethnicity are collected in several different ways on the different state and federal data collection tools. At the federal level from 1997 to 2024 Office of Management and Budget required federal agencies to use a minimum of five race categories:\[7] &#x20;
 
@@ -113,7 +113,7 @@ The 1997 OMB guidance required a separate question on Ethnicity which asked whet
 
 #### Table 10: California Population by Ethnicity or Race/Ethnicity based on the 2020 Census
 
-<table data-header-hidden><thead><tr><th valign="middle">Ethnicity or Race/Ethnicity</th><th align="center" valign="middle">Population [9]</th></tr></thead><tbody><tr><td valign="middle">Hispanic or Latino, any race</td><td align="center" valign="middle">15,579,652</td></tr><tr><td valign="middle">Not Hispanic or Latino, any race</td><td align="center" valign="middle">23,958,571</td></tr><tr><td valign="middle">White alone, not Hispanic or Latino</td><td align="center" valign="middle">13,714,587</td></tr><tr><td valign="middle">Black or African American alone, not Hispanic or Latino</td><td align="center" valign="middle">2,119,286</td></tr><tr><td valign="middle">American Indian and Alaska Native alone, not Hispanic or Latino</td><td align="center" valign="middle">156,085</td></tr><tr><td valign="middle">Asian alone, not Hispanic or Latino</td><td align="center" valign="middle">5,978,795</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone, not Hispanic or Latino</td><td align="center" valign="middle">138,167</td></tr><tr><td valign="middle">Some Other Race alone, not Hispanic or Latino</td><td align="center" valign="middle">223,929</td></tr><tr><td valign="middle">Two or more races, not Hispanic or Latino</td><td align="center" valign="middle">1,627,722</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Ethnicity or Race/Ethnicity</th><th align="center" valign="middle">Population [9]</th></tr></thead><tbody><tr><td valign="middle">Hispanic or Latino, any race</td><td align="center" valign="middle">15,579,652</td></tr><tr><td valign="middle">Not Hispanic or Latino, any race</td><td align="center" valign="middle">23,958,571</td></tr><tr><td valign="middle">White alone, not Hispanic or Latino</td><td align="center" valign="middle">13,714,587</td></tr><tr><td valign="middle">Black or African American alone, not Hispanic or Latino</td><td align="center" valign="middle">2,119,286</td></tr><tr><td valign="middle">American Indian and Alaska Native alone, not Hispanic or Latino</td><td align="center" valign="middle">156,085</td></tr><tr><td valign="middle">Asian alone, not Hispanic or Latino</td><td align="center" valign="middle">5,978,795</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone, not Hispanic or Latino</td><td align="center" valign="middle">138,167</td></tr><tr><td valign="middle">Some Other Race alone, not Hispanic or Latino</td><td align="center" valign="middle">223,929</td></tr><tr><td valign="middle">Two or more races, not Hispanic or Latino</td><td align="center" valign="middle">1,627,722</td></tr></tbody></table>
 
 In 2024, the Office of Management and Budget approved an update\[10] to “Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity”. The three major changes are:
 
@@ -140,7 +140,7 @@ Consider this table:
 
 #### Table 11: First Scenario Example
 
-<table data-header-hidden><thead><tr><th valign="top">Race Group</th><th valign="top">Hispanic</th><th valign="top">Non-Hispanic</th><th valign="top">Any Hispanic response</th></tr></thead><tbody><tr><td valign="top">Black</td><td valign="top">50</td><td valign="top">250</td><td valign="top"><em>300</em></td></tr><tr><td valign="top">White</td><td valign="top">200</td><td valign="top">1,000</td><td valign="top"><em>1,200</em></td></tr><tr><td valign="top">Asian</td><td valign="top">5</td><td valign="top">95</td><td valign="top"><em>100</em></td></tr><tr><td valign="top"><em>Any race group</em></td><td valign="top"><em>255</em></td><td valign="top"><em>1,345</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
+<table><thead><tr><th valign="top">Race Group</th><th valign="top">Hispanic</th><th valign="top">Non-Hispanic</th><th valign="top">Any Hispanic response</th></tr></thead><tbody><tr><td valign="top">Black</td><td valign="top">50</td><td valign="top">250</td><td valign="top"><em>300</em></td></tr><tr><td valign="top">White</td><td valign="top">200</td><td valign="top">1,000</td><td valign="top"><em>1,200</em></td></tr><tr><td valign="top">Asian</td><td valign="top">5</td><td valign="top">95</td><td valign="top"><em>100</em></td></tr><tr><td valign="top"><em>Any race group</em></td><td valign="top"><em>255</em></td><td valign="top"><em>1,345</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
 
 With this cross-tabulation, you would add both the Race score and Ethnicity score independently to the overall total for your scoring metric (i.e., greatest risk for re-identification). Note that you can replace “Ethnicity” with “Sex” and the principle still applies—you have a cross-tabulated table of Race and Sex.
 
@@ -150,7 +150,7 @@ Usually, the algorithm is that Ethnicity trumps Race when categorizing. This res
 
 #### Table 12: Second Scenario Example
 
-<table data-header-hidden><thead><tr><th valign="top">Mutually exclusive race/ethnicity</th><th valign="top">Number of Events</th></tr></thead><tbody><tr><td valign="top">Non-Hispanic Black</td><td valign="top">250</td></tr><tr><td valign="top">Non-Hispanic White</td><td valign="top">1,000</td></tr><tr><td valign="top">Non-Hispanic Asian</td><td valign="top">95</td></tr><tr><td valign="top">Hispanic</td><td valign="top">255</td></tr><tr><td valign="top"><em>Total</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
+<table><thead><tr><th valign="top">Mutually exclusive race/ethnicity</th><th valign="top">Number of Events</th></tr></thead><tbody><tr><td valign="top">Non-Hispanic Black</td><td valign="top">250</td></tr><tr><td valign="top">Non-Hispanic White</td><td valign="top">1,000</td></tr><tr><td valign="top">Non-Hispanic Asian</td><td valign="top">95</td></tr><tr><td valign="top">Hispanic</td><td valign="top">255</td></tr><tr><td valign="top"><em>Total</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
 
 The second scenario is when you would use the combined Race/Ethnicity score in the guidelines for your scoring metric.
 
@@ -160,11 +160,12 @@ Without an interaction between Race and Ethnicity, this could be reported as fol
 
 #### Table 13: Third Scenario Example
 
-| Black, any Hispanic response | 300   |
-| ---------------------------- | ----- |
-| White, any Hispanic response | 1,200 |
-| Asian, any Hispanic response | 100   |
-| Hispanic, any race group     | 255   |
+| Race or Ethnicity            | Number of Events |
+| ---------------------------- | ---------------- |
+| Black, any Hispanic response | 300              |
+| White, any Hispanic response | 1,200            |
+| Asian, any Hispanic response | 100              |
+| Hispanic, any race group     | 255              |
 
 Note that as displayed above, you cannot add up the categories to get a total population. For assigning a score, this is the same as reporting in two separate tables that are each scored independently:
 
@@ -264,7 +265,7 @@ AB 1163 (Chapter 832, Statutes of 2023) added the requirement to collect interse
 
 Table 19: Intersex Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Intersex (asked as separate question)</td><td valign="top">Yes or No</td><td valign="top">+2</td></tr><tr><td valign="top">Intersex (combined with Sex question)</td><td valign="top">Male, Female, Intersex</td><td valign="top">+2</td></tr></tbody></table>
+<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Intersex (asked as separate question)</td><td valign="top">Yes or No</td><td valign="top">+2</td></tr><tr><td valign="top">Intersex (combined with Sex question)</td><td valign="top">Male, Female, Intersex</td><td valign="top">+2</td></tr></tbody></table>
 
 #### 1.2.8 Immigration Status
 
@@ -370,21 +371,21 @@ Service Geography includes a level of detail that is identified as “Address (S
 
 However, addresses associated with rural and frontier areas have a higher re-identification risk due to lower population density per square mile and isolation of communities in these areas. Thus, higher scores are assigned for Providers’ addresses, except where the Provider is defined as Hospital, in rural and frontier areas.\[38] \[39]
 
-#### 1.2.12 Time – Reporting Period
+### 16.2.12 Time – Reporting Period
 
-Table 26: Time – Reporting Period Scoring
+#### Table 26: Time – Reporting Period Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">5 years aggregated</td><td valign="top">-5</td></tr><tr><td valign="top">2-4 years aggregated</td><td valign="top">-3</td></tr><tr><td valign="top">1 year (e.g., 2001)</td><td valign="top">0</td></tr><tr><td valign="top">Bi-Annual</td><td valign="top">+3</td></tr><tr><td valign="top">Quarterly</td><td valign="top">+4</td></tr><tr><td valign="top">Monthly</td><td valign="top">+5</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">5 years aggregated</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">2-4 years aggregated</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">1 year (e.g., 2001)</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Bi-Annual</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Quarterly</td><td align="center" valign="middle">+4</td></tr><tr><td valign="middle">Monthly</td><td align="center" valign="middle">+5</td></tr></tbody></table>
 
 Many reports are published based on the calendar year. However, the combination of years of data is an excellent way to provide increased aggregation in a way that allows for more specificity elsewhere, such as county identifiers. Inversely, the smaller the time period in the data, the closer the time period comes to approximating a date. Thus, monthly reported data has a high score of +5.
 
 Of note, the HIPAA Safe Harbor method list includes “All elements of dates (except year) for dates that are directly related to an individual, including birth date, admission date, discharge date, death date, and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older.” This is a potential identifier when in combination with other information. This potential as an identifier influences the higher scores in the Publication Scoring Criteria as the time period for aggregation gets smaller.&#x20;
 
-The “0” value for this variable is set at one year as this is the criteria for Safe Harbor under the HIPAA de-identification standard. <br>
+The “0” value for this variable is set at one year as this is the criteria for Safe Harbor under the HIPAA de-identification standard.
 
-#### 1.2.13 Variable Interactions
+### 1.2.13 Variable Interactions
 
-Table 27: Variable Interactions Scoring
+#### Table 27: Variable Interactions Scoring
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage</td><td valign="top">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td valign="top">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td valign="top">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td valign="top">+4</td></tr></tbody></table>
 
@@ -416,7 +417,7 @@ The minimum value for Events of 3 _(Only Events (minimum of 3), Time, and Geogra
 
 In contrast, if additional demographic variables are added, then the risk increases significantly. For example, for Events, Time and Geography (Residence or Service) with three additional variables, a table would show how many individuals are female by age group by race for a given time period and geography. This allows for a more detailed comparison to census data and assessment of the number of individuals with a particular set of characteristics.\[41] For this reason, additional points are added because of the inclusion of multiple dependent variables.
 
-#### 1.2.14 Other Variables
+### 1.2.14 Other Variables
 
 Variables not specified in the Publication Scoring Criteria can be released only after an additional, case-by-case review by the department’s Statistical De-Identification Expert or Statistical De-Identification Supervisor Expert. We suggest that this review considers population size-based scores if population size of the characteristics of a variable is present, or otherwise scores based on number of groups or categories.
 
@@ -444,37 +445,34 @@ Educational Attainment
 
 Similarly, the population estimates\[44] in the table below can be used to score Education Attainment Status by using Table 2.&#x20;
 
-Table 32: Educational Attainment Status recorded from the 2021 American Community Survey
+### Table 32: Educational Attainment Status recorded from the 2021 American Community Survey
 
-<table data-header-hidden><thead><tr><th valign="bottom"></th><th valign="bottom"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="bottom">Educational Attainment for Population 25 years and over </td><td valign="bottom">California Estimate </td><td valign="top">Margin of Error</td></tr><tr><td valign="bottom">Less than 9th grade, no high school diploma </td><td valign="bottom">2,342,364 </td><td valign="top">±15,809</td></tr><tr><td valign="bottom">9th to 12th grade, no high school diploma </td><td valign="bottom">1,893,671 </td><td valign="top">±12,037</td></tr><tr><td valign="bottom">High school graduate (includes equivalency) </td><td valign="bottom">5,477,154 </td><td valign="top">±28,244</td></tr><tr><td valign="bottom">Some college, no degree </td><td valign="bottom">5,496,578 </td><td valign="top">±16,961</td></tr><tr><td valign="bottom">Associate degree </td><td valign="bottom">2,135,865 </td><td valign="top">±13,333</td></tr><tr><td valign="bottom">Bachelor degree </td><td valign="bottom">5,855,383 </td><td valign="top">±22,797</td></tr><tr><td valign="bottom">Graduate or professional degree </td><td valign="bottom">3,596,055 </td><td valign="top">±25,828</td></tr><tr><td valign="bottom">High school graduate or higher </td><td valign="bottom">22,561,035 </td><td valign="top">±20,560</td></tr><tr><td valign="bottom">Bachelor's degree or higher </td><td valign="bottom">9,451,438 </td><td valign="top">±40,058</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Educational Attainment for Population 25 years and over </th><th align="center" valign="middle">California Estimate</th><th align="center" valign="middle">Margin of Error</th></tr></thead><tbody><tr><td valign="middle">Less than 9th grade, no high school diploma </td><td align="center" valign="middle">2,342,364 </td><td align="center" valign="middle">±15,809</td></tr><tr><td valign="middle">9th to 12th grade, no high school diploma </td><td align="center" valign="middle">1,893,671 </td><td align="center" valign="middle">±12,037</td></tr><tr><td valign="middle">High school graduate (includes equivalency) </td><td align="center" valign="middle">5,477,154 </td><td align="center" valign="middle">±28,244</td></tr><tr><td valign="middle">Some college, no degree </td><td align="center" valign="middle">5,496,578 </td><td align="center" valign="middle">±16,961</td></tr><tr><td valign="middle">Associate's degree </td><td align="center" valign="middle">2,135,865 </td><td align="center" valign="middle">±13,333</td></tr><tr><td valign="middle">Bachelor's degree </td><td align="center" valign="middle">5,855,383 </td><td align="center" valign="middle">±22,797</td></tr><tr><td valign="middle">Graduate or professional degree </td><td align="center" valign="middle">3,596,055 </td><td align="center" valign="middle">±25,828</td></tr><tr><td valign="middle">High school graduate or higher </td><td align="center" valign="middle">22,561,035 </td><td align="center" valign="middle">±20,560</td></tr><tr><td valign="middle">Bachelor's degree or higher </td><td align="center" valign="middle">9,451,438 </td><td align="center" valign="middle">±40,058</td></tr></tbody></table>
 
 For example, the smallest California population with a recorded educational attainment level is 2,135,865 for an Associate degree. Thus, a score of +2 (Population 300,001 – 4,000,000) from the Table 2 would be assigned. Whereas the score would be +1 (Population >4,000,000) if educational attainment is combined from the table into two categories as follows:
 
-·         No college (sum of rows 1-3): 9,713,189 (2,342,364 + 1,893,671 + 5,477,154)
-
-·         At least some college (sum of rows 4-7): 17,083,881 (5,496,578 + 2,135,865 + 5,855,383 + 3,596,055)
+* No college (sum of rows 1-3): 9,713,189 (2,342,364 + 1,893,671 + 5,477,154)
+* At least some college (sum of rows 4-7): 17,083,881 (5,496,578 + 2,135,865 + 5,855,383 + 3,596,055)
 
 **2. Other Variable Scores Based on Number of Groups or Categories**
 
-Table 33: Other Variable Scoring Based on Number of Groups or Categories
+#### Table 33: Other Variable Scoring Based on Number of Groups or Categories
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Number of Groups or Categories  </td><td valign="top">Score  </td></tr><tr><td valign="top">&#x3C;5 groups or categories  </td><td valign="top">+3 </td></tr><tr><td valign="top">5-9 groups </td><td valign="top">+5</td></tr><tr><td valign="top">10+ groups  </td><td valign="top">+7 </td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Number of Groups or Categories  </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">&#x3C;5 groups or categories  </td><td align="center" valign="middle">+3 </td></tr><tr><td valign="middle">5-9 groups </td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">10+ groups  </td><td align="center" valign="middle">+7 </td></tr></tbody></table>
 
 If population size is not available for a variable, then score the variable based on number of groups or categories as well as the characteristics of the variables. &#x20;
 
 For example, legal class groupings associated with a patient’s commitment to the state hospital system are an example of groups or categories. At the highest level, patients can be categorized into two groups: forensic commitment or civil commitments. At a more granular level, patients can be categorized into specific legal classes such defendants found incompetent to stand trial, parolees diagnosed with mental health disorders, individuals found to be not guilty by reason of insanity, mentally ill prisoners transferred from prison to a state hospital for mental health care, individuals committed to the state hospital system as sexually violent predators, or patients civilly committed to a state hospital as described in the Lanterman-Petris-Short Act.
 
-Table 34: Example Scoring for Legal Class Groupings
+#### Table 34: Example Scoring for Legal Class Groupings
 
-<table><thead><tr><th valign="middle">Groups or Categories </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle"><p>2 Groups </p><p>Forensic commitments </p><p>Civil commitments </p></td><td align="center" valign="middle">+3 </td></tr><tr><td valign="middle"><p>6 Groups </p><p>Incompetent to stand trial  </p><p>Offenders with a mental health disorder </p><p>Not guilty by reason of insanity </p><p>Mentally ill prisoners  </p><p>Sexually violent predators </p><p>Lanterman-Petris-Short Act commitments </p></td><td align="center" valign="middle">+5 </td></tr></tbody></table>
+<table><thead><tr><th width="700.6001586914062" valign="middle">Groups or Categories </th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle"><p>2 Groups</p><ul><li>Forensic commitments</li><li>Civil commitments</li></ul></td><td align="center" valign="middle">+3 </td></tr><tr><td valign="middle"><p>6 Groups</p><ul><li>Incompetent to stand trial</li><li>Offenders with a mental health disorder</li><li>Not guilty by reason of insanity</li><li>Mentally ill prisoners</li><li>Sexually violent predators</li><li>Lanterman-Petris-Short Act commitments</li></ul></td><td align="center" valign="middle">+5 </td></tr></tbody></table>
 
 Some additional examples can be found in “Data with more Specificity” Section 5.61. Along with number of groups or categories, consider the specificity of the groups or categories, that is, whether the variable represents an aggregation (e.g., Diagnosis Related Groups) or a specific item (e.g., ICD-10 Code).
 
 Also consider the availability of the variable to the public when also associated with other information, particularly the availability of variables that are personal characteristics.
 
 How publicly identifiable the trait in question is should also be considered. For example, unreconstructed cleft palate is a physically identifiable trait. Dyslexia is a condition that, while not physically identifiable, may be something an individual mentions they have and should also be considered a publicly identifiable trait.
-
-<br>
 
 ***
 
