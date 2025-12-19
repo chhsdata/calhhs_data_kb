@@ -45,7 +45,7 @@ This section provides a more detailed review of the criteria that make up the Pu
 
 #### Table 1: Events Scoring
 
-<table><thead><tr><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">1000+ events in a specified population</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">100-999 events</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">11-99 events</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">&#x3C;11 events</td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="700.5999755859375" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">1000+ events in a specified population</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">100-999 events</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">11-99 events</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">&#x3C;11 events</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 The Events score represents a score for the numerator. The Events category will be scored based on the smallest cell size in the table.&#x20;
 
@@ -57,13 +57,13 @@ Scores for all personal characteristics (e.g., age, race/ethnicity, language spo
 
 #### Table 2: Generalized Scoring Criteria Based on Statewide Population
 
-<table><thead><tr><th valign="middle">Population Size</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Population >4,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Population 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Population 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Population 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Population ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="700.6000366210938" valign="middle">Population Size</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Population >4,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Population 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Population 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Population 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Population ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 ### 1.2.3 Age Range
 
 #### Table 3: Age Range Scoring
 
-<table><thead><tr><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">>29-year age range</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">11-29 year age range</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">6-10 year age range</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">3-5 year age range</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">1-2 year age range</td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="700.6000366210938" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">>29-year age range</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">11-29 year age range</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">6-10 year age range</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">3-5 year age range</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">1-2 year age range</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 The last four categories of Age Range scores in the above table are prepared based on the 2020 Census population counts and Table 2.
 
@@ -75,7 +75,7 @@ The smallest statewide populations for contiguous ranges of ages under 100 years
 
 #### Table 4: Lowest Populations for Age Ranges
 
-<table><thead><tr><th align="center" valign="middle">Age Range</th><th align="center" valign="middle">Lowest Population Age Range</th><th align="center" valign="middle">Lowest Population[6]</th></tr></thead><tbody><tr><td align="center" valign="middle">1-year</td><td align="center" valign="middle">99 years</td><td align="center" valign="middle">6,708</td></tr><tr><td align="center" valign="middle">2-year</td><td align="center" valign="middle">98-99 years</td><td align="center" valign="middle">16,163</td></tr><tr><td align="center" valign="middle">3-year</td><td align="center" valign="middle">97-99 years</td><td align="center" valign="middle">28,974</td></tr><tr><td align="center" valign="middle">5-year</td><td align="center" valign="middle">95-99 years</td><td align="center" valign="middle">69,636</td></tr><tr><td align="center" valign="middle">6-year</td><td align="center" valign="middle">94-99 years</td><td align="center" valign="middle">98,643</td></tr><tr><td align="center" valign="middle">10-year</td><td align="center" valign="middle">90-99 years</td><td align="center" valign="middle">286,307</td></tr><tr><td align="center" valign="middle">11-year</td><td align="center" valign="middle">89-99 years</td><td align="center" valign="middle">355,657</td></tr><tr><td align="center" valign="middle">29-year</td><td align="center" valign="middle">71-99 years</td><td align="center" valign="middle">3,675,749</td></tr><tr><td align="center" valign="middle">30-year</td><td align="center" valign="middle">70-99 years</td><td align="center" valign="middle">4,035,466</td></tr></tbody></table>
+<table><thead><tr><th width="312.8000183105469" align="center" valign="middle">Age Range</th><th width="422.79998779296875" align="center" valign="middle">Lowest Population Age Range</th><th align="center" valign="middle">Lowest Population[6]</th></tr></thead><tbody><tr><td align="center" valign="middle">1-year</td><td align="center" valign="middle">99 years</td><td align="center" valign="middle">6,708</td></tr><tr><td align="center" valign="middle">2-year</td><td align="center" valign="middle">98-99 years</td><td align="center" valign="middle">16,163</td></tr><tr><td align="center" valign="middle">3-year</td><td align="center" valign="middle">97-99 years</td><td align="center" valign="middle">28,974</td></tr><tr><td align="center" valign="middle">5-year</td><td align="center" valign="middle">95-99 years</td><td align="center" valign="middle">69,636</td></tr><tr><td align="center" valign="middle">6-year</td><td align="center" valign="middle">94-99 years</td><td align="center" valign="middle">98,643</td></tr><tr><td align="center" valign="middle">10-year</td><td align="center" valign="middle">90-99 years</td><td align="center" valign="middle">286,307</td></tr><tr><td align="center" valign="middle">11-year</td><td align="center" valign="middle">89-99 years</td><td align="center" valign="middle">355,657</td></tr><tr><td align="center" valign="middle">29-year</td><td align="center" valign="middle">71-99 years</td><td align="center" valign="middle">3,675,749</td></tr><tr><td align="center" valign="middle">30-year</td><td align="center" valign="middle">70-99 years</td><td align="center" valign="middle">4,035,466</td></tr></tbody></table>
 
 Be aware that other restrictions may apply when reporting age ranges, such as only reporting ages 90 and older as a single category for HIPAA Safe Harbor. Of note, the HIPAA Safe Harbor method specifically identifies the following as an identifier: “All elements of dates (except year) for dates that are directly related to an individual, including birth date, admission date, discharge date, death date, and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older.” Although dates are included in the Safe Harbor list, age (<90 years old) is not. The risk score to age ranges reflects the two components of the scoring criteria: size of the potential population and the variable specificity.
 
@@ -83,19 +83,19 @@ Be aware that other restrictions may apply when reporting age ranges, such as on
 
 #### Table 5: Race or Race/Ethnicity Combined
 
-<table><thead><tr><th valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African, American Indian or Alaska Native, Native Hawaiian or Other Pacific Islander, Mixed</td><td align="center" valign="middle">+3</td></tr></tbody></table>
+<table><thead><tr><th width="701.4000244140625" valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">White, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African, American Indian or Alaska Native, Native Hawaiian or Other Pacific Islander, Mixed</td><td align="center" valign="middle">+3</td></tr></tbody></table>
 
 #### Table 6: Detailed Race or Race/Ethnicity Combined
 
-<table><thead><tr><th valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle"><p> Detailed Race or Race/Ethnicity Combined with Population 300,001 – 4,000,000</p><p><em>e</em>.<em>g., Chinese, Filipino, German, Asian Indian, Italian, Korean, Salvadoran, Guatemalan</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population 100,001 – 300,000</p><p><em>e.g., Japanese, Armenian, Iranian, Aztec, Portuguese, Taiwanese, Hmong, Puerto Rican, Peruvian</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population 20,001 – 100,000</p><p><em>e.g., Cambodian, Dutch, Pakistani, Egyptian, Thai, Maya, Afghan, Nigerian, Indonesian, Fijian, Native Hawaiian, Jamaican, Cuban, Colombian, Argentinean</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population ≤20,000</p><p><em>e.g., Tongan, Chamorro, Bangladeshi, Sri Lankan, Brazilian, Mixtec, Kenyan, Zapotec, Malaysian, Belizean, Chumash, Sudanese, Pomo, Inca, Pipil</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="700.6000366210938" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle"><p> Detailed Race or Race/Ethnicity Combined with Population 300,001 – 4,000,000</p><p><em>e</em>.<em>g., Chinese, Filipino, German, Asian Indian, Italian, Korean, Salvadoran, Guatemalan</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population 100,001 – 300,000</p><p><em>e.g., Japanese, Armenian, Iranian, Aztec, Portuguese, Taiwanese, Hmong, Puerto Rican, Peruvian</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population 20,001 – 100,000</p><p><em>e.g., Cambodian, Dutch, Pakistani, Egyptian, Thai, Maya, Afghan, Nigerian, Indonesian, Fijian, Native Hawaiian, Jamaican, Cuban, Colombian, Argentinean</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle"><p>Detailed Race or Race/Ethnicity Combined with Population ≤20,000</p><p><em>e.g., Tongan, Chamorro, Bangladeshi, Sri Lankan, Brazilian, Mixtec, Kenyan, Zapotec, Malaysian, Belizean, Chumash, Sudanese, Pomo, Inca, Pipil</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 #### Table 7: Ethnicity Scoring
 
-<table><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>Hispanic or Latino - yes or no</td><td align="center" valign="middle">+1</td></tr></tbody></table>
+<table><thead><tr><th width="700.5999755859375"> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>Hispanic or Latino - yes or no</td><td align="center" valign="middle">+1</td></tr></tbody></table>
 
 #### Table 8: Detailed Ethnicity Scoring
 
-<table><thead><tr><th> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="699.7999877929688"> Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td><p>Detailed Ethnicity with Population >4,000,000</p><p><em>e.g., Mexican</em></p></td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Ethnicity with Population 300,001 – 4,000,000</p><p><em>e.g., Salvadoran, Guatemalan, Central American, South American</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Ethnicity with Population 100,001 – 300,000</p><p><em>e.g., Puerto Rican, Spaniard, Peruvian, Nicaraguan, Honduran</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Ethnicity with Population 20,001 – 100,000</p><p><em>e.g., Cuban, Colombian, Argentinean, Dominican, Panamanian</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Ethnicity with Population ≤20,000</p><p><em>e.g., Bolivian, Uruguayan, Paraguayan</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 Race and Ethnicity are collected in several different ways on the different state and federal data collection tools. At the federal level from 1997 to 2024 Office of Management and Budget required federal agencies to use a minimum of five race categories:\[7] &#x20;
 
@@ -109,11 +109,11 @@ The 1997 OMB guidance required a separate question on Ethnicity which asked whet
 
 #### Table 9: California Population by Race Group based on the 2020 Census
 
-<table><thead><tr><th valign="middle">Race Group</th><th align="center" valign="middle">Population[8]</th></tr></thead><tbody><tr><td valign="middle">White alone</td><td align="center" valign="middle">16,296,122</td></tr><tr><td valign="middle">Black or African American alone</td><td align="center" valign="middle">2,237,044</td></tr><tr><td valign="middle">American Indian and Alaska Native alone</td><td align="center" valign="middle">631,016</td></tr><tr><td valign="middle">Asian alone</td><td align="center" valign="middle">6,085,947</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone</td><td align="center" valign="middle">157,263</td></tr><tr><td valign="middle">Some Other Race alone</td><td align="center" valign="middle">8,370,596</td></tr><tr><td valign="middle">Two or more races</td><td align="center" valign="middle">5,760,235</td></tr></tbody></table>
+<table><thead><tr><th width="700.6000366210938" valign="middle">Race Group</th><th align="center" valign="middle">Population[8]</th></tr></thead><tbody><tr><td valign="middle">White alone</td><td align="center" valign="middle">16,296,122</td></tr><tr><td valign="middle">Black or African American alone</td><td align="center" valign="middle">2,237,044</td></tr><tr><td valign="middle">American Indian and Alaska Native alone</td><td align="center" valign="middle">631,016</td></tr><tr><td valign="middle">Asian alone</td><td align="center" valign="middle">6,085,947</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone</td><td align="center" valign="middle">157,263</td></tr><tr><td valign="middle">Some Other Race alone</td><td align="center" valign="middle">8,370,596</td></tr><tr><td valign="middle">Two or more races</td><td align="center" valign="middle">5,760,235</td></tr></tbody></table>
 
 #### Table 10: California Population by Ethnicity or Race/Ethnicity based on the 2020 Census
 
-<table><thead><tr><th valign="middle">Ethnicity or Race/Ethnicity</th><th align="center" valign="middle">Population [9]</th></tr></thead><tbody><tr><td valign="middle">Hispanic or Latino, any race</td><td align="center" valign="middle">15,579,652</td></tr><tr><td valign="middle">Not Hispanic or Latino, any race</td><td align="center" valign="middle">23,958,571</td></tr><tr><td valign="middle">White alone, not Hispanic or Latino</td><td align="center" valign="middle">13,714,587</td></tr><tr><td valign="middle">Black or African American alone, not Hispanic or Latino</td><td align="center" valign="middle">2,119,286</td></tr><tr><td valign="middle">American Indian and Alaska Native alone, not Hispanic or Latino</td><td align="center" valign="middle">156,085</td></tr><tr><td valign="middle">Asian alone, not Hispanic or Latino</td><td align="center" valign="middle">5,978,795</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone, not Hispanic or Latino</td><td align="center" valign="middle">138,167</td></tr><tr><td valign="middle">Some Other Race alone, not Hispanic or Latino</td><td align="center" valign="middle">223,929</td></tr><tr><td valign="middle">Two or more races, not Hispanic or Latino</td><td align="center" valign="middle">1,627,722</td></tr></tbody></table>
+<table><thead><tr><th width="699.7999877929688" valign="middle">Ethnicity or Race/Ethnicity</th><th align="center" valign="middle">Population [9]</th></tr></thead><tbody><tr><td valign="middle">Hispanic or Latino, any race</td><td align="center" valign="middle">15,579,652</td></tr><tr><td valign="middle">Not Hispanic or Latino, any race</td><td align="center" valign="middle">23,958,571</td></tr><tr><td valign="middle">White alone, not Hispanic or Latino</td><td align="center" valign="middle">13,714,587</td></tr><tr><td valign="middle">Black or African American alone, not Hispanic or Latino</td><td align="center" valign="middle">2,119,286</td></tr><tr><td valign="middle">American Indian and Alaska Native alone, not Hispanic or Latino</td><td align="center" valign="middle">156,085</td></tr><tr><td valign="middle">Asian alone, not Hispanic or Latino</td><td align="center" valign="middle">5,978,795</td></tr><tr><td valign="middle">Native Hawaiian and Other Pacific Islander alone, not Hispanic or Latino</td><td align="center" valign="middle">138,167</td></tr><tr><td valign="middle">Some Other Race alone, not Hispanic or Latino</td><td align="center" valign="middle">223,929</td></tr><tr><td valign="middle">Two or more races, not Hispanic or Latino</td><td align="center" valign="middle">1,627,722</td></tr></tbody></table>
 
 In 2024, the Office of Management and Budget approved an update\[10] to “Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity”. The three major changes are:
 
@@ -140,7 +140,7 @@ Consider this table:
 
 #### Table 11: First Scenario Example
 
-<table><thead><tr><th valign="top">Race Group</th><th valign="top">Hispanic</th><th valign="top">Non-Hispanic</th><th valign="top">Any Hispanic response</th></tr></thead><tbody><tr><td valign="top">Black</td><td valign="top">50</td><td valign="top">250</td><td valign="top"><em>300</em></td></tr><tr><td valign="top">White</td><td valign="top">200</td><td valign="top">1,000</td><td valign="top"><em>1,200</em></td></tr><tr><td valign="top">Asian</td><td valign="top">5</td><td valign="top">95</td><td valign="top"><em>100</em></td></tr><tr><td valign="top"><em>Any race group</em></td><td valign="top"><em>255</em></td><td valign="top"><em>1,345</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Race Group</th><th align="center" valign="middle">Hispanic</th><th align="center" valign="middle">Non-Hispanic</th><th align="center" valign="middle">Any Hispanic response</th></tr></thead><tbody><tr><td valign="middle">Black</td><td align="center" valign="middle">50</td><td align="center" valign="middle">250</td><td align="center" valign="middle"><em>300</em></td></tr><tr><td valign="middle">White</td><td align="center" valign="middle">200</td><td align="center" valign="middle">1,000</td><td align="center" valign="middle"><em>1,200</em></td></tr><tr><td valign="middle">Asian</td><td align="center" valign="middle">5</td><td align="center" valign="middle">95</td><td align="center" valign="middle"><em>100</em></td></tr><tr><td valign="middle"><em>Any race group</em></td><td align="center" valign="middle"><em>255</em></td><td align="center" valign="middle"><em>1,345</em></td><td align="center" valign="middle"><em>1,600</em></td></tr></tbody></table>
 
 With this cross-tabulation, you would add both the Race score and Ethnicity score independently to the overall total for your scoring metric (i.e., greatest risk for re-identification). Note that you can replace “Ethnicity” with “Sex” and the principle still applies—you have a cross-tabulated table of Race and Sex.
 
@@ -150,7 +150,7 @@ Usually, the algorithm is that Ethnicity trumps Race when categorizing. This res
 
 #### Table 12: Second Scenario Example
 
-<table><thead><tr><th valign="top">Mutually exclusive race/ethnicity</th><th valign="top">Number of Events</th></tr></thead><tbody><tr><td valign="top">Non-Hispanic Black</td><td valign="top">250</td></tr><tr><td valign="top">Non-Hispanic White</td><td valign="top">1,000</td></tr><tr><td valign="top">Non-Hispanic Asian</td><td valign="top">95</td></tr><tr><td valign="top">Hispanic</td><td valign="top">255</td></tr><tr><td valign="top"><em>Total</em></td><td valign="top"><em>1,600</em></td></tr></tbody></table>
+<table><thead><tr><th width="700.6000366210938" valign="middle">Mutually exclusive race/ethnicity</th><th align="center" valign="middle">Number of Events</th></tr></thead><tbody><tr><td valign="middle">Non-Hispanic Black</td><td align="center" valign="middle">250</td></tr><tr><td valign="middle">Non-Hispanic White</td><td align="center" valign="middle">1,000</td></tr><tr><td valign="middle">Non-Hispanic Asian</td><td align="center" valign="middle">95</td></tr><tr><td valign="middle">Hispanic</td><td align="center" valign="middle">255</td></tr><tr><td valign="middle"><em>Total</em></td><td align="center" valign="middle"><em>1,600</em></td></tr></tbody></table>
 
 The second scenario is when you would use the combined Race/Ethnicity score in the guidelines for your scoring metric.
 
@@ -160,31 +160,17 @@ Without an interaction between Race and Ethnicity, this could be reported as fol
 
 #### Table 13: Third Scenario Example
 
-| Race or Ethnicity            | Number of Events |
-| ---------------------------- | ---------------- |
-| Black, any Hispanic response | 300              |
-| White, any Hispanic response | 1,200            |
-| Asian, any Hispanic response | 100              |
-| Hispanic, any race group     | 255              |
+<table><thead><tr><th width="701.3999633789062" valign="middle">Race or Ethnicity</th><th align="center" valign="middle">Number of Events</th></tr></thead><tbody><tr><td valign="middle">Black, any Hispanic response</td><td align="center" valign="middle">300</td></tr><tr><td valign="middle">White, any Hispanic response</td><td align="center" valign="middle">1,200</td></tr><tr><td valign="middle">Asian, any Hispanic response</td><td align="center" valign="middle">100</td></tr><tr><td valign="middle">Hispanic, any race group</td><td align="center" valign="middle">255</td></tr></tbody></table>
 
 Note that as displayed above, you cannot add up the categories to get a total population. For assigning a score, this is the same as reporting in two separate tables that are each scored independently:
 
 #### Table 14: Third Scenario Example Continued
 
-| Race Group | Number of Events |
-| ---------- | ---------------- |
-| Black      | 300              |
-| White      | 1,200            |
-| Asian      | 100              |
-| _Total_    | _1,600_          |
+<table><thead><tr><th width="699.7999877929688" valign="middle">Race Group</th><th align="center" valign="middle">Number of Events</th></tr></thead><tbody><tr><td valign="middle">Black</td><td align="center" valign="middle">300</td></tr><tr><td valign="middle">White</td><td align="center" valign="middle">1,200</td></tr><tr><td valign="middle">Asian</td><td align="center" valign="middle">100</td></tr><tr><td valign="middle"><em>Total</em></td><td align="center" valign="middle"><em>1,600</em></td></tr></tbody></table>
 
 #### Table 15: Third Scenario Example Continued
 
-| Ethnicity    | Number of Events |
-| ------------ | ---------------- |
-| Hispanic     | 255              |
-| Non-Hispanic | 1,345            |
-| _Total_      | _1,600_          |
+<table><thead><tr><th width="700.6000366210938" valign="middle">Ethnicity</th><th align="center" valign="middle">Number of Events</th></tr></thead><tbody><tr><td valign="middle">Hispanic</td><td align="center" valign="middle">255</td></tr><tr><td valign="middle">Non-Hispanic</td><td align="center" valign="middle">1,345</td></tr><tr><td valign="middle"><em>Total</em></td><td align="center" valign="middle"><em>1,600</em></td></tr></tbody></table>
 
 Also, you would need to run the scoring metric separately for your Race-only and Ethnicity-only datasets. Like the First Scenario, you can replace Ethnicity with Sex and it still makes sense—you now have two tables, one displaying Race and the other Sex, with no interaction between the two—which lessens the Small Cell Size problem.
 
@@ -209,7 +195,7 @@ When identifying the score for a variable, use the highest scoring criteria. For
 
 #### Table 16: Language Spoken Scoring
 
-<table><thead><tr><th>Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>English, Spanish, Other Language</td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Language with Population 300,001 - 4,000,000</p><p><em>e.g., Chinese, Tagalog, Vietnamese, Korean</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Language with Population 100,001 - 300,000</p><p><em>e.g., Persian, Hindi, Arabic, Russian, Japanese, French</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Language with Population 20,001 - 100,000</p><p><em>e.g., German, Portuguese, Hmong, Hebrew, Bengali, Polish</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Language with Population ≤20,000</p><p><em>e.g., Haitian, Navajo</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
+<table><thead><tr><th width="699.7999877929688">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td>English, Spanish, Other Language</td><td align="center" valign="middle">+1</td></tr><tr><td><p>Detailed Language with Population 300,001 - 4,000,000</p><p><em>e.g., Chinese, Tagalog, Vietnamese, Korean</em></p></td><td align="center" valign="middle">+2</td></tr><tr><td><p>Detailed Language with Population 100,001 - 300,000</p><p><em>e.g., Persian, Hindi, Arabic, Russian, Japanese, French</em></p></td><td align="center" valign="middle">+3</td></tr><tr><td><p>Detailed Language with Population 20,001 - 100,000</p><p><em>e.g., German, Portuguese, Hmong, Hebrew, Bengali, Polish</em></p></td><td align="center" valign="middle">+5</td></tr><tr><td><p>Detailed Language with Population ≤20,000</p><p><em>e.g., Haitian, Navajo</em></p></td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 Language spoken is captured in a variety of data systems to support individuals in receiving services in the language they speak. Language Spoken is not collected as part of the decennial Census, so the following estimates of language spoken at home are used to assess the population sizes of various languages. These estimates of language spoken are taken from the 2017-2021 5-year American Community Survey (ACS). These Statewide population estimates of language spoken along with Table 2 are used to determine the groupings for the scoring above.&#x20;
 
@@ -229,13 +215,10 @@ There are no census estimates for Sexual Orientation and Gender Identity (SOGI).
 
 AskCHIS 2021 population estimates for SOGI are as follows (Gender Identity population estimate is from pooled years 2019-2021 as per CHIS recommendations):
 
-·         Gay/lesbian: 1.2 mil
-
-·         Bisexual: 1.5 mil
-
-·         Asexual: 400K
-
-·         Transgender or non-conforming: 279K
+* Gay/lesbian: 1.2 mil
+* Bisexual: 1.5 mil
+* Asexual: 400K
+* Transgender or non-conforming: 279K
 
 Based on the risk scores for age and race/ethnicity, Sexual Orientation data aggregated to the above CHIS categories would be assigned a +2 score as the smallest group (Asexual) falls within the "300,001 – 4 million" risk category. Gender Identity data aggregated to the above CHIS categories would be assigned a +3 score as "Transgender or non-confirming" falls within the "100,001 – 300,000" risk category.&#x20;
 
@@ -245,7 +228,7 @@ The option for a variable limited to "Male or Female" has been kept for datasets
 
 Table 18: Sex, Sexual Orientation, and Gender Identity Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">Sex</td><td valign="top">Male or Female</td><td valign="top">+1</td></tr><tr><td valign="top">Sexual Orientation</td><td valign="top">Straight, Gay or Lesbian, Bisexual, Asexual</td><td valign="top">+2</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, Transgender or Non-Binary</td><td valign="top">+3</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, disaggregation of Transgender/ Non-Binary category into more specific identities (e.g. Genderqueer, Two-Spirit, etc.)</td><td valign="top">+5</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Variable</th><th valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Sex</td><td valign="top">Male or Female</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Sexual Orientation</td><td valign="top">Straight, Gay or Lesbian, Bisexual, Asexual</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, Transgender or Non-Binary</td><td align="center" valign="middle">+3</td></tr><tr><td valign="top">Gender Identity</td><td valign="top">Man/Male, Woman/Female, disaggregation of Transgender/ Non-Binary category into more specific identities (e.g. Genderqueer, Two-Spirit, etc.)</td><td align="center" valign="middle">+5</td></tr></tbody></table>
 
 **Distinction Between Sexual Orientation and Men Having Sex with Men (MSM) Activity**
 
@@ -265,49 +248,42 @@ AB 1163 (Chapter 832, Statutes of 2023) added the requirement to collect interse
 
 Table 19: Intersex Scoring
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Variable</td><td valign="top">Characteristic</td><td valign="top">Score</td></tr><tr><td valign="top">Intersex (asked as separate question)</td><td valign="top">Yes or No</td><td valign="top">+2</td></tr><tr><td valign="top">Intersex (combined with Sex question)</td><td valign="top">Male, Female, Intersex</td><td valign="top">+2</td></tr></tbody></table>
+<table><thead><tr><th valign="middle">Variable</th><th align="center" valign="middle">Characteristic</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Intersex (asked as separate question)</td><td align="center" valign="middle">Yes or No</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Intersex (combined with Sex question)</td><td align="center" valign="middle">Male, Female, Intersex</td><td align="center" valign="middle">+2</td></tr></tbody></table>
 
 #### 1.2.8 Immigration Status
 
 Table 20: Immigration Status Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td valign="top">N/A</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="703" valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td valign="top">N/A</td></tr></tbody></table>
 
 In this version of DDG, immigration status is added as a new variable because immigration status in the summarized health care data may increase the re-identification risk of individuals due to increased granularity of the aggregated data. This additional information has the potential to make it easier to narrow down and identify individuals, especially if the dataset is combined with other publicly available sources. Immigration status often intersects with other demographic factors such as age, gender, ethnicity, and location. When combined, these factors can create a more distinct profile for certain individuals.
 
 The U.S. Census Bureau\[11] collects citizenship data via the American Community Survey (ACS) and categorizes the population as either “U.S. citizen” or “foreign born”. The “foreign born” population is then categorized further as “natural citizen” or “noncitizen”. The noncitizen status is disaggregated into the following statuses:
 
-·         Lawful Permanent Resident
-
-·         Nonimmigrant
-
-o   Temporary Workers
-
-o   Students
-
-o   Exchange Visitors
-
-o   Refugees and Asylees
-
-·         Undocumented Immigrant
+* Lawful Permanent Resident
+* Nonimmigrant
+  * Temporary Workers
+  * Students
+  * Exchange Visitors
+  * Refugees and Asylees
+* Undocumented Immigrant
 
 Based on reporting by the U.S. Census Bureau and the U.S. Department of Homeland Security, population estimates for different characteristics of immigration status are as below.\[12]<sup>,\[13]</sup> However, the population estimates for undocumented immigrants are based on population statistics reported by the Center for Migration Studies.\[14]
 
-Table 21: Population Estimates Related to Immigration Status
+#### Table 21: Population Estimates Related to Immigration Status
 
-| Immigration Status                | Population Estimate |
-| --------------------------------- | ------------------- |
-| U.S. Citizen                      | \~28.8 million      |
-| Foreign Born                      | \~10.5 million      |
-| ·         Naturalized Citizens    | \~5.7 million       |
-| ·         Noncitizens             | \~4.7 million       |
-| o      Lawful Permanent Residents | \~2.2 million       |
-| o      Nonimmigrants              | \~560,000           |
-| §    Temporary Workers            | \~300,000           |
-| §    Students                     | \~210,000           |
-| §    Exchange Visitors            | \~50,000            |
-| §    Refugees/Asylees             | <10,000             |
-| o      Undocumented Immigrants    | 2,251,756\[15]      |
+| U.S. Citizen                      | \~28.8 million |
+| --------------------------------- | -------------- |
+| Foreign Born                      | \~10.5 million |
+| ·         Naturalized Citizens    | \~5.7 million  |
+| ·         Noncitizens             | \~4.7 million  |
+| o      Lawful Permanent Residents | \~2.2 million  |
+| o      Nonimmigrants              | \~560,000      |
+| §    Temporary Workers            | \~300,000      |
+| §    Students                     | \~210,000      |
+| §    Exchange Visitors            | \~50,000       |
+| §    Refugees/Asylees             | <10,000        |
+| o      Undocumented Immigrants    | 2,251,756\[15] |
 
 Immigration Status scores are prepared based on the U.S. Census Bureau\[16] population data collected on U.S. citizen and foreign-born populations (Table 21 rows for Naturalized Citizens and Noncitizens). Disaggregated immigration status population sizes are prepared based on the Department of Homeland Security Population Estimates for lawful permanent residents\[17] (Table 21 row for Lawful Permanent Residents) and nonimmigrants\[18] (Table 21 rows for Nonimmigrants, Temporary Workers, Students, and Exchange Visitors), including Refugees/Asylees\[19]. The scores are then harmonized with the risk scores assigned to the latest population size thresholds, Table 2. Immigration statuses for disaggregated statuses, and smaller corresponding population sizes are added to the high-risk populations due to the sensitive nature of these populations and an increased risk for identification.
 
@@ -327,7 +303,7 @@ See Appendix I for more details on scoring scenarios involving the overlap of In
 
 3\.    If the number of members enrolled in Insurance Coverage is less than the population of the geographic subdivision, then use the Insurance Table. If the number of members enrolled in Insurance Coverage is greater than or equal to the population of the geographic subdivision, then use the Geography Table.
 
-#### 1.2.10 Expected Payer/ Public Assistance and Means-Tested Programs
+### 16.2.10 Expected Payer/ Public Assistance and Means-Tested Programs
 
 Expected Payer is a factor that may be a proxy for other identifiers. For example, employment-based payers may provide information about a person’s job status. Other types of payers, such as Medicaid, may provide information about a person’s income. There is demographic data that indicates populations by income level in the public domain as published by the U.S. Census Bureau\[25], as well as public information related to various jobs and employment status through labor agencies.\[26] \[27]Given the opportunities to use information about the payer in combination with other public information, this variable is given a risk score.
 
@@ -335,7 +311,7 @@ It's important to be aware of the potential risks associated with this data and 
 
 Table 23: Expected Payer/ Public Assistance and Means-Tested Programs Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Size of program enrollment</td><td valign="top">Score</td></tr><tr><td valign="top">Enrollment > 10,000,000 people</td><td valign="top">+0</td></tr><tr><td valign="top">Enrollment > 4,000,001 – 10,000,000</td><td valign="top">+1</td></tr><tr><td valign="top">Enrollment 300,001 – 4,000,000</td><td valign="top">+2</td></tr><tr><td valign="top">Enrollment 100,001 – 300,000</td><td valign="top">+3</td></tr><tr><td valign="top">Enrollment 20,001 – 100,000</td><td valign="top">+5</td></tr><tr><td valign="top">Enrollment ≤20,000</td><td valign="top">+7</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="middle">Size of program enrollment</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Enrollment > 10,000,000 people</td><td align="center" valign="middle">+0</td></tr><tr><td valign="middle">Enrollment > 4,000,001 – 10,000,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Enrollment 300,001 – 4,000,000</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Enrollment 100,001 – 300,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Enrollment 20,001 – 100,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Enrollment ≤20,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 It is important to note that Medi-Cal is a Means-Tested Program, and overall enrollment is managed at the statewide level. In 2024, approximately 14 million Californians were enrolled in the Medi-Cal program, therefore, the Medi-Cal category has been assigned a +0 DDG score. Also, more than 6 million California residents had Medicare coverage, therefore, the Medicare category has been assigned a +1 DDG score. There are approximately 5.5 million patients captured in the HCAI Health Care Payments Database who have private insurance and thus assigned as +1 score. The uninsured population, who we presume would self-pay seems to be less than 4 million (2,752,067 based on the 2022 5-year American Community Survey estimate for California), has been assigned a +2 score.
 
@@ -343,21 +319,17 @@ In addition to Medi-Cal, CalHHS administers and collects data on a variety of pu
 
 The size of these programs ranges widely; as noted in the previous section, 14 million Californians are enrolled in Medi-Cal. Roughly 5.5 million Californians participated in CalFresh in 2024.\[30] CalWORKs served a little over 900,000 Californians in 2023.\[31] In the Housing Support Program, fewer than 13,000 applications were approved.\[32] Risk scores should be assigned to data related to (or breaking out) participation by program enrollment. To prevent the inadvertent disclosure of an individual’s participation in a means-tested or public assistance program, the following risk scores can be assigned to data that includes information on program participation, based on the size of the program (note, these numbers are derived from Table 2) and Means-Tested Programs, and Geography.
 
-#### 1.2.11 Geography
+### 16.2.11 Geography
 
 If the level of reporting is best described by the geography of the individual/service, use one of the following two tables. Specifically, if the geography of the reporting is based on the residence of the individual, use the “Residence Geography”. If the geography of the reporting is based on the location of service, use the “Service Geography”. Also see Appendix I for details on scoring scenarios involving the overlap of Insurance Coverage, Expected Payer/Public Assistance and Means-Tested Programs, and Geography.
 
-Table 24: Residence Geography Scoring
+#### Table 24: Residence Geography Scoring
 
-<table><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">0</td></tr><tr><td valign="top">Population 100,001 - 250,000</td><td valign="top">+1</td></tr><tr><td valign="top">Population 50,001 - 100,000</td><td valign="top">+3</td></tr><tr><td valign="top">Population 20,001 - 50,000</td><td valign="top">+4</td></tr><tr><td valign="top">Population 4,001- 20,000</td><td valign="top">+5</td></tr><tr><td valign="top">Population ≤ 4,000</td><td valign="top">+7</td></tr></tbody></table>
+<table><thead><tr><th width="701.4000244140625" valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">State or geography with population >2,000,000</td><td align="center" valign="middle">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td align="center" valign="middle">-3</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td align="center" valign="middle">-1</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td align="center" valign="middle">0</td></tr><tr><td valign="top">Population 100,001 - 250,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Population 50,001 - 100,000</td><td align="center" valign="middle">+3</td></tr><tr><td valign="top">Population 20,001 - 50,000</td><td align="center" valign="middle">+4</td></tr><tr><td valign="top">Population 4,001- 20,000</td><td align="center" valign="middle">+5</td></tr><tr><td valign="top">Population ≤ 4,000</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
-<br>
+#### Table 25: Service Geography Scoring
 
-&#x20;
-
-Table 25: Service Geography Scoring
-
-<table><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">State or geography with population >2,000,000</td><td valign="top">-5</td></tr><tr><td valign="top">Population 1,000,001 - 2,000,000</td><td valign="top">-4</td></tr><tr><td valign="top">Population 560,001 - 1,000,000</td><td valign="top">-3</td></tr><tr><td valign="top">Population 250,001 - 560,000</td><td valign="top">-1</td></tr><tr><td valign="top">Population of reporting region 20,001 - 250,000</td><td valign="top">0</td></tr><tr><td valign="top">Population of reporting region ≤20,000</td><td valign="top">+1</td></tr><tr><td valign="top">Address (Street and ZIP)</td><td valign="top">+3</td></tr><tr><td valign="top">Address in rural [33] area</td><td valign="top">+5</td></tr><tr><td valign="top">Address in frontier [34], [35] area</td><td valign="top">+7</td></tr></tbody></table>
+<table><thead><tr><th width="701.4000244140625" valign="middle">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">State or geography with population >2,000,000</td><td align="center" valign="middle">-5</td></tr><tr><td valign="middle">Population 1,000,001 - 2,000,000</td><td align="center" valign="middle">-4</td></tr><tr><td valign="middle">Population 560,001 - 1,000,000</td><td align="center" valign="middle">-3</td></tr><tr><td valign="middle">Population 250,001 - 560,000</td><td align="center" valign="middle">-1</td></tr><tr><td valign="middle">Population of reporting region 20,001 - 250,000</td><td align="center" valign="middle">0</td></tr><tr><td valign="middle">Population of reporting region ≤20,000</td><td align="center" valign="middle">+1</td></tr><tr><td valign="middle">Address (Street and ZIP)</td><td align="center" valign="middle">+3</td></tr><tr><td valign="middle">Address in rural [33] area</td><td align="center" valign="middle">+5</td></tr><tr><td valign="middle">Address in frontier [34], [35] area</td><td align="center" valign="middle">+7</td></tr></tbody></table>
 
 The Geography score, while it may or may not represent the denominator of the table, does provide a reference to the base population about which the reporting is occurring. This will often be reflected in the title of the table if a statewide table. Otherwise, the geography may be represented in the rows or columns. There are two different scoring sets based on whether the geography reporting is based on the residence of the individual to which the information applies or to the service location.
 
@@ -387,7 +359,7 @@ The “0” value for this variable is set at one year as this is the criteria f
 
 #### Table 27: Variable Interactions Scoring
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Characteristics</td><td valign="top">Score</td></tr><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage</td><td valign="top">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td valign="top">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td valign="top">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td valign="top">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td valign="top">+4</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Characteristics</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="top">Only Events (minimum of 5), Time, and Population (Residence/Service Geography or Insurance Coverage</td><td align="center" valign="middle">-5</td></tr><tr><td valign="top">Only Events (minimum of 3), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">-3</td></tr><tr><td valign="top">Only Events (no minimum), Time, and Population (Residence/Service Geo. or Insurance Coverage)</td><td align="center" valign="middle">0</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 1 variable</td><td align="center" valign="middle">+1</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 2 variables</td><td align="center" valign="middle">+2</td></tr><tr><td valign="top">Events, Time, and Population (Residence/Service Geo. or Insurance Coverage) + 3 variables</td><td align="center" valign="middle">+4</td></tr></tbody></table>
 
 These criteria specifically address the interaction of the variables in a given data presentation and require the analyst to identify dependent as opposed to independent variables. These criteria are used with respect to dependent variables. This is demonstrated in the two tables below.
 
