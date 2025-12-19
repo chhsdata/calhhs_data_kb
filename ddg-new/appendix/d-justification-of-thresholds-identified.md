@@ -209,7 +209,7 @@ As noted for Race and Ethnicity demographics, language spoken demographics may v
 
 If more specificity for Language Spoken is being requested with respect to reporting on the other languages in the table above, the request will need to be reviewed on a case-by-case basis. The additional review is necessary given the variability of language spoken by different populations or geographies and the consideration for potential increased risk of identification.&#x20;
 
-#### 1.2.6 Sexual Orientation and Gender Identity
+### 16.2.6 Sexual Orientation and Gender Identity
 
 There are no census estimates for Sexual Orientation and Gender Identity (SOGI). Instead, we have based our risk scores on the California Health Interview Survey (CHIS) population estimates, as CHIS is the largest California survey and has publicly reproducible results via [AskCHIS](https://ask.chis.ucla.edu/ask/SitePages/AskChisLogin.aspx) and harmonized with the risk scores assigned to the age and race/ethnicity category population thresholds.
 
@@ -242,7 +242,7 @@ This incident demonstrates the possibility that if an individual is known to use
 
 _The release of any statistic derived from a confidential source always carries some incremental risk of disclosure of identifiable information._
 
-#### 1.2.7 Intersex
+### 16.2.7 Intersex
 
 AB 1163 (Chapter 832, Statutes of 2023) added the requirement to collect intersex status in Government Code 8310.8 when collecting “ancestry or ethnic origins of Californians.” There are no California estimates of the intersex population, but the national estimate is 1.7% of the total population. That would be a population of \~595K in California, which would be a +2 risk score as per the risk score table. The question can be asked as part of the Sex question or as its own question.
 
@@ -250,11 +250,11 @@ Table 19: Intersex Scoring
 
 <table><thead><tr><th valign="middle">Variable</th><th align="center" valign="middle">Characteristic</th><th align="center" valign="middle">Score</th></tr></thead><tbody><tr><td valign="middle">Intersex (asked as separate question)</td><td align="center" valign="middle">Yes or No</td><td align="center" valign="middle">+2</td></tr><tr><td valign="middle">Intersex (combined with Sex question)</td><td align="center" valign="middle">Male, Female, Intersex</td><td align="center" valign="middle">+2</td></tr></tbody></table>
 
-#### 1.2.8 Immigration Status
+### 16.2.8 Immigration Status
 
-Table 20: Immigration Status Scoring
+#### Table 20: Immigration Status Scoring
 
-<table data-header-hidden><thead><tr><th width="703" valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td valign="top">N/A</td></tr></tbody></table>
+<table><thead><tr><th width="703" valign="top">Characteristics</th><th valign="top">Score</th></tr></thead><tbody><tr><td valign="top">U.S. Citizen, Foreign Born (combines Naturalized Citizen and Noncitizen)</td><td valign="top">+1</td></tr><tr><td valign="top">U.S. Citizen, Naturalized Citizen, Noncitizen</td><td valign="top">+1</td></tr><tr><td valign="top">Detailed Immigration Status with Disaggregation of Noncitizen Statuses – Refer to High-Risk Populations (Section 5.6.2)</td><td valign="top">N/A</td></tr></tbody></table>
 
 In this version of DDG, immigration status is added as a new variable because immigration status in the summarized health care data may increase the re-identification risk of individuals due to increased granularity of the aggregated data. This additional information has the potential to make it easier to narrow down and identify individuals, especially if the dataset is combined with other publicly available sources. Immigration status often intersects with other demographic factors such as age, gender, ethnicity, and location. When combined, these factors can create a more distinct profile for certain individuals.
 
@@ -272,18 +272,18 @@ Based on reporting by the U.S. Census Bureau and the U.S. Department of Homeland
 
 #### Table 21: Population Estimates Related to Immigration Status
 
-| U.S. Citizen                      | \~28.8 million |
-| --------------------------------- | -------------- |
-| Foreign Born                      | \~10.5 million |
-| ·         Naturalized Citizens    | \~5.7 million  |
-| ·         Noncitizens             | \~4.7 million  |
-| o      Lawful Permanent Residents | \~2.2 million  |
-| o      Nonimmigrants              | \~560,000      |
-| §    Temporary Workers            | \~300,000      |
-| §    Students                     | \~210,000      |
-| §    Exchange Visitors            | \~50,000       |
-| §    Refugees/Asylees             | <10,000        |
-| o      Undocumented Immigrants    | 2,251,756\[15] |
+| U.S. Citizen                                 | \~28.8 million |
+| -------------------------------------------- | -------------- |
+| Foreign Born                                 | \~10.5 million |
+| <ul><li>Naturalized Citizens</li></ul>       | \~5.7 million  |
+| <ul><li>Noncitizens</li></ul>                | \~4.7 million  |
+| <ul><li>Lawful Permanent Residents</li></ul> | \~2.2 million  |
+| <ul><li>Nonimmigrants</li></ul>              | \~560,000      |
+| <ul><li>Temporary Workers</li></ul>          | \~300,000      |
+| <ul><li>Students</li></ul>                   | \~210,000      |
+| <ul><li>Exchange Visitors</li></ul>          | \~50,000       |
+| <ul><li>Refugees/Asylees</li></ul>           | <10,000        |
+| <ul><li>Undocumented Immigrants</li></ul>    | 2,251,756\[15] |
 
 Immigration Status scores are prepared based on the U.S. Census Bureau\[16] population data collected on U.S. citizen and foreign-born populations (Table 21 rows for Naturalized Citizens and Noncitizens). Disaggregated immigration status population sizes are prepared based on the Department of Homeland Security Population Estimates for lawful permanent residents\[17] (Table 21 row for Lawful Permanent Residents) and nonimmigrants\[18] (Table 21 rows for Nonimmigrants, Temporary Workers, Students, and Exchange Visitors), including Refugees/Asylees\[19]. The scores are then harmonized with the risk scores assigned to the latest population size thresholds, Table 2. Immigration statuses for disaggregated statuses, and smaller corresponding population sizes are added to the high-risk populations due to the sensitive nature of these populations and an increased risk for identification.
 
