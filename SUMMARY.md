@@ -53,10 +53,10 @@
   * [16. Appendix D: Justification of Thresholds Identified](ddg-new/appendix/d-justification-of-thresholds-identified.md)
   * [17. Appendix E: More About Statistical Masking Methods](ddg-new/appendix/e.-more-about-statistical-masking-methods.md)
   * [18. Appendix F: Publicly Available Data](ddg-new/appendix/f-publicly-available-data.md)
-  * [G: State and County Population Projections](ddg-new/appendix/g-state-and-county-population-projections.md)
-  * [H: Survey and Suppression Rules](ddg-new/appendix/h-survey-and-suppression-rules.md)
-  * [I: Scoring Scenarios for Public Health Care Coverage](ddg-new/appendix/i-scoring-scenarios-for-public-health-care-coverage.md)
-  * [J: CalHHS DDG Template Development and Revision History](ddg-new/appendix/j-calhhs-ddg-template-development-and-revision-history.md)
+  * [19. Appendix G: State and County Population Projections](ddg-2.0/appendix/19.-appendix-g-state-and-county-population-projections.md)
+  * [20. Appendix H: Survey and Suppression Rules](ddg-2.0/appendix/20.-appendix-h-survey-and-suppression-rules.md)
+  * [21. Appendix I: Scoring Scenarios for Public Health Care Coverage](ddg-2.0/appendix/21.-appendix-i-scoring-scenarios-for-public-health-care-coverage.md)
+  * [22. Appendix J: CalHHS DDG Template Development and Revision History](ddg-2.0/appendix/22.-appendix-j-calhhs-ddg-template-development-and-revision-history.md)
 
 ## Data De-Identification <a href="#ddg" id="ddg"></a>
 
