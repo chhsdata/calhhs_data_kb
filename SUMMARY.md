@@ -25,7 +25,11 @@
   * [Evaluating Outcomes & Impacts](sharing-guide/business-case-creation/evaluating-outcomes-and-impacts.md)
   * [Communicating Your Results](sharing-guide/business-case-creation/communicating-your-results.md)
 
-## Data De-Identification Guidelines (v2.0 Template) <a href="#ddg-2.0" id="ddg-2.0"></a>
+## HIDDEN STUFF GROUP <a href="#hidden" id="hidden"></a>
+
+* [Department Specific DDG Links](hidden/department-specific-ddg-links.md)
+
+## Data De-Identification Guidelines (Edition 2.0 Template) <a href="#ddg-2.0" id="ddg-2.0"></a>
 
 * [Revision History](ddg-new/data-de-identification-guidelines.md)
 * [1. Purpose](ddg-new/1.-purpose.md)
@@ -50,7 +54,23 @@
   * [13. Appendix A: Legal Framework](ddg-new/appendix/a.-legal-framework.md)
   * [14. Appendix B: The HIPAA De-Identification Standard](ddg-new/appendix/b.-the-hipaa-de-identification-standard.md)
   * [15. Appendix B: June 2022 HIPAA Reassessment Results](ddg-new/appendix/c-june-2022-hipaa-reassessment-results.md)
-  * [16. Appendix D: Justification of Thresholds Identified](ddg-new/appendix/d-justification-of-thresholds-identified.md)
+  * [16. Appendix D: Justification of Thresholds Identified](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/README.md)
+    * [16.1 Establishing Minimum Numerator and Denominator](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.1-establishing-minimum-numerator-and-denominator.md)
+    * [16.2 Assessing Potential Risk – Publication Scoring Criteria](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/README.md)
+      * [16.2.1 Events](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.1-events.md)
+      * [16.2.2 Generalized Scoring for Personal Characteristics](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.2-generalized-scoring-for-personal-characteristics.md)
+      * [16.2.3 Age Range](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.3-age-range.md)
+      * [16.2.4 Race Group and Ethnicity](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.4-race-group-and-ethnicity.md)
+      * [16.2.5 Language Spoken](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.5-language-spoken.md)
+      * [16.2.6 Sexual Orientation and Gender Identity](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.6-sexual-orientation-and-gender-identity.md)
+      * [16.2.7 Intersex](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.7-intersex.md)
+      * [16.2.8 Immigration Status](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.8-immigration-status.md)
+      * [16.2.9 Insurance Coverage](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.9-insurance-coverage.md)
+      * [16.2.10 Expected Payer/ Public Assistance and Means-Tested Programs](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.10-expected-payer-public-assistance-and-means-tested-programs.md)
+      * [16.2.11 Geography](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.11-geography.md)
+      * [16.2.12 Time – Reporting Period](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.12-time-reporting-period.md)
+      * [16.2.13 Variable Interactions](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.13-variable-interactions.md)
+      * [16.2.14 Other Variables](ddg-2.0/appendix/16.-appendix-d-justification-of-thresholds-identified/16.2-assessing-potential-risk-publication-scoring-criteria/16.2.14-other-variables.md)
   * [17. Appendix E: More About Statistical Masking Methods](ddg-new/appendix/e.-more-about-statistical-masking-methods.md)
   * [18. Appendix F: Publicly Available Data](ddg-new/appendix/f-publicly-available-data.md)
   * [19. Appendix G: State and County Population Projections](ddg-2.0/appendix/19.-appendix-g-state-and-county-population-projections.md)

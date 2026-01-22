@@ -1,0 +1,3 @@
+# 16. Appendix D: Justification of Thresholds Identified
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h2><a href="16.1-establishing-minimum-numerator-and-denominator.md">16.1</a></h2><h2><a href="16.1-establishing-minimum-numerator-and-denominator.md">Establishing Minimum Numerator and Denominator</a></h2></td></tr><tr><td align="center"><h2><a href="16.2-assessing-potential-risk-publication-scoring-criteria/">16.2</a></h2><h2><a href="16.2-assessing-potential-risk-publication-scoring-criteria/">Assessing Potential Risk – Publication Scoring Criteria</a></h2></td></tr></tbody></table>
