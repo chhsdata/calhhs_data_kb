@@ -1,15 +1,20 @@
 ---
-description: Revision history for CalHHS Agency De-Identification Guidelines
+description: >-
+  California Health & Human Services Agency Template Edition 2.0-Data
+  De-Identification Guidelines (DDG) October 24, 2025
 icon: rectangle-vertical-history
 ---
 
 # Revision History
 
-### Current Version: 1.0 September 23, 2016
+{% hint style="warning" %}
+See individual department DDGs for more information about the revision history of their versions, including effective date, author, and a brief description of changes.
+{% endhint %}
 
-<table data-full-width="false"><thead><tr><th width="90" align="center">Version</th><th width="116" align="center">Date</th><th width="117" align="center">Author</th><th width="251" align="center">Brief Description of Changes</th><th align="center">Web Only Changes</th></tr></thead><tbody><tr><td align="center">1.0</td><td align="center">9/23/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on direction from the CHHS Undersecretary. Approved as Version 1.0 for implementation.</td><td align="center">2/1/2025: Updated document web formatting, and links where appropriate.</td></tr><tr><td align="center">0.10</td><td align="center">7/11/2016</td><td align="center">L. Scott</td><td align="center">Formatting and citations edits to be consistent with previous version 0.8</td><td align="center"></td></tr><tr><td align="center">0.9</td><td align="center">7/5/2016</td><td align="center">P. Cervinka</td><td align="center">Revisions based on clarification from the CHHS Governance Advisory Council</td><td align="center"></td></tr><tr><td align="center">0.8</td><td align="center">6/17/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on direction from the CHHS Governance Advisory Council and input from the CHHS Risk Management Committee</td><td align="center"></td></tr><tr><td align="center">0.7</td><td align="center">5/3/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on feedback from and discussion with the Data Subcommittee</td><td align="center"></td></tr><tr><td align="center">0.6</td><td align="center">4/4/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on feedback from and discussion with the Data Subcommittee</td><td align="center"></td></tr><tr><td align="center">0.5</td><td align="center">3/18/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on comments from CDPH, CDSS, OSHPD, DHCS.</td><td align="center"></td></tr><tr><td align="center">0.4</td><td align="center">1/22/2016</td><td align="center">L. Scott</td><td align="center">Revisions based on recommendations from:</td><td align="center"></td></tr><tr><td align="center">0.3</td><td align="center">8/5/2015</td><td align="center">L. Scott</td><td align="center">Additions and changes based on feedback from all departments with specific written comments from CDPH, OSHPD, DCSS, CDSS, MHSOAC.</td><td align="center"></td></tr><tr><td align="center">0.2</td><td align="center">6/29/2015</td><td align="center">L. Scott</td><td align="center">Additions made based on feedback:</td><td align="center"></td></tr><tr><td align="center">0.1</td><td align="center">5/26/2015</td><td align="center">L. Scott</td><td align="center">Initial draft for review which was based on the DHCS PAR-DBR Guidelines dated 8/25/14 and conversations at the CHHS Data De- identification Workgroup meetings.</td><td align="center"></td></tr></tbody></table>
+## DDG Template Edition History Summary
 
-&#x20;
+{% hint style="info" %}
+See [Appendix J](appendix/22.-appendix-j-calhhs-ddg-template-development-and-revision-history.md) for the DDG Template’s full development and revision history.
+{% endhint %}
 
-
-
+<table><thead><tr><th width="122" align="center" valign="middle">Edition</th><th width="143" align="center" valign="middle">Date</th><th width="194" align="center" valign="middle">Primary Author</th><th align="center" valign="middle">Brief Description of Changes</th></tr></thead><tbody><tr><td align="center" valign="middle">1.0</td><td align="center" valign="middle">9/23/16</td><td align="center" valign="middle">L. Scott, MD, MPH</td><td align="center" valign="middle">The First Edition was approved by CalHHS for implementation.</td></tr><tr><td align="center" valign="middle">2.0</td><td align="center" valign="middle">10/24/25</td><td align="center" valign="middle">D. Aggarwal, PhD</td><td align="center" valign="middle">The Second Edition was approved by CalHHS for implementation.</td></tr></tbody></table>
