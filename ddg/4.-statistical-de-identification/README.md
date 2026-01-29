@@ -31,7 +31,7 @@ Figure 3 shows an example table with the numerator highlighted. The Cells in the
 
 Figure 4 shows another type of table that contains rates. In this case, the numerator is the number of Salmonellosis cases for a sample of California Local Health Jurisdictions in 2021. The table also includes the rate of Salmonellosis for these jurisdictions. In order to calculate the rate, the population size of each jurisdiction is required, but is not shown directly in this table. The population denominator is an important element for data de-identification.
 
-#### Figure 4: Illustration of Numerators and Denominators in a Table of Rates
+#### Figure 4: Illustration of Numerators and Denominators in a Table of Rates, [Salmonellosis Cases by Selected County, 2021](#user-content-fn-2)[^2]
 
 <figure><img src="../../.gitbook/assets/f4-numerators-denominators-table-of-rates.png" alt=""><figcaption><p>Figure 4: Illustration of Numerators and Denominators in a Table of Rates</p></figcaption></figure>
 
@@ -42,3 +42,7 @@ Figure 4 shows another type of table that contains rates. In this case, the nume
 <figure><img src="../../.gitbook/assets/f5-assessment-for-public-release.png" alt=""><figcaption><p>Figure 5: Data Assessment for Public Release Procedure</p></figcaption></figure>
 
 [^1]: Data was extracted from the _Medi-Cal Long-Term Services and Supports Data_ files for 2021 and 2022, CalHHS Open Data Portal: [https://data.chhs.ca.gov/dataset/long-term-services-and-supports](https://data.chhs.ca.gov/dataset/long-term-services-and-supports)
+
+[^2]: Data was sourced for the first six counties listed alphabetically within the “Salmonellosis, Cases and Rates by Health Jurisdiction” table in _CDPH Infectious Diseases Branch (IDB) Yearly Summaries of Selected Communicable Diseases in California, 2013-2021_,&#x20;
+
+    [https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/YearlySummariesofSelectedCommDiseasesinCA2013-2021.pdf](https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/YearlySummariesofSelectedCommDiseasesinCA2013-2021.pdf)

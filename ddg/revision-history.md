@@ -1,7 +1,7 @@
 ---
 description: >-
-  California Health & Human Services Agency Template Edition 2.0-Data
-  De-Identification Guidelines (DDG) October 24, 2025
+  California Health & Human Services Agency Data De-Identification Guidelines
+  (DDG)Template Edition 2.0 Template - October 24, 2025
 icon: rectangle-vertical-history
 ---
 
